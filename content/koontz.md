@@ -4,7 +4,7 @@ subtitle:
 layout: essay
 order: 16
 contributor:
-    -id: rkoontz
+  - id: rkoontz
 ---
 
 Although what would become the Museum of Fine Arts, Houston (MFAH), was founded early in the twentieth century and found a permanent home in a neoclassical building by 1924, the MFAH was not early to the collecting or display of ancient American art. The museum’s initial relationship with that art began in earnest in the early 1960s, under the guidance of the recently appointed director of the museum, James Johnson Sweeney (1900–1986; fig. 1). Although central to the creation of an ancient American collection, Sweeney was not a scholar of the ancient Americas but a seasoned curator of modern art who had amassed a significant reputation in that area. Well before his arrival in Houston, Sweeney was committed to a view of non-Western art that highlighted that art’s utility to the contemporary project of constructing a modernist visual vocabulary. The initial impulse to collect and exhibit seriously in this area was shaped to some extent by Sweeney’s modernist commitments, certainly, but it was also as a way to garner national attention for the museum as the decade of the 1960s opened and Sweeney arrived from New York. These institutional goals drove the initial collecting of ancient American art as much or more than any scholarly concerns such as wide coverage of ancient American regional traditions or building deep collections in specific areas.

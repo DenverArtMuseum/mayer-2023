@@ -4,7 +4,7 @@ subtitle:
 layout: essay
 order: 10
 contributor:
-    -id: jpillsbury
+  - id: jpillsbury
 ---
 
 > “Tomorrow I must see you—somewhere where we can be alone. . . .”

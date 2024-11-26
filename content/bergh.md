@@ -4,7 +4,7 @@ subtitle: Collecting the Ancient Americas at the Cleveland Museum of Art
 layout: essay
 order: 13
 contributor:
-    -id: sbergh
+  - id: sbergh
 ---
 
 ## An Early Resolution: Frederic Whiting (1920–1930)

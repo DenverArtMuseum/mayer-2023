@@ -13,7 +13,7 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: Collecting the Other Americas
+title: "Collecting the Other Americas"
 subtitle: Ancient Americas Collections in American Art Museums
 reading_line:
 short_title:
@@ -116,6 +116,7 @@ contributor:
     title: Andrew W. Mellon Curator and Chair of the Arts of the Americas   
     affiliation: Brooklyn Museum
     bio: "Nancy B. Rosoff is Andrew W. Mellon Curator and Chair of the Arts of the Americas at the Brooklyn Museum."
+
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------

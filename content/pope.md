@@ -1,10 +1,10 @@
 ---
 title: Art Not Artifact
-subtitle: CThe Aesthetic Recognition of Ancient and Indigenous American Works at the Art Institute of Chicago
+subtitle: The Aesthetic Recognition of Ancient and Indigenous American Works at the Art Institute of Chicago
 layout: essay
 order: 14
 contributor:
-    -id: epope
+  - id: epope
 ---
 
 The Art Institute of Chicago’s building is a remnant of Chicago’s 1893 World’s Columbian Exposition, which celebrated the 400th anniversary of Christopher Columbus’s voyage to the Americas. Columbus’s arrival in the “New World” was framed as a decisive moment within an overarching vision of a uniquely American cultural and industrial progress (fig. 1). The organizers sought to reveal the foundation of modern America through the scientific study of its “Native peoples.” The Exposition offered many their first engagement with ancient and Indigenous Americas through archaeology and ethnographic displays, as well as replicas of ancient sculpture and architecture recently discovered in Mexico and Central America (fig. 2).[^1]

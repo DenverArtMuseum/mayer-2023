@@ -3,7 +3,8 @@ title: Ancient American Art in the Gateway to the West
 subtitle: 
 layout: essay
 order: 15
-contributor: mrobb
+contributor: 
+  - id: mrobb
 ---
 
 ## “Central American Antiq.”
