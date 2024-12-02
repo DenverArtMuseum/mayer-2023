@@ -1,0 +1,258 @@
+// ===========================================================================
+// littlefoot.scss
+// -----------------------------------------------------------------------------
+//
+// footnotes from littlefoot.js
+// <span class="littlefoot">
+//   <button class="littlefoot__button"></button>
+//   <aside class="littlefoot__popover"></aside>
+// </span>
+//
+// Print markup:
+// <sup class="footnote-ref littlefoot--print">
+//   <a class="footnote-ref-anchor"></a>
+// </sup>
+//
+// littlefoot uses a bunch of CSS variables for controlling styles. It's best
+// to use these variables as the javascript might refer to them directly.
+//
+
+
+.littlefoot {
+  // Do NOT delete or rename any of these CSS variables
+
+  // Color settings
+  --button-background-color: #{$link-color};
+  --button-text-color: #fff;
+  --button-active-background-color: #{$content-text-color};
+  --button-active-text-color: #fff;
+  --popover-background-color: #f5f5f5;
+  --popover-text-color: #111;
+
+  // Button font, size, and shape
+  --button-border-radius: 50%;
+  --button-font-size: .65em;
+  --button-height: auto;
+  --button-line-height: 1;
+  --button-margin: 0 0.1rem;
+  --button-minwidth: 1.4rem;
+  --button-padding: 0.25rem 0.25rem;
+  --button-transition: background-color 0.25s ease, color 0.25s ease;
+
+  // Popover font, size, and shape
+  --popover-border: thin solid #949494;
+  --popover-border-radius: 0.5rem;
+  --popover-font-family: #{$quire-primary-font};
+  --popover-max-height: 15em;
+  --popover-max-width: 90%;
+  --popover-horizontal-padding: 1.4rem;
+  --popover-vertical-padding: 0.6rem;
+  --popover-shadow: 0 0 .5rem rgba(0, 0, 0, .302);
+  --popover-scroll-indicator-color: #3f3f3f;
+  --popover-tooltip-size: 0.5rem;
+  --popover-width: 22em;
+
+  // Popover position and transition
+  --popover-bottom-offset: 2em;
+  --popover-top-offset: 1.4em;
+  --popover-transform-origin: 50% 0;
+  --popover-transform: scale(0.1) translateZ(0);
+  --popover-active-transform: scale(1) translateZ(0);
+  --popover-transition: opacity 0.25s ease, transform 0.25s ease;
+  --popover-zindex: 8; // Should rarely, if ever, need to edit
+
+  position: relative
+}
+
+.quire-page__content .container .content .littlefoot {
+  // prevent footnote button from ending up on separate line from preceding text
+  unicode-bidi: isolate;
+  white-space: nowrap;
+
+  .littlefoot__wrapper {
+    white-space: wrap;
+  }
+}
+
+.littlefoot__button {
+  background-color: var(--button-background-color);
+  border: 0;
+  border: var(--button-border, 0);
+  border-radius: var(--button-border-radius);
+  color: var(--button-text-color);
+  cursor: pointer;
+  display: inline-block;
+  font-size: var(--button-font-size, 12px);
+  font-size: var(--button-font-size, .75rem);
+  font-weight: var(--button-font-weight, initial);
+  height: var(--button-height);
+  line-height: var(--button-line-height);
+  margin: var(--button-margin);
+  min-width: var(--button-minwidth);
+  padding: var(--button-padding);
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  transition: var(--button-transition);
+  vertical-align: super;
+  white-space: nowrap;
+}
+
+.littlefoot__button.is-active,
+.littlefoot__button:active,
+.littlefoot__button:focus,
+.littlefoot__button:hover {
+  background-color: var(--button-active-background-color);
+  color: var(--button-active-text-color)
+}
+
+.littlefoot__button svg {
+  float: left;
+  height: 4.8px;
+  height: .3rem
+}
+
+.littlefoot__popover {
+  border: var(--popover-border);
+  border-radius: var(--popover-border-radius);
+  box-shadow: var(--popover-shadow);
+  margin: calc(var(--popover-tooltip-size) + var(--button-height)) 0;
+  max-width: var(--popover-max-width, 90%);
+  position: absolute;
+  top: var(--popover-top-offset, 1.4em);
+  transform: var(--popover-transform);
+  transform-origin: var(--popover-transform-origin);
+  transition: var(--popover-transition);
+  width: var(--popover-width);
+  z-index: 8;
+  z-index: var(--popover-zindex, 8);
+}
+
+.littlefoot__popover.is-above {
+  bottom: 2em;
+  bottom: var(--popover-bottom-offset, 2em);
+  top: auto
+}
+
+.littlefoot__popover.is-active {
+  transform: var(--popover-active-transform)
+}
+
+.littlefoot__wrapper {
+  position: relative;
+  z-index: 1
+}
+
+.littlefoot__content,
+.littlefoot__wrapper {
+  border-radius: var(--popover-border-radius)
+}
+
+.littlefoot__content {
+  -webkit-overflow-scrolling: touch;
+  background-color: var(--popover-background-color);
+  box-sizing: border-box;
+  color: var(--popover-text-color);
+  font-family: var(--popover-font-family, initial);
+  font-size: var(--popover-font-size, initial);
+  font-style: var(--popover-font-style, initial);
+  font-weight: var(--popover-font-weight, initial);
+  line-height: var(--popover-line-height, normal);
+  max-height: var(--popover-max-height);
+  overflow: auto;
+  padding: var(--popover-vertical-padding) var(--popover-horizontal-padding);
+  width: 100%
+}
+
+.littlefoot__content img {
+  max-width: 100%
+}
+
+.littlefoot__content:focus {
+  outline: none
+}
+
+.is-scrollable {
+  --arrow-x: calc(var(--popover-horizontal-padding)*-1);
+  --arrow-y: calc(var(--popover-vertical-padding)/2)
+}
+
+.is-scrollable .littlefoot__content:after {
+  bottom: 0;
+  color: var(--popover-scroll-indicator-color);
+  content: "\21E3";
+  display: block;
+  left: 0;
+  opacity: 1;
+  position: sticky;
+  text-align: center;
+  transform: translateX(var(--arrow-x)) translateY(var(--arrow-y));
+  transition: var(--popover-transition);
+  width: var(--popover-horizontal-padding)
+}
+
+.is-scrollable.is-fully-scrolled .littlefoot__content:after {
+  opacity: 0
+}
+
+.littlefoot__tooltip {
+  --tooltip-margin: calc(var(--popover-tooltip-size)*-1);
+  background-color: var(--popover-background-color);
+  border: var(--popover-border);
+  box-shadow: var(--popover-shadow);
+  height: calc(var(--popover-tooltip-size)*2);
+  margin-left: var(--tooltip-margin);
+  position: absolute;
+  transform: rotate(45deg);
+  width: calc(var(--popover-tooltip-size)*2)
+}
+
+.is-below .littlefoot__tooltip {
+  top: var(--tooltip-margin)
+}
+
+.is-above .littlefoot__tooltip {
+  bottom: var(--tooltip-margin)
+}
+
+@media (max-width:767.98px) {
+  .littlefoot__popover {
+    border-radius: 0;
+    border-width: 1px 0 0;
+    bottom: 0 !important;
+    left: 0 !important;
+    margin: 0;
+    max-width: 100% !important;
+    position: fixed;
+    right: 0 !important;
+    top: auto !important;
+    transform: translateY(100%);
+    width: 100%
+  }
+
+  .littlefoot__popover.is-active {
+    transform: translateY(0)
+  }
+
+  .littlefoot__wrapper {
+    border-radius: 0;
+    max-width: 100% !important;
+    transform: none
+  }
+
+  .littlefoot__tooltip {
+    display: none
+  }
+}
+
+@media not print {
+  .littlefoot--print:not(.footnotes, .footnotes-list, .footnote-item) {
+    display: none
+  }
+}
+
+@media print {
+  .littlefoot__button,
+  .littlefoot__popover {
+    display: none
+  }
+}

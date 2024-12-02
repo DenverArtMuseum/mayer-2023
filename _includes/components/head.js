@@ -80,7 +80,6 @@ module.exports = function(eleventyConfig) {
           not using these file links
         -->
         <!-- <link rel="stylesheet" href="/_assets/styles/application.scss" /> -->
-        <!-- <link rel="stylesheet" href="/_assets/styles/custom.css" /> -->
 
         <!-- {% render 'polyfills/template.html' %} -->
 

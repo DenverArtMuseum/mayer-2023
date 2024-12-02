@@ -48,6 +48,7 @@
     "bulma": "^0.9.3",
     "core-js": "2.5.0",
     "lit": "^2.6.1",
+    "littlefoot": "^4.1.1",
     "lunr": "^2.3.9",
     "template-polyfill": "^2.0.0"
   },

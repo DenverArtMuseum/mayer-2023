@@ -14,6 +14,7 @@ import '../../styles/screen.scss'
 
 // Modules (feel free to define your own and import here)
 import './canvas-panel'
+import littlefoot from 'littlefoot'
 import './soundcloud-api.min.js'
 import { goToFigureState, setUpUIEventHandlers } from './canvas-panel'
 import Accordion from './accordion'
@@ -367,3 +368,37 @@ window.addEventListener('load', () => {
     })
   }
 })
+
+littlefoot({
+  activateOnHover: true,
+  buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>'
+});
+// Prepends "#lf-"" to  footnote's link to anchor, to match Littlefoot's button
+$('a.footnote-backref').each(function() {
+  var href = $(this).attr('href');
+  if( !/^\#lf-/.test(href) ) {
+      var newhref = href.replace(/#/, "#lf-");
+      $(this).attr('href',newhref);
+      //location.href = href;
+  }
+});
+// Makes sure anchor links do not open new tab
+// TODO: this could be better for sure
+$("body").on("click", "a.footnote-backref[data-href]", function() {
+  var href = $(this).data("href");
+  if (href) {
+      location.href = href;
+  }
+});
+/* TODO: Find a better way. This shouldn't be added in javascript
+$(".footnotes.littlefoot--print").each(function() {
+  if( $(this).find('>ol') ) {
+    $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
+  }  
+});
+$(".footnotes .littlefoot__popover .littlefoot__content").each(function() {
+  if( $(this).find('>ol') ) {
+    $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
+  }  
+});
+*/
