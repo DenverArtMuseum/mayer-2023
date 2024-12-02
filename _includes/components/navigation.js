@@ -34,7 +34,7 @@ module.exports = function(eleventyConfig) {
     const isHomePage = currentPage.url === home
 
     const navBarLabel = ({ label, short_title, title }) => {
-      return pageTitle({ label, title: short_title || truncate(title, 34)})
+      return pageTitle({ label, title: short_title || title})
     }
 
     const navBarStartButton = () => {
@@ -69,13 +69,14 @@ module.exports = function(eleventyConfig) {
                 <use xlink:href="#left-arrow-icon"></use>
               </switch>
             </svg>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="hide-small-screen">${navBarLabel({ label, short_title, title })}</span>
           </a>
         </li>
       `
     }
 
     const navBarHomeButton = () => {
+      return '' // disable home button because we have a site logo
       if (!previousPage) return ''
       return html`
         <li class="quire-navbar-page-controls__item quire-home-page">
@@ -101,7 +102,7 @@ module.exports = function(eleventyConfig) {
         <li class="quire-navbar-page-controls__item quire-next-page">
           <a href="${url}" rel='next'>
             <span class="visually-hidden">Next Page: </span>
-            ${navBarLabel({ label, short_title, title })}
+            <span class="hide-small-screen">${navBarLabel({ label, short_title, title })}</span>
             <svg data-outputs-exclude="epub,pdf">
               <switch>
                 <use xlink:href="#right-arrow-icon"></use>
@@ -112,6 +113,7 @@ module.exports = function(eleventyConfig) {
       `
     }
 
+    // TODO: get logo alt text in a config file
     return html`
       <div class="quire-navbar">
         <a href="#main" class="quire-navbar-skip-link" tabindex="1">
@@ -119,18 +121,9 @@ module.exports = function(eleventyConfig) {
         </a>
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
-            <button
-              class="quire-navbar-button search-button"
-              aria-controls="quire-search"
-              onclick="toggleSearch()"
-            >
-              <svg data-outputs-exclude="epub,pdf">
-                <switch>
-                  <use xlink:href="#search-icon"></use>
-                </switch>
-              </svg>
-              <span class="visually-hidden">Search</span>
-            </button>
+            <div class="logo">
+              <a class="logo-link" href="/" title="Home" rel="home"><img src="/_assets/images/nav-logo.svg" alt=""></a>
+            </div>
           </div>
           <div class="quire-navbar-controls__center">
             <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
@@ -147,14 +140,24 @@ module.exports = function(eleventyConfig) {
               onclick="toggleMenu()"
               aria-expanded="true"
               aria-controls="quire-menu"
-              tabindex="2"
-            >
+              tabindex="2">
               <svg data-outputs-exclude="epub,pdf">
                 <switch>
                   <use xlink:href="#nav-icon"></use>
                 </switch>
               </svg>
-              <span class="visually-hidden">Table of Contents</span>
+              <span class="hide-small-screen text-label">Contents</span>
+            </button>
+            <button
+              class="quire-navbar-button search-button"
+              aria-controls="quire-search"
+              onclick="toggleSearch()">
+              <svg data-outputs-exclude="epub,pdf">
+                <switch>
+                  <use xlink:href="#search-icon"></use>
+                </switch>
+              </svg>
+              <span class="hide-small-screen text-label">Search</span>
             </button>
           </div>
         </nav>

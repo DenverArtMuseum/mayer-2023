@@ -30,6 +30,16 @@
   position: sticky;
   z-index: 1;
 
+  .hide-small-screen {
+    display: none;
+    @media screen and (min-width: $desktop) {
+      display: initial;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+
   svg {
     height: calc(#{$navbar-height} * .65);
     width: calc(#{$navbar-height} * .65);
@@ -63,7 +73,6 @@
   a {
     color: $quire-navbar-text-color;
     display: block;
-    padding: 0 0.5em;
   }
 
   @media print {
@@ -81,15 +90,33 @@
   height: $navbar-height;
 
   &__left {
+    display: flex;
+    flex-flow: row nowrap;
+    align-content: center;
     align-self: flex-start;
-    flex: 0 1 $navbar-height;
+    justify-content: flex-start;
+    height: 100%;
   }
 
-  &__center { flex: 1 1 auto; }
+  &__center {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    flex: 1 1 auto;
+  }
 
   &__right {
-    flex: 0 1 $navbar-height;
+    display: flex;
+    flex-flow: row nowrap;
     text-align: right;
+    justify-content: flex-end;
+  }
+
+  &__left, &__right {
+    flex: 0 0 130px;
+    @media screen and (min-width: $tablet) {
+      flex: 0 0 250px;
+    }
   }
 
   &__left, &__right, .quire-navbar-page-controls__item {
@@ -104,7 +131,11 @@
       }
     }
     a, button, .button {
+      display: flex;
+      flex-flow: row nowrap;
+      align-items: center;
       transition: all .25s ease;
+
       &:hover {
         color: findColorInvert($accent-color) !important;
         background-color: $accent-color;
@@ -126,7 +157,26 @@
         }
       }
     }
+
+    .logo {
+      max-height: $navbar-height;
+      .logo-link {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        height: 100%;
+        max-width: 100%;
+        padding: .375rem 1rem;
+        img {
+          max-width: 100%;
+          height: 100%;
+          width: auto;
+        }
+      }
+    }
+
     svg {
+      flex-shrink: 0;
       & img {
         position: absolute;
         top: 0;
@@ -139,16 +189,29 @@
 .quire-navbar-page-controls {
   display: flex;
   flex-wrap: no-wrap;
+  align-content: center;
   justify-content: center;
+  gap: 1rem;
+  width: 100%;
 
   &__item {
-    padding: 0 1rem;
+    padding: 0;
     max-height: $navbar-height;
     overflow: hidden;
     display: none;
 
+    a {
+      height: 100%;
+      min-width: 0;
+      padding: 0 .5rem;
+    }
+
     a, svg {
       transition: all .25s ease;
+    }
+
+    svg {
+      margin: 0;
     }
 
     span.nav-label {
@@ -166,24 +229,13 @@
     }
 
     &.quire-previous-page {
-      a {
-        padding: 0 1.5em 0 0.5em;
-      }
-      svg {
-        margin-right: 1em;
-      }
+      justify-content: flex-end;
     }
 
     &.quire-next-page {
       font-style: normal;
-      a {
-        padding: 0 0.5em 0 1.5em;
-      }
-      svg {
-        margin-left: 0.25em;
-        margin-right: 0.5em;
-      }
     }
+
     @media screen and (max-width: $quire-menu-width) {
       a {
         padding: 0;
@@ -205,7 +257,7 @@
       }
     }
 
-    @media screen and (min-width: 500px) {
+    @media screen and (min-width: $tablet) {
       &.quire-home-page {
         display: block;
       }
@@ -218,9 +270,11 @@
       &.quire-next-page,
       &.quire-previous-page {
         display: block;
+        width: 45%;
       }
     }
 
+    // TODO: this isn't used. Probably delete
     @media screen and (min-width: 900px) {
       &.quire-section-page {
         display: block;
@@ -249,11 +303,21 @@
   // scss-lint:enable PropertySortOrder
   // scss-lint:enable SpaceAfterPropertyColon
 
+  align-items: center;
   background-color: transparent;
   border: 0;
+  display: flex;
+  flex-flow: row nowrap;
+  font-family: $quire-navigation-font;
+  font-size: 1rem;
   height: $navbar-height;
-  width: $navbar-height;
-  padding: 0;
+  justify-content: center;
+  min-width: $navbar-height;
+  padding: 0 .5rem;
+
+  @media screen and (min-width: $tablet) {
+    padding: 0 1rem 0 .5rem;
+  }
 
   svg {
     position: relative;
@@ -276,6 +340,10 @@
         max-height: 1.25rem;
       }
     }
+  }
+
+  .text-label {
+    margin-left: .5rem;
   }
 
   &.arrow-button {
