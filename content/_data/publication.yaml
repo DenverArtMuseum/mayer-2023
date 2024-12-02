@@ -13,20 +13,20 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
-reading_line:
-short_title:
+title: 'Collecting the "Other Americas"'
+subtitle: Ancient Americas Collections in American Art Museums
+reading_line: 
+short_title: 
 
 description:
-  one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  one_line: 
+  full: "The term *Pre-Columbian art* once described the material culture produced in the Americas, mostly south of the US-Mexico border, prior to the arrival of Europeans. Museums across the United States now refer to these departments as *the Americas* or *the ancient Americas.* Stewards of these collections in American art museums have begun to confront the changing meanings and import of what René d’Harnoncourt once described as the *Other Americas*. This symposium volume captures the history of collecting and display of ancient American works in art museums, a history surprisingly poorly documented until now."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2025-10-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -34,10 +34,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: Mayer Center for Ancient and Latin American Art at the Denver Art Museum
+    location: Denver, CO
+    url: https://www.denverartmuseum.org/en/mayer-center-ancient-and-latin-american-art
+    logo: 
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,21 +46,82 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: sbergh
+    type: secondary
+    first_name: Susan E.
+    last_name: Bergh
+    title: former Curator of Pre-Columbian and Native North American Art 
+    affiliation: Cleveland Museum of Art
+    bio: "Susan E. Bergh is former Curator of Pre-Columbian and Native North American Art at the Cleveland Museum of Art."
+  - id: kdriggers
+    type: secondary
+    first_name: Kristopher
+    last_name: Driggers
+    title: Associate Curator of Latin American Art  
+    affiliation: San Antonio Museum of Art
+    bio: "Kristopher Driggers is Associate Curator of Latin American Art at the San Antonio Museum of Art."
+  - id: ehoobler
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Ellen
+    last_name: Hoobler
+    title: William B. Ziff, Jr., Curator of Art of the Americas
+    affiliation: Walters Art Museum
+    bio: "Ellen Hoobler is William B. Ziff, Jr., Curator of Art of the Americas at the Walters Art Museum in Baltimore, MD."
+  - id: rkoontz
+    type: secondary
+    first_name: Rex
+    last_name: Koontz
+    title: Moores Professor of Art History and Consulting Curator of the Art of the Indigenous Americas
+    affiliation: University of Houston and Museum of Fine Arts, Houston
+    bio: "Rex Koontz is Moores Professor of Art History, University of Houston and Consulting Curator of the Art of the Indigenous Americas, Museum of Fine Arts, Houston."
+  - id: vlyall
+    type: primary
+    first_name: Victoria Isabel
+    last_name: Lyall
+    title: Frederick & Jan Mayer Curator of Art of the Ancient Americas 
+    affiliation: Denver Art Museum
+    bio: "Victoria Isabel Lyall is Frederick & Jan Mayer Curator of Art of the Ancient Americas at the Denver Art Museum."
+  - id: mmiller
+    type: secondary
+    first_name: Mary E.
+    last_name: Miller
+    title: Director 
+    affiliation: Getty Research Institute
+    bio: "Mary E. Miller is director of the Getty Research Institute."
+  - id: jpillsbury
+    type: secondary
+    first_name: Joanne
+    last_name: Pillsbury
+    title: Andrall E. Pearson Curator of Ancient American Art  
+    affiliation: Metropolitan Museum of Art
+    bio: "Joanne Pillsbury is Andrall E. Pearson Curator of Ancient American Art at the Metropolitan Museum of Art."
+  - id: epope
+    type: secondary
+    first_name: Elizabeth Irene
+    last_name: Pope
+    title: Senior Research Associate with the Arts of the Americas and Textiles departments  
+    affiliation: Art Institute of Chicago
+    bio: "Elizabeth Irene Pope is Senior Research Associate with the Arts of the Americas and Textiles departments at the Art Institute of Chicago."
+  - id: mrobb
+    type: secondary
+    first_name: Matthew H.
+    last_name: Robb
+    title: Mesoamerican specialist   
+    affiliation: Library of Congress
+    bio: "Matthew H. Robb is a Mesoamerican specialist at the Library of Congress, Washington, DC."
+  - id: nrosoff
+    type: secondary
+    first_name: Nancy B.
+    last_name: Rosoff
+    title: Andrew W. Mellon Curator and Chair of the Arts of the Americas   
+    affiliation: Brooklyn Museum
+    bio: "Nancy B. Rosoff is Andrew W. Mellon Curator and Chair of the Arts of the Americas at the Brooklyn Museum."
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2025 Denver Art Museum
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -102,10 +163,13 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: ART / History / Indigenous
+    identifer: ART015140
+  - type: bisac
+    name: BUSINESS & ECONOMICS / Museum Administration & Museology
+    identifier: BUS100000
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: ancient Americas, museum collections, 20th century, Indigenous art
 
 # ------------------------------------------------------------------------------
 # Revision History

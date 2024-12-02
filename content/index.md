@@ -7,4 +7,5 @@ toc: false
 image: spiral-overlay.png
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+
+The term "Pre-Columbian art" once described the material culture produced in the Americas, mostly south of the US-Mexico border, prior to the arrival of Europeans. Museums across the United States now refer to these departments as "the Americas" or "the ancient Americas." Stewards of these collections in American art museums have begun to confront the changing meanings and import of what René d’Harnoncourt once described as the *Other Americas*. This symposium volume captures the history of collecting and display of ancient American works in art museums, a history surprisingly poorly documented until now.
