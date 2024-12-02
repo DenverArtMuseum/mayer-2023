@@ -15,11 +15,11 @@ url: 'http://localhost:8080'
 # Title & Description
 title: "Collecting the Other Americas"
 subtitle: Ancient Americas Collections in American Art Museums
-reading_line: Some line
-short_title: Anything at all
+reading_line: 
+short_title: 
 
 description:
-  one_line: Some text
+  one_line: 
   full: "The term *Pre-Columbian art* once described the material culture produced in the Americas, mostly south of the US-Mexico border, prior to the arrival of Europeans. Museums across the United States now refer to these departments as *the Americas* or *the ancient Americas.* Stewards of these collections in American art museums have begun to confront the changing meanings and import of what René d’Harnoncourt once described as the *Other Americas*. This symposium volume captures the history of collecting and display of ancient American works in art museums, a history surprisingly poorly documented until now."
 
 # ------------------------------------------------------------------------------
@@ -45,7 +45,7 @@ publisher:
 
 contributor_as_it_appears:
 
-contributors:
+contributor:
   - id: sbergh
     type: secondary
     first_name: Susan E.

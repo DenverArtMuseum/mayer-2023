@@ -2,7 +2,7 @@
 title: Nineteenth Century Rambles in Mexico, an Itinerant Peruvian Textile, and Pan-American Cooperation at the Brooklyn Museum, 1930–1950
 subtitle: 
 layout: essay
-order: 11
+order: 21
 contributor:
   - id: nrosoff
 ---
@@ -73,9 +73,11 @@ The project represented a significant early exchange between the National Museum
 
 The preceding case studies illustrate the diverse ways Spinden acquired prehispanic works during the ’30s and ’40s. From initiating purchases and courting donations to brokering exchanges with peer institutions, he took advantage of every opportunity to build the collection. His vanguard curatorial practice of presenting anthropological and archaeological collections as art put the Brooklyn Museum ahead of the curve compared to other fine art museums. Finally, Spinden was a man of his time who recognized the importance of the Pan-American relationships he developed during frequent trips to Latin America. His passionate advocacy of presenting prehispanic art in an encyclopedic art museum promoted the understanding and appreciation of the rich artistic traditions of the ancient Americas in New York and the United States more broadly.
 
-## Notes
+{% backmatter %}
 
- The author would like to thank Kim Richter, Senior Research Specialist, Getty Research Center; Grace Billingslea, Curatorial Assistant, Arts of the Americas and Europe; and Stephanie Crawford, Archivist, Brooklyn Museum’s Library and Archives.
+The author would like to thank Kim Richter, Senior Research Specialist, Getty Research Center; Grace Billingslea, Curatorial Assistant, Arts of the Americas and Europe; and Stephanie Crawford, Archivist, Brooklyn Museum’s Library and Archives.
+
+## Notes
 
 [^1]: The Mexico case studies are also included in the author’s forthcoming essay “Herbert Spinden and the Acquisition of Prehispanic Arts of Mexico” (working title) in *Collecting Mesoamerican Art*, vol. 2, ed. Andrew D. Turner and Megan O’Neil (Getty Research Institute).
 
@@ -218,3 +220,5 @@ The preceding case studies illustrate the diverse ways Spinden acquired prehispa
 [^70]: Charles Nagel Jr. to Miguel Covarrubias, March 23, 1948; Charles Nagel Jr. to Daniel F. Rubín de la Borbolla, March 23, 1948, Box 1, Folder: Depts: Primitive & New World Culture, RG-02.01, Nagel Series, BMLA.
 
 [^71]: *The Brooklyn Museum Bulletin* 9, no. 3 (1948): 18–19.
+
+{% endbackmatter %}

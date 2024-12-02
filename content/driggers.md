@@ -2,7 +2,7 @@
 title: Ancient American Art in a Borderlands City
 subtitle: Collections and Community at Tucson Museum of Art
 layout: essay
-order: 18
+order: 28
 contributor:
   - id: kdriggers
 ---
@@ -90,6 +90,8 @@ From 2019 to 2024, I was responsible for TMA’s Latin American collections. The
 This approach has also characterized temporary exhibitions of ancient American art pursued in recent years. To take one example, the city became home to many Guatemalan refugees in the 1980s, and a 2023 exhibition *Popol Vuh and the Maya Art of Storytelling* presented ancient objects in light of the words of community members, who shared ideas about the relationship of narrative arts to heritage, alongside commissioned art by contemporary artist Justin Favela (fig. 13). A large-scale feature exhibition of Andean cloth, *CUMBI: Textiles, Society, and Memory in Andean South America* (2023–24) looked at weavings across time (including many donated by Pleasants) and displayed the work of contemporary textile artists of Andean heritage who practiced in or had ties to the Southwest. Today, the museum works to fulfill a vision of connecting ancient American art with Tucson’s community that was intended at the collection’s founding but with a new commitment to inclusion that charts the way forward.
 
 Acknowledgements: In addition to thanking the editors of this volume and my fellow curators, I am grateful to my Tucson colleagues for generously sharing ideas or leads, including Marianna Pegno, Jennifer Saracino, Joanne Stuhr, Rachel Adler, Christine Brindza, and Erika Castaño, as well as the students in my University of Arizona course Aztecs and Incas for a lively discussion about this project. Special thanks are due to Deb Zeller, longtime steward of Tucson Museum of Art’s memory, for invaluable assistance in the archives. Any errors are my own.
+
+{% backmatter %}
 
 ## Notes
 
@@ -180,3 +182,5 @@ Acknowledgements: In addition to thanking the editors of this volume and my fell
 [^43]: Kenneth LaFave, “Museum Remodel Worth the Wait,” *Arizona Daily Star*, October 30, 1983.
 
 [^44]: Otero, “New Directions for La Casa Cordova,” 12.
+
+{% endbackmatter %}

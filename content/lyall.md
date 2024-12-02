@@ -2,7 +2,7 @@
 title: Collecting the Ancient Americas at the Denver Art Museum
 subtitle: 
 layout: essay
-order: 17
+order: 27
 contributor:
   - id: vlyall
 ---
@@ -75,6 +75,10 @@ By 2017, the DAM hired two new curators to succeed Young-Sánchez and Pierce, Jo
 The reinstallation, completed in 2021, no longer includes the study storage cases (fig. 15). The glass shelves which showcased so many objects intimidated visitors and were replaced with a color-coded presentation structured around geography (Mesoamerica, Central America, and South America) and three central ideas: land, legacy, and trade. The question of “land” addresses the impact that environment, geography, and landscape have on our understanding of the world and our place in it. From volcanoes to mangroves and coastal deserts, the varied landscapes of the Americas played a powerful role in the narratives and cosmovision of peoples across the continent. “Legacy” considers how the past continues to shape the present. The images, shapes, forms, and materials of ancient artists persist in the work of contemporary artists and the visual vocabulary of descendant communities on both sides of the border. Finally, the concept of “trade” addresses the continual exchange of goods and ideas that linked ancient communities across time and space. Recent scholarship has underscored the sophistication of ancient navigation and technological innovation that permitted connections to be made across vast, previously unimaginable, distances.[^45]
 
 Today, the department continues to embrace the groundbreaking approach of the early curators who respected and regarded in the highest esteem the works of Indigenous artists from the Americas. Bach and Stroessner’s vision for a holistic approach that presented the historical and artistic complexity of the region across time has likewise left an indelible mark. But perhaps the strongest influence for the ancient Americas collection at present is the relationship to the descendant communities locally, nationally, and internationally that seek solace and connection in the works of ancient artists.
+
+{% backmatter %}
+
+## Notes
 
 [^1]: Neil Harris, “Searching for Form: The Denver Art Museum in Context,” in *The Denver Art Museum: The First Hundred Years*, ed. Marlene Chambers (Denver Art Museum, 1996), 60.
 
@@ -165,3 +169,5 @@ Today, the department continues to embrace the groundbreaking approach of the ea
 [^44]: *ReVisión: Art in the Americas*, a traveling exhibition co-curated by Rivas and Lyall, inaugurated the newly renovated Martin Building in October 2021 and showcased masterworks from both collections in dialogue with contemporary Latin American and Latinx artists.
 
 [^45]: For example, see Christopher S. Beekman and Colin McEwan, ed., *Waves of Influence: Pacific Maritime Networks Connecting Mexico, Central America, and Northwestern South America* (Dumbarton Oaks Research Library and Collection, 2022).
+
+{% endbackmatter %}

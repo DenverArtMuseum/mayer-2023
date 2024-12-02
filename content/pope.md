@@ -2,7 +2,7 @@
 title: Art Not Artifact
 subtitle: The Aesthetic Recognition of Ancient and Indigenous American Works at the Art Institute of Chicago
 layout: essay
-order: 14
+order: 24
 contributor:
   - id: epope
 ---
@@ -100,9 +100,11 @@ In 2020, one of the last traces of the departments’ “primitive art” origin
 The changing assessment of ancient and Indigenous works at the Art Institute of Chicago demonstrates how external perceptions determine their place in the museum. Initially, objects were disregarded as “artifacts” better suited for natural history or anthropological institutions; later, they were incorporated into the collection as decontextualized “primitive” works within a modernist framework. Today, through a deeper understanding of the artists and communities in which objects were made and used, ancient and Indigenous works are valued as unique and compelling artistic expressions. Objects do not change, but through ongoing research and reconsideration, the Art Institute offers a space for more meaningful engagement with the distinctive visual traditions of the ancient and Indigenous Americas.
 
 
-## Notes
+{% backmatter %}
 
 I would like to thank Victoria Lyall and Ellen Hoobler, the staff of Denver Art Museum, and the Mayer Center for Ancient and Latin American Art for organizing such an important symposium, and the other contributors for generously sharing their knowledge. I also want to recognize my exceptional colleagues from the Art Institute of Chicago’s Archives and Research Center: J de la Torre, Dave Hofer, Alexandra Katich, Nathaniel Parks, and Bart Ryckbosch; and Kylie Escudero, who expertly assisted with acquiring images and rights.
+
+## Notes
 
 [^1]: Davis and Putnam*, World’s Columbian Exposition*; Mauricio Tenorio-Trillo, *Mexico at the World’s Fair: Crafting a Modern Nation* (University of California Press, 1996).
 
@@ -207,3 +209,5 @@ I would like to thank Victoria Lyall and Ellen Hoobler, the staff of Denver Art 
 [^51]: Richard F. Townsend, ed., *Indian Art of the Americas at the Art Institute of Chicago* (Art Institute of Chicago, 2016).
 
 [^52]: Elizabeth McGoey et al., “Multiple Modernisms in the Americas: Old Favorites and New Stories,” The Art Institute of Chicago, May 24, 2022, https://www.artic.edu/articles/993/multiple-modernisms-in-the-americas-old-favorites-and-new-stories.
+
+{% endbackmatter %}

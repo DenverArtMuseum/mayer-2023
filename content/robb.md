@@ -2,7 +2,7 @@
 title: Ancient American Art in the Gateway to the West
 subtitle: 
 layout: essay
-order: 15
+order: 25
 contributor: 
   - id: mrobb
 ---
@@ -73,9 +73,11 @@ I joined the museum in the summer of 2007 and worked toward a complete reinstall
 
 In 1916, Cass Gilbert proposed a plan to expand the Saint Louis Art Museum in the Beaux-Arts style.[^67] Such unrealized proposals can offer a glimpse of an alternate timeline —a history where Edgar Hewett didn’t have a falling out with funder Charles Bowditch, where the Saint Louis AIA chapter received magnificent objects from Palenque, which in turn created a nucleus of interest for pre-Columbian art such that director Perry Rathbone was able to persuade Saint Louis native Vincent Price to endow a curatorial chair for pre-Columbian art that Julie Jones later occupied, with David Grove as a colleague at the University of Missouri–Saint Louis. All of these alternatives are present in the archive. Their possibilities remind us that the collections we have are highly contingent entities, despite all our best attempts to smooth out their rough edges. We sort out the “fakes” from the “real” and curate cases of ceramics and jades, whose individual histories are fragmentary at best, in order to create representative selections of a distant past in an attempt to turn them into cohesive narratives for a museum-going public. But, in fact, the most cohesive narratives we have are the overlapping and intersecting stories that emerge from close examination of institutional and individual archives. If we are to understand these collections and the individuals who made them in all their complexity, we have to not only continue to collaborate but also find ways to ensure that these connections persist for future curators, museum staff, and members of the public so that they can make informed decisions about what happens to these objects next.
 
-## Notes
+{% backmatter %}
 
 I thank former and current Saint Louis Art Museum staff members as well as many colleagues who offered their assessment of individual objects and the collection as a whole, including Amy Clark, Jason Gray, Jenna Stout, Norma Sindelar, Lynette Roth, Charlotte Eyerman, Ella Rothgangel, John Nunley, Brent Benjamin, Andrew Walker, Adam Sellen, Emily R. Pulitzer, Pippa Shaplin, Megan O’Neil, Mary Miller, Victoria Lyall, Rex Koontz, Joanne Pillsbury, John Pohl, Simon Martin, Virginia Fields, Sue Scott, Jeanette Bello, Janet Berlo, and Michael D. Coe. The opinions expressed in this paper are my own and do not represent the Library of Congress.
+
+## Notes
 
 [^1]: Founded in 1879 as the St. Louis School and Museum of Fine Arts, it was known as the City Art Museum after 1914 and formally changed its name to the Saint Louis Art Museum in 1971. See “Front Matter,” *Bulletin of the City Art Museum of St. Louis* 1, no. 1 (1914): 15–19
 
@@ -210,3 +212,5 @@ I thank former and current Saint Louis Art Museum staff members as well as many 
 [^66]: Matthew H. Robb and Amy C. Clark, “The Ancient American Installation at the Saint Louis Art Museum,” *Tribal Art*, no. 69 (Autumn 2013): 74–82.
 
 [^67]: Cass Gilbert, Barbara S. Christen, and Steven Flanders, *Cass Gilbert, Life and Work: Architect of the Public Domain* (W. W. Norton & Co, 2001): 248.
+
+{% endbackmatter %}

@@ -2,7 +2,7 @@
 title: “The art of those who lived here before the white man came”
 subtitle: Collecting the Ancient Americas at the Cleveland Museum of Art
 layout: essay
-order: 13
+order: 23
 contributor:
   - id: sbergh
 ---
@@ -73,9 +73,12 @@ The Cleveland Museum of Art’s ancient American collection is the result of ear
 
 In contrast to some other museums, Cleveland’s collection is largely the result not of gifts, with obvious exceptions, but rather of purchases that were matters of curatorial discretion. In terms of its sources, the collection may be unusual in its midcentury dependence on a single dealer and the friendship to which that dependence owed. It also may be unusual in the involvement of so many women in its formation, Norweb first among them but also Bole, Ford, Humphreys, Ingalls, Rankin, Taft, and others. The motivations for their engagement with ancient American arts are not recorded but may have had to do, in part, with affordability, as Norweb once implied, and could also have had roots in the Euro-American tendency to affiliate women, as well as the racialized Other, with material that the West pejoratively classified as decorative arts, or crafts, including the elaborate ceramics, textiles, and personal ornaments of the Americas.[^58] It is hoped that the present volume, the first of its kind, will shed more light on these and other factors that have shaped US museum collections over the last century.
 
-## Notes
+
+{% backmatter %}
 
 I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie Cade, Susan Hernandez, and especially Rebecca Tousley for their cheerful assistance with research for this essay.
+
+## Notes
 
 [^1]: Evan H. Turner, “Overview: 1917–30,” in *Object Lessons: Cleveland Creates an Art Museum,* ed. Evan H. Turner (The Cleveland Museum of Art, 1991), 22.
 
@@ -192,3 +195,5 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 [^57]: For instance, Martin Berger, “Introduction” and “Between Canon and Coincidence,” *Journal for Art Market Studies* 7, no. 1 (2023), https://fokum-jams.org.
 
 [^58]: For instance, see Elissa Auther, “The Decorative, Abstraction, and Hierarchy of Art and Craft in the Art Criticism of Clement Greenberg,” *Oxford Art Journal* 27, no. 3 (2004): 339–64.
+
+{% endbackmatter %}

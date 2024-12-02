@@ -2,7 +2,7 @@
 title: James Johnson Sweeney and the Discovery of the “Other Americas” in 1960s Houston
 subtitle: 
 layout: essay
-order: 16
+order: 26
 contributor:
   - id: rkoontz
 ---
@@ -82,6 +82,8 @@ The transformation of ancient American collecting and exhibitions at the Museum 
 Studying the rise of Pre-Columbian collecting and exhibition in Houston through James Johnson Sweeney’s tenure as the director at the MFAH is an exercise in placing ancient American art amid “the chaos and energy of cultural production” of a museum on the move in the early 1960s. The social lives of these ancient American objects may be seen to take on more breadth as they are allowed to circulate in other conversations, some well outside ancient American art history. Such narratives help illuminate the myriad aesthetic and social forces that ran through these conversations that eventually created the US collections discussed in this volume.
 
 
+{% backmatter %}
+
 ## Notes
 
 [^1]: “A Museum Director Resigns,” *The* *New York Times*, July 22, 1960, p. 22.
@@ -157,3 +159,5 @@ Studying the rise of Pre-Columbian collecting and exhibition in Houston through 
 [^36]: Gordon F. Ekholm, *Pre-Columbian Art from Middle America: Gift of Mrs. Harry C. Hanszen* (Museum of Fine Arts, Houston, 1966).
 
 [^37]: Ibid.
+
+{% endbackmatter %}

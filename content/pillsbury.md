@@ -2,7 +2,7 @@
 title: Ancient American Art In and Out and Back In Again at The Met
 subtitle: 
 layout: essay
-order: 10
+order: 20
 contributor:
   - id: jpillsbury
 ---
@@ -85,13 +85,15 @@ Although we often slide past this fact, most museum collections are formed more 
 
 As we embark on the first major renovation of the Michael C. Rockefeller Wing in its forty-three-year history, my cocurator, Laura Filloy Nadal, and I, along with our team, continue to wrestle with this legacy. The place of works created in the Americas prior to the European invasion within museums continues to be the subject of debate. At the heart of these debates is the question of what art *is*—in many ways, a question that has been asked over the entire course of The Met’s history. Do these objects belong in an art museum, and if so, where? Increasingly, the debate centers on whether these collections even belong in a museum, outside of the lands in which they were made, a question that must also be framed by a recognition of the rich constellations of cultural heritage represented in New York’s social fabric. The Met’s own history of ancient American art initially in, then out, and then in again, as disconcerting as the history is at times, should also serve as a reminder that museums are living, evolving institutions, and that this capacity for change should give us hope (fig. 19).
 
-## Notes
+{% backmatter %}
 
 I thank Victoria Lyall and Ellen Hoobler for the kind invitation to participate in this volume, and for their insightful comments on an earlier version of this essay. This research would not be possible without the help of the many archivists and colleagues. At The Met Archive, this includes Jim Moske, Melissa Bell, and Sarah Rappo, and Stephanie Post in the Digital Department. In The Met’s Michael C. Rockefeller Wing, I thank Matthew Noiseux and Paige Silva for their help with the archives of the Museum of Primitive Art. I am grateful to Natalie DeJesus, formerly of The Met, for research assistance. I owe particular thanks to Jack Meyers, president of the Rockefeller Archive Center, and his staff, especially Michele Hiltzik Beckerman, Assistant Director for Reference at the Center. Kelly Schulz, Archivist, National Gallery of Art Archives, and Jennifer Jolly, Ithaca College, were very helpful with my questions about Dudley and Elizabeth Easby. Steve Odenheimer was generous in sharing information about his aunt, Alice K. Bache. Alicia Boswell, Ellen Hoobler, Rex Koontz, Victoria Lyall, Mary Miller, Megan O’Neil, Matthew Robb, and Andrew Turner have all kindly shared documents and ideas over the years, for which I am very grateful. Most of all, I am in debt to Ned Harwood, for everything.
 
-#### A Note on Sources
+## A Note on Sources
 
 Unless otherwise indicated, archival sources for The Metropolitan Museum of Art are available via the Office of the Secretary Records, MMA Archives, with the exception of documents pertaining to the Museum of Primitive Art, which are held in the Museum’s Michael C. Rockefeller Department. Unless otherwise indicated, all references to the Nelson A. Rockefeller papers (abbreviated here to NAR) are to those held at the Rockefeller Archive Center (abbreviated to RAC) in Sleepy Hollow, New York. Accession numbers refer to works now in the collections of The Metropolitan Museum of Art, unless otherwise noted. The collection, with provenance as far as is known by the museum, is available online (www.metmuseum.org).
+
+## Notes
 
 [^1]: Joanne Pillsbury, “American Antiquities for an American Museum: Frederic Edwin Church, Luigi Petich, and the Founding Decades of the Metropolitan Museum of Art (1870–1914),” in *Collecting Mesoamerican Art Before 1940: A New World of Latin American Antiquities*, ed. Andrew D. Turner and Megan E. O’Neil (Getty Research Institute, 2024), 235–58.
 
@@ -194,3 +196,5 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 [^50]: William B. Macomber, “Report of the President,” *Annual Report of the Trustees of the Metropolitan Museum of Art*, no. 112 (July 1, 1981–June 30, 1982): 4–7. See also, Grace Glueck, “A Spectacular New Wing,” *The New York Times*, January 24, 1982.
 
 [^51]: Joanne Pillsbury, “Making the Ancient Modern: Nelson Rockefeller and René d’Harnoncourt,” in *Collecting Mesoamerican Art, 1940–1965: Forging a Market in the United States and Mexico*, ed. Megan E. O’Neil and Andrew D. Turner (Getty Research Institute Publications, in press).
+
+{% endbackmatter %}
