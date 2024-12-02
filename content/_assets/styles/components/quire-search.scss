@@ -57,11 +57,11 @@
           text-decoration-style: dotted;
           letter-spacing: 0px;
         } @else {
-          color: $accent-color;
+          color: $content-link-color;
           text-decoration: underline;
           text-decoration-style: dotted;
           * {
-            color: $accent-color;
+            color: $content-link-color;
           }
         }
         &:hover {

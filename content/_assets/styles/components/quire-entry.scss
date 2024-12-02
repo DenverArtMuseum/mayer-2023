@@ -408,10 +408,10 @@ $image-divider-height: 16px;
           dotted
           background-color-text-classic($content-background-color);
       } @else {
-        color: $accent-color;
+        color: $content-link-color;
         text-decoration: underline;
         text-decoration-style: dotted;
-        text-decoration-color: $accent-color;
+        text-decoration-color: $content-link-color;
       }
 
       &:hover {
@@ -426,28 +426,30 @@ $image-divider-height: 16px;
       }
     }
 
-    a.button {
+    .button {
       -webkit-transition: all 0.25s ease;
       transition: all 0.25s ease;
+      border-color: $content-link-color;
+      color: $content-link-color;
+      margin-left: 2em;
+      margin-top: 1.5em;
+      background-color: $content-background-color;
+      -moz-border-radius: 2px;
+      -webkit-border-radius: 2px;
+      border-radius: 2px;
 
-      @if $theme==classic {
-        color: background-color-text-classic($content-background-color);
-
-        svg {
-          fill: background-color-text-classic($content-background-color);
-        }
-      } @else {
-        color: $accent-color;
+      svg {
+        fill: $content-link-color;
       }
 
       &:hover {
-        background-color: link-hover-color($content-background-color);
-        border-color: link-hover-color($content-background-color);
+        background-color: $content-link-color;
+        border-color: $content-link-color;
 
-        color: findColorInvert($accent-color);
+        color: $content-background-color;
 
         svg {
-          fill: findColorInvert($accent-color);
+          fill: $content-background-color;
         }
       }
     }
@@ -474,10 +476,9 @@ $image-divider-height: 16px;
         width: 100%;
       }
       padding-bottom: 1em;
-      border-top: 1px solid background-color-text($content-background-color);
-      border-bottom: 1px solid background-color-text($content-background-color);
-      background-color: $content-background-color;
-      color: background-color-text($content-background-color);
+      border-top: 1px solid $content-text-color;
+      border-bottom: 1px solid $content-text-color;
+
       @media print {
         color: $print-text-color;
         border-color: $print-text-color;
@@ -487,21 +488,6 @@ $image-divider-height: 16px;
 
       td {
         border: none;
-      }
-    }
-
-    .button {
-      margin-left: 2em;
-      margin-top: 1.5em;
-      background-color: $content-background-color;
-      -moz-border-radius: 2px;
-      -webkit-border-radius: 2px;
-      border-radius: 2px;
-
-      @if $theme==classic {
-        border: 1px solid $off-black;
-      } @else {
-        border: 1px solid $accent-color;
       }
     }
 
@@ -528,6 +514,7 @@ $image-divider-height: 16px;
       }
 
       &:hover {
+        // TODO: is this the best way to do this?
         background-color: $quire-hover-color;
         color: background-color-text($quire-hover-color);
       }

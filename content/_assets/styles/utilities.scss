@@ -87,7 +87,7 @@
       @return $white;
     }
   } @else {
-    @return $accent-color;
+    @return $content-link-color;
   }
 }
 

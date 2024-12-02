@@ -45,7 +45,22 @@
     background-color: $quire-menu-color;
     padding: 1.25em;
 
-    @include foreground-color($quire-menu-color, $quire-menu-text-color);
+    color: $quire-menu-text-color;
+    a, button, .button {
+      background-color: $quire-menu-color;
+      color: $quire-menu-text-color;
+      &:hover, &:focus {
+        background-color: $quire-menu-color;
+        color: $quire-menu-text-color;
+      }
+    }
+    svg {
+      fill: $quire-menu-text-color;
+      &:hover {
+        fill: $quire-menu-text-color;
+        background-color: transparent;
+      }
+    }
     .title {
       font-size: inherit;
       font-weight: inherit;

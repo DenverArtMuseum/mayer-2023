@@ -82,9 +82,10 @@ $quire-menu-width: 22rem;
 
 $quire-menu-color: $off-black;
 $quire-menu-text-color: $white;
-$menu-link-color: $link-color;
-$menu-link-visited-color: $link-color;
-$menu-link-active-color: $link-color;
+$menu-accent-color: $link-color;
+$menu-link-color: $link-color; // not used yet
+$menu-link-visited-color: $link-color; // not used yet
+$menu-link-active-color: $link-color; // not used yet
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------

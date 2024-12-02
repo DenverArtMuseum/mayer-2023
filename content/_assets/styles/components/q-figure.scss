@@ -179,7 +179,7 @@
       @if $theme == classic {
         color: background-color-text-classic($content-background-color);
       } @else {
-        color: $accent-color;
+        color: $content-link-color;
       }
     }
     .q-figure__label-icon {
@@ -195,7 +195,7 @@
         @if $theme == classic {
           fill: background-color-text-classic($content-background-color);
         } @else {
-        fill: $accent-color;
+        fill: $content-link-color;
         }
         width: 1.5rem;
         height: 1.5rem;
@@ -569,7 +569,7 @@ div.multimedia {
   .q-figure__label--below & {
     display: inline;
     @if $theme == modern {
-      color: $accent-color;
+      color: $content-link-color;
       transition: color 0.35s;
     }
 

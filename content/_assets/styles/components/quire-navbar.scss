@@ -45,13 +45,23 @@
     font-size: .65rem;
   }
 
-  @include foreground-color($quire-navbar-color,$quire-navbar-text-color);
+  //@include foreground-color($quire-navbar-color,$quire-navbar-text-color);
+  
+  color: $quire-navbar-text-color;
   background-color: $quire-navbar-color;
   min-height: $navbar-height;
   top: 0 !important;
   width: 100%;
 
+  svg {
+    fill: $quire-navbar-text-color;
+    &:hover {
+      fill: $quire-navbar-hover-color;
+    }
+  }
+
   a {
+    color: $quire-navbar-text-color;
     display: block;
     padding: 0 0.5em;
   }

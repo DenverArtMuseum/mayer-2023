@@ -84,10 +84,9 @@
       display: inline-block;
       text-decoration: underline;
       text-decoration-style: dotted;
-      text-decoration-color: $off-black;
       &:hover {
         text-decoration-style: solid;
-        text-decoration-color: $accent-color;
+        text-decoration-color: $secondary-link-color;
       }
       .title {
         span {
@@ -106,7 +105,7 @@
     .section-header {
       text-align: center;
       font-size: 1rem !important;
-      border-top: 1px solid background-color($content-background-color);
+      border-top: 1px solid $secondary-text-color;
       padding-top: 3.3375em;
       margin-bottom: 0;
       a {
@@ -141,7 +140,6 @@
       a {
         text-decoration: underline;
         text-decoration-style: dotted;
-        text-decoration-color: background-color-text($secondary-background-color);
         @media print {
           border-width: 0;
         }
@@ -156,7 +154,6 @@
         }
         &:hover {
           text-decoration-style: solid;
-          text-decoration-color: link-hover-color($secondary-background-color);
         }
       }
     }
@@ -165,7 +162,7 @@
     .section-item.no-landing {
       font-size: 1.375em;
       font-family: $quire-headings-font;
-      color: background-color-text($secondary-background-color);
+      color: $secondary-link-color;
       @media print {
         font-size: 1rem;
         color: $print-text-color;
@@ -182,7 +179,7 @@
     }
 
     a {
-      color: background-color-text($secondary-background-color);
+      color: $secondary-link-color;
       position: relative;
       padding-left: 0;
       padding-right: 0;
@@ -197,22 +194,22 @@
       .arrow {
         margin-left: 4px;
         position: absolute;
-        fill: background-color-text($secondary-background-color);
+        fill: $secondary-text-color;
         transition: all .25s ease;
       }
       &:hover {
         background-color: inherit;
-        color: link-hover-color($secondary-background-color);
+        color: $secondary-link-active-color;
         .arrow {
           transform: translateX(.75em);
           -webkit-transition: all .25s ease;
-          fill: link-hover-color($secondary-background-color);
+          fill: $secondary-link-active-color;
           svg {
-            fill: link-hover-color($secondary-background-color) !important;
+            fill: $secondary-link-active-color !important;
           }
         }
         * {
-           color: link-hover-color($secondary-background-color);
+           color: $secondary-link-active-color;
          }
          figure.image {
            -webkit-box-shadow: 0px 0px 6px 0px $black-semi-transparent;
@@ -280,7 +277,7 @@
       margin-bottom: 1rem;
       font-size: 1rem;
       line-height: 1.4;
-      color: background-color-text($secondary-background-color);
+      color: $secondary-text-color;
       @media print {
         color: $print-text-color;
       }
@@ -403,7 +400,7 @@
           @if $theme == classic {
             fill: background-color-text-classic($content-background-color) !important;
           } @else {
-            fill: $accent-color;
+            fill: $secondary-link-color;
           }
         }
         .card.no-image {
@@ -427,7 +424,7 @@
             }
           }
           .arrow {
-            fill: $accent-color;
+            fill: $secondary-link-color;
           }
         }
 
@@ -510,7 +507,7 @@
         @if $theme == classic {
           color: background-color-text-classic($content-background-color);
         } @else {
-          color: $accent-color;
+          color: $content-link-color;
         }
 
         a {
@@ -518,9 +515,9 @@
           border-bottom: none;
 
           &:hover {
-            color: link-hover-color($secondary-background-color);
+            color: $content-link-active-color;
             svg {
-              fill: link-hover-color($secondary-background-color);
+              fill: $content-link-active-color;
             }
             border-bottom: none;
           }
@@ -529,7 +526,7 @@
             @if $theme == classic {
               fill: $off-black;
             } @else {
-              fill: $accent-color;
+              fill: $content-link-active-color;
             }
             vertical-align: text-bottom;
           }
@@ -600,9 +597,9 @@
         }
 
         &:hover {
-          color: link-hover-color($secondary-background-color);
+          color: $content-link-active-color;
           .title {
-            color: link-hover-color($secondary-background-color);
+            color: $content-link-active-color;
           }
         }
 
@@ -644,7 +641,7 @@
           font-size: 1.75rem;
           font-weight: 400;
           text-align: center;
-          color: background-color-text($secondary-background-color);
+          color: $content-text-color;
           @media print {
             color: $print-text-color;
             padding-top: 0;
@@ -657,7 +654,7 @@
         background-color: inherit;
         min-height: 0;
         margin-bottom: 0;
-        color: background-color-text($secondary-background-color);
+        color: $content-text-color;
         @media print {
           color: $print-text-color;
         }
@@ -672,7 +669,7 @@
             font-size: inherit !important;
           }
           .arrow {
-            fill: background-color-text($secondary-background-color);
+            fill: $content-text-color;
           }
         }
       }

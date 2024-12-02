@@ -784,13 +784,11 @@ body {
         color: $content-link-color;
         text-decoration: underline;
         text-decoration-style: dotted;
-        text-decoration-color: $content-link-color;
       }
 
       &:hover {
         color: $content-link-active-color;
         text-decoration-style: solid;
-        text-decoration-color: $content-link-active-color;
       }
 
       &:focus {
