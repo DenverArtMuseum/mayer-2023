@@ -409,17 +409,20 @@ $image-divider-height: 16px;
           background-color-text-classic($content-background-color);
       } @else {
         color: $accent-color;
-        border-bottom: 1px dotted $accent-color;
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        text-decoration-color: $accent-color;
       }
 
       &:hover {
         color: link-hover-color($content-background-color);
-        border-bottom: 1px solid link-hover-color($content-background-color);
+        text-decoration-style: solid;
+        text-decoration-color: link-hover-color($content-background-color);
       }
 
       @media print {
         color: $print-text-color;
-        border-bottom-width: 0;
+        text-decoration: none;
       }
     }
 
@@ -718,14 +721,14 @@ $image-divider-height: 16px;
   }
 }
 
-/* TODO display `entry-figure` assets only on PDF/epub output so this doesn't have to be conditionally hidden to be replace with a `lightbox` */
+/* TODO: display `entry-figure` assets only on PDF/epub output so this doesn't have to be conditionally hidden to be replace with a `lightbox` */
 .quire-entry__image {
   @media screen {
     display: none;
   }
 }
 
-/* TODO clean up side-by-side layout styles so these brittle calcs in this lightbox wrapper are not necessary */
+/* TODO: clean up side-by-side layout styles so these brittle calcs in this lightbox wrapper are not necessary */
 .quire-entry__lightbox {
   position: relative;
   width: 100%;

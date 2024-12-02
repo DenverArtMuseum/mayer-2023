@@ -88,7 +88,9 @@
         padding: 4px;
       }
       a {
-        border-bottom: 1px dotted currentColor;
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        text-decoration-color: currentColor;
         color: currentColor;
 
         &:hover {

@@ -42,7 +42,8 @@ div {
 
       a {
         color: $accent-color;
-        border-bottom: 1px dotted;
+        text-decoration: underline;
+        text-decoration-style: dotted;
       }
     }
 
@@ -53,7 +54,8 @@ div {
 
     a {
       color: $accent-color;
-      border-bottom: 1px dotted;
+      text-decoration: underline;
+      text-decoration-style: dotted;
     }
   }
 

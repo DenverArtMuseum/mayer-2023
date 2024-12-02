@@ -53,17 +53,20 @@
         width: fit-content;
         @if $theme == classic {
           color: $black;
-          border-bottom: 1px dotted $black;
+          text-decoration: underline;
+          text-decoration-style: dotted;
           letter-spacing: 0px;
         } @else {
           color: $accent-color;
-          border-bottom: 1px dotted $accent-color;
+          text-decoration: underline;
+          text-decoration-style: dotted;
           * {
             color: $accent-color;
           }
         }
         &:hover {
-          border-bottom: 1px solid link-hover-color($content-background-color);
+          text-decoration-style: solid;
+          text-decoration-color: link-hover-color($content-background-color);
           & * {
             color: link-hover-color($content-background-color);
           }

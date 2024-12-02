@@ -82,9 +82,12 @@
       padding-bottom: 0;
       border-radius: 0;
       display: inline-block;
-      border-bottom: 1px dotted $off-black;
+      text-decoration: underline;
+      text-decoration-style: dotted;
+      text-decoration-color: $off-black;
       &:hover {
-        border-bottom: 1px solid darken($accent-color, 15%);
+        text-decoration-style: solid;
+        text-decoration-color: $accent-color;
       }
       .title {
         span {
@@ -136,7 +139,9 @@
         }
       }
       a {
-        border-bottom: 1px dotted background-color-text($secondary-background-color);
+        text-decoration: underline;
+        text-decoration-style: dotted;
+        text-decoration-color: background-color-text($secondary-background-color);
         @media print {
           border-width: 0;
         }
@@ -150,7 +155,8 @@
           display: none;
         }
         &:hover {
-          border-bottom: 1px solid link-hover-color($secondary-background-color);
+          text-decoration-style: solid;
+          text-decoration-color: link-hover-color($secondary-background-color);
         }
       }
     }

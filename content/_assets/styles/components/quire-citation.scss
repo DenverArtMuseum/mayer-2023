@@ -18,19 +18,15 @@
     font-style: normal;
     color: inherit;
     cursor: pointer;
-    @if $theme == classic {
-      border-bottom: 1px dotted background-color-text-classic($content-background-color);
-    } @else {
-      border-bottom: 1px dotted $accent-color;
-    }
-    @media print { border-bottom-width: 0; }
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: $content-link-color;
+
+    @media print { text-decoration: none; }
     &:hover {
-      color: link-hover-color($content-background-color) !important;
-      border-bottom: 1px solid link-hover-color($content-background-color);
-    }
-    &:hover {
-      color: link-hover-color($content-background-color) !important;
-      border-bottom: 1px solid link-hover-color($content-background-color);
+      color: $content-link-active-color;
+      text-decoration-color: $content-link-active-color;
+      text-decoration-style: solid;
     }
     &--icon {
       border-bottom-width: 0;
@@ -39,7 +35,7 @@
         @if $theme == classic {
           fill: $black;
         } @else {
-          fill: $accent-color;
+          fill: $content-link-color;
         }
         width: 1em;
         height: 1em;
