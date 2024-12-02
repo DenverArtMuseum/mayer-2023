@@ -15,11 +15,11 @@ url: 'http://localhost:8080'
 # Title & Description
 title: "Collecting the Other Americas"
 subtitle: Ancient Americas Collections in American Art Museums
-reading_line:
-short_title:
+reading_line: Some line
+short_title: Anything at all
 
 description:
-  one_line:
+  one_line: Some text
   full: "The term *Pre-Columbian art* once described the material culture produced in the Americas, mostly south of the US-Mexico border, prior to the arrival of Europeans. Museums across the United States now refer to these departments as *the Americas* or *the ancient Americas.* Stewards of these collections in American art museums have begun to confront the changing meanings and import of what René d’Harnoncourt once described as the *Other Americas*. This symposium volume captures the history of collecting and display of ancient American works in art museums, a history surprisingly poorly documented until now."
 
 # ------------------------------------------------------------------------------
@@ -36,8 +36,8 @@ identifier:
 publisher:
   - name: Mayer Center for Ancient and Latin American Art at the Denver Art Museum
     location: Denver, CO
-    url: 
-    logo: 
+    url: http://getty.com
+    logo: logo-getty.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -45,16 +45,16 @@ publisher:
 
 contributor_as_it_appears:
 
-contributor:
+contributors:
   - id: sbergh
-    type: primary
+    type: secondary
     first_name: Susan E.
     last_name: Bergh
     title: former Curator of Pre-Columbian and Native North American Art 
     affiliation: Cleveland Museum of Art
     bio: "Susan E. Bergh is former Curator of Pre-Columbian and Native North American Art at the Cleveland Museum of Art."
   - id: kdriggers
-    type: primary
+    type: secondary
     first_name: Kristopher
     last_name: Driggers
     title: Associate Curator of Latin American Art  
@@ -68,7 +68,7 @@ contributor:
     affiliation: Walters Art Museum
     bio: "Ellen Hoobler is William B. Ziff, Jr., Curator of Art of the Americas at the Walters Art Museum in Baltimore, MD."
   - id: rkoontz
-    type: primary
+    type: secondary
     first_name: Rex
     last_name: Koontz
     title: Moores Professor of Art History and Consulting Curator of the Art of the Indigenous Americas
@@ -82,35 +82,35 @@ contributor:
     affiliation: Denver Art Museum
     bio: "Victoria Isabel Lyall is Frederick & Jan Mayer Curator of Art of the Ancient Americas at the Denver Art Museum."
   - id: mmiller
-    type: primary
+    type: secondary
     first_name: Mary E.
     last_name: Miller
     title: Director 
     affiliation: Getty Research Institute
     bio: "Mary E. Miller is director of the Getty Research Institute."
   - id: jpillsbury
-    type: primary
+    type: secondary
     first_name: Joanne
     last_name: Pillsbury
     title: Andrall E. Pearson Curator of Ancient American Art  
     affiliation: Metropolitan Museum of Art
     bio: "Joanne Pillsbury is Andrall E. Pearson Curator of Ancient American Art at the Metropolitan Museum of Art."
   - id: epope
-    type: primary
+    type: secondary
     first_name: Elizabeth Irene
     last_name: Pope
     title: Senior Research Associate with the Arts of the Americas and Textiles departments  
     affiliation: Art Institute of Chicago
     bio: "Elizabeth Irene Pope is Senior Research Associate with the Arts of the Americas and Textiles departments at the Art Institute of Chicago."
   - id: mrobb
-    type: primary
+    type: secondary
     first_name: Matthew H.
     last_name: Robb
     title: Mesoamerican specialist   
     affiliation: Library of Congress
     bio: "Matthew H. Robb is a Mesoamerican specialist at the Library of Congress, Washington, DC."
   - id: nrosoff
-    type: primary
+    type: secondary
     first_name: Nancy B.
     last_name: Rosoff
     title: Andrew W. Mellon Curator and Chair of the Arts of the Americas   
