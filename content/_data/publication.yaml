@@ -13,7 +13,7 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: "Collecting the Other Americas"
+title: 'Collecting the "Other Americas"'
 subtitle: Ancient Americas Collections in American Art Museums
 reading_line: 
 short_title: 
@@ -36,8 +36,8 @@ identifier:
 publisher:
   - name: Mayer Center for Ancient and Latin American Art at the Denver Art Museum
     location: Denver, CO
-    url: http://getty.com
-    logo: logo-getty.png
+    url: https://www.denverartmuseum.org/en/mayer-center-ancient-and-latin-american-art
+    logo: 
 
 # ------------------------------------------------------------------------------
 # Contributors
