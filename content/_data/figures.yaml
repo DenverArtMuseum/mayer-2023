@@ -69,6 +69,7 @@ figure_list:
     caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
     credit: The J. Paul Getty Museum, Los Angeles
     download: true
+    tile_quality: 85
     zoom: true
 
   - id: "mother-variants"

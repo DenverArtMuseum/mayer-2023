@@ -16,13 +16,14 @@ const logger = chalkFactory('Figures:ImageProcessor', 'DEBUG')
  */
 module.exports = class ImageProcessor {
   constructor(iiifConfig) {
-    const { imagesDir, inputRoot, outputRoot } = iiifConfig.dirs
+    const { imagesDir, inputRoot, outputRoot, tileQuality } = iiifConfig.dirs
     const tiler = new Tiler(iiifConfig)
     const transformer = new Transformer(iiifConfig)
 
     this.inputRoot = path.join(inputRoot, imagesDir)
     this.outputRoot = outputRoot
     this.tiler = tiler.tile.bind(tiler)
+    this.tileQuality = tileQuality
     this.transform = transformer.transform.bind(transformer)
 
     logger.debug(`
@@ -67,7 +68,7 @@ module.exports = class ImageProcessor {
        * Tile image
        */
       try {
-        await this.tiler(inputPath, outputPath)
+        await this.tiler(inputPath, outputPath, { tileQuality: options.tileQuality || this.tileQuality })
       } catch(error) {
         errors.push(`Failed to generate tiles from source ${imagePath} ${error}`)
       }

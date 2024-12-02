@@ -21,6 +21,7 @@ module.exports = class Tiler {
     this.supportedExtensions = iiifConfig.formats.flatMap(({ input }) => input)
     this.tilesDir = iiifConfig.tilesDirName
     this.tileSize = iiifConfig.tileSize
+    this.tileQuality = iiifConfig.tileQuality
   }
 
   /**
@@ -29,7 +30,7 @@ module.exports = class Tiler {
    * @param  {String} outputDir   Destination directory for the tiles
    * @return {Promise}
    */
-  tile(inputPath, outputDir) {
+  tile(inputPath, outputDir, options = {}) {
     if (!inputPath) return
 
     const { ext, name } = path.parse(inputPath)
@@ -50,7 +51,10 @@ module.exports = class Tiler {
     logger.debug(`tiling '${inputPath}'`)
     const format = this.formats.find(({ input }) => input.includes(ext))
     return sharp(inputPath)
-      .toFormat(format.output.replace('.', ''))
+      .toFormat(format.output.replace('.', ''),{
+        quality: options.tileQuality || this.tileQuality,
+        mozjpeg: true // Use at least a slightly modern JPEG algorithm
+      })
       .tile({
         id: new URL(path.join(outputDir, name), this.baseURI).toString(),
         layout: 'iiif',

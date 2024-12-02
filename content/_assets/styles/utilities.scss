@@ -4,6 +4,16 @@
 // scss-lint:disable NameFormat
 // Mixins
 // -----------------------------------------------------------------------------
+
+@use 'sass:math';
+
+/**************************************************************************
+* Universally useful conversion function for lengths/sizes
+**************************************************************************/
+@function px-to-rem($pixels, $base: 16px) {
+  @return math.div($pixels, $base) * 1rem;
+}
+
 // Adjust foreground colors based on an element's background
 @mixin animation($animationProperties) {
   @media screen {

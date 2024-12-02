@@ -87,6 +87,11 @@ module.exports = (eleventyConfig) => {
      */
     tileSize: 256,
     /**
+     * Default JPEG quality for tiles
+     * @type {Number}
+     */
+    tileQaulity: 80,
+    /**
      * All transformations are applied to each image and output a separate file.
      *
      * @type {Array<Object>}

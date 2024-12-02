@@ -16,7 +16,7 @@
 // html
 // -----------------------------------------------------------------------------
 html {
-  font-size: $quire-base-font-size;
+  font-size: 100%;
   @media print {
     font-size: $print-base-font-size;
   }
@@ -39,12 +39,16 @@ html {
   overflow-y: visible;
 }
 
+body {
+  font-size: $quire-base-font-size;
+}
+
 // .quire-page
 // -----------------------------------------------------------------------------
 .quire-page {
 
   @media screen {
-    min-height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
+    min-height: calc(100vh - #{$navbar-height});
   }
   @media print {
     min-height: calc($print-height - $print-top-margin - $print-bottom-margin);
@@ -704,9 +708,9 @@ html {
       }
     }
     &--full-height {
-      height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
+      height: calc(100vh - #{$navbar-height});
       &.hero-image {
-        height: calc(100vh - #{$navbar-height} - #{$quire-progress-bar-height});
+        height: calc(100vh - #{$navbar-height});
         max-height: initial;
         .hero-body {
           @media print {

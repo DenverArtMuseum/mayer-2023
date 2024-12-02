@@ -3,7 +3,14 @@
 // Change the color variables once at the top, or change elements individually
 // below. Colors are typically Hex values, or one of 140 standard color names/
 
-$black: #000000;
+// A lot of the default color variables defined by default in Quire are already
+// defined in the bulma libraries, and SASS throws errors when redefining them.
+// This is a side-effect of @import being replaced by @use and @forward.
+// When we use @forward to include these libraries (necessary now), it produces
+// errors when variables are redefined. This may necessitate a pretty significant
+// refactor of Quire styles.
+
+$black: #000000 !default;
 $off-black: #333333;
 $gray: #CCCCCC;
 $white: #ffffff;

@@ -3,6 +3,9 @@ _epub/
 _pdf/
 _site/
 _temp/
+# we don't want to store public in the repo. 
+public/
+
 
 # EleventFetch cache directory
 .cache
@@ -42,4 +45,7 @@ pids
 .DS_Store
 desktop.ini
 thumbs.db
+
+# Editors and other
+.vscode
 

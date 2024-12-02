@@ -6,9 +6,23 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$accent-color: null;
-$content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$link-color: #0000ff;
+$link-visited-color: #ff00ff;
+$link-active-color: #ff0000;
+
+$accent-color: $red;
+$content-background-color: $white;
+$content-text-color: $off-black;
+$content-link-color: $link-color;
+$content-link-visited-color: $link-visited-color;
+$content-link-active-color: $link-active-color;
+$secondary-background-color: $off-white; // only for modern theme
+$secondary-text-color: $content-text-color;
+$secondary-link-color: $content-link-color;
+$secondary-link-visited-color: $content-link-visited-color;
+$secondary-link-active-color: $content-link-active-color;
+
+
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -18,7 +32,7 @@ $navbar: normal;
 
 
 
-// Pre-defined fonts
+// Pre-defined fonts: Quire
 // -----------------------------------------------------------------------------
 // This theme includes three embedded, open license fonts, and also uses
 // the widely available Times (files of which are not otherwise included here).
@@ -27,10 +41,35 @@ $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
 
+// Pre-defined fonts: DAM
+// -----------------------------------------------------------------------------
+// All of the default Quire fonts are commented out in fonts/index.scss
+//  - Inter and Montserrat below are available by default.
+//  - Raleway and Zen Kaku Gothic New are commented out by default, but are easy to enable.
+$typeface-inter: 'InterVariable', sans-serif;
+$typeface-montserrat: 'Montserrat Variable', sans-serif;
+// Uncomment Raleway in fonts/index.scss if you want to use it
+//$typeface-raleway: 'Raleway Variable', sans-serif;
+// Uncomment Zen Kaku Gothic in fonts/index.scss if you want to use it
+// - Also be sure to set up :lang(ja) styles in custom.scss
+// - This has a very long tail of fallback styles because Japanese font support
+//   on different OSes is very inconsistent.
+//$typeface-zenkaku: "Zen Kaku Gothic New", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, メイリオ, Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "ＭＳ ゴシック" , "MS Gothic", "Noto Sans CJK JP", TakaoPGothic, sans-serif;
+
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 16px;
+$quire-base-font-size: 1.25rem; // 20px at 100% zoom
 $quire-page-paragraph-style: line-space; // or use indent
+
+// More easily alter page width and content size (default is really small)
+// -----------------------------------------------------------------------------
+$quire-base-type-padding-vert: 2.5rem;
+$quire-base-type-padding-horiz: 2.5rem;
+// Assuming we're using Montserrat, column width should be 60ch + padding
+// Assuming 20px font size because that's what we use the most
+// Adjust for smaller base-font-sizes: 16px = 43rem, 18px = 48
+// Adjust for different typefaces. Aim for readable ch width
+$quire-page-content-width: 53rem + (2 * $quire-base-type-padding-horiz);
 
 // Cover typography
 // -----------------------------------------------------------------------------
@@ -39,10 +78,13 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 
 // Menu
 // -----------------------------------------------------------------------------
-$quire-menu-width: 352px;
+$quire-menu-width: 22rem;
 
 $quire-menu-color: $off-black;
 $quire-menu-text-color: $white;
+$menu-link-color: $link-color;
+$menu-link-visited-color: $link-color;
+$menu-link-active-color: $link-color;
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------
@@ -94,10 +136,10 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $noto-sans !default;
-  $quire-headings-font: $ibm-sans !default;
-  $quire-footnotes-font: $noto-serif !default;
-  $quire-navigation-font: $noto-sans !default;
+  $quire-primary-font: $typeface-montserrat !default;
+  $quire-headings-font: $typeface-inter !default;
+  $quire-footnotes-font: $typeface-montserrat !default;
+  $quire-navigation-font: $typeface-inter !default;
   $accent-color: $red !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;
@@ -106,12 +148,14 @@ $quire-navigation-font: null; // navbar and next/prev buttons
 // Navbar
 // -----------------------------------------------------------------------------
 $navbar-height: 3rem;
-$quire-progress-bar-height: 2px;
 
 // Declare navbar colors
 $quire-navbar-color: null;
 $quire-navbar-hover-color: null;
 $quire-navbar-text-color: null;
+$navbar-link-color: $link-color;
+$navbar-link-visited-color: $link-visited-color;
+$navbar-link-active-color: $link-active-color;
 
 @if $navbar == accent {
   // Accent Navbar

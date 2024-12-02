@@ -29,7 +29,7 @@ const logger = chalkFactory('Figures:Figure', 'DEBUG')
  */
 module.exports = class Figure {
   constructor(iiifConfig, imageProcessor, data) {
-    const { baseURI, dirs, manifestFileName } = iiifConfig
+    const { baseURI, dirs, manifestFileName, baseTileQuality } = iiifConfig
     const outputDir = path.join(dirs.outputPath, data.id)
 
     /**
@@ -82,6 +82,7 @@ module.exports = class Figure {
       media_id: mediaId,
       media_type: mediaType,
       src,
+      tile_quality: tileQuality,
       zoom
     } = data
 
@@ -104,6 +105,7 @@ module.exports = class Figure {
     this.outputFormat = format && format.output
     this.processImage = imageProcessor
     this.src = src
+    this.tileQuality = this.tileQuality || baseTileQuality
     /**
      * We are disabling zoom for all sequence figures
      * our custom image-sequence component currently only supports static images
@@ -305,7 +307,8 @@ module.exports = class Figure {
       logger.debug(`processing annotation image ${item.src}`)
       if (item.isImageService) this.validateImageForTiling(item.src)
       return item.src && this.processImage(item.src, this.outputDir, {
-        tile: item.isImageService
+        tile: item.isImageService,
+        tileQuality: this.tileQuality
       })
     }))
     const errors = results.flatMap(({ errors }) => errors || [])
@@ -321,6 +324,7 @@ module.exports = class Figure {
     this.validateImageForTiling(this.src)
     const { errors } = await this.processImage(this.src, this.outputDir, {
       tile: true,
+      tileQuality: this.tileQuality,
       transformations
     })
     if (errors) this.errors = this.errors.concat(errors)
@@ -341,6 +345,7 @@ module.exports = class Figure {
       logger.debug(`processing sequence image ${item.src}`)
       return item.src && this.processImage(item.src, this.outputDir, {
         tile: item.isImageService,
+        tileQuality: this.tileQuality,
         transformations: isStartItem ? transformations : []
       })
     }))

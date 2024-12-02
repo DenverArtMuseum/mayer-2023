@@ -90,7 +90,7 @@ $image-divider-height: 16px;
     );
     background-color: $black;
     min-height: calc(
-      100vh - #{$quire-entry-header-height} - #{$navbar-height} - #{$quire-progress-bar-height}
+      100vh - #{$quire-entry-header-height} - #{$navbar-height}
     );
     display: flex;
     align-items: center;
@@ -113,7 +113,7 @@ $image-divider-height: 16px;
       flex: 1 1 100%;
       width: 100%;
       height: calc(
-        100vh - #{$quire-entry-header-height} - #{$navbar-height} - #{$quire-progress-bar-height}
+        100vh - #{$quire-entry-header-height} - #{$navbar-height}
       );
       display: flex;
       align-items: center;
@@ -194,7 +194,7 @@ $image-divider-height: 16px;
       img {
         margin: 0 auto;
         max-height: calc(
-          100vh - #{$quire-entry-header-height} - #{$navbar-height} - #{$quire-progress-bar-height}
+          100vh - #{$quire-entry-header-height} - #{$navbar-height}
         );
 
         @media screen and (max-width: $desktop) {
@@ -592,9 +592,9 @@ $image-divider-height: 16px;
       overflow: hidden;
       z-index: 10;
       @media screen and (max-width: $desktop) {
-        top: calc(#{$navbar-height} + #{$quire-progress-bar-height});
+        top: $navbar-height;
         height: calc(
-          ((100vh - #{$navbar-height} - #{$quire-progress-bar-height}) * 0.45) +
+          ((100vh - #{$navbar-height}) * 0.45) +
             $image-divider-height
         );
         &::after {
@@ -617,7 +617,7 @@ $image-divider-height: 16px;
         position: relative;
         width: 100%;
         height: calc(
-          100vh - #{$quire-entry-header-height} - #{$navbar-height} - #{$quire-progress-bar-height}
+          100vh - #{$quire-entry-header-height} - #{$navbar-height}
         );
 
         @media screen and (min-width: $desktop) {
@@ -638,7 +638,7 @@ $image-divider-height: 16px;
           figure {
             @media screen and (min-width: $desktop) {
               height: calc(
-                100vh - #{$navbar-height} - #{$quire-progress-bar-height}
+                100vh - #{$navbar-height}
               );
             }
 
@@ -665,7 +665,7 @@ $image-divider-height: 16px;
       overflow: scroll;
       width: 100%;
       height: calc(
-        ((100vh - #{$navbar-height} - #{$quire-progress-bar-height}) * 0.55) -
+        ((100vh - #{$navbar-height}) * 0.55) -
           $image-divider-height
       );
 
@@ -733,7 +733,7 @@ $image-divider-height: 16px;
   height: calc(100vh - #{$image-divider-height});
   @media screen and (min-width: $desktop) {
     height: calc(
-      100vh - #{$quire-entry-header-height} - #{$navbar-height} - #{$quire-progress-bar-height}
+      100vh - #{$quire-entry-header-height} - #{$navbar-height}
     );
   }
   @media print {

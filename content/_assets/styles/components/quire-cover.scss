@@ -27,7 +27,7 @@
     left: 0;
     width: 100%;
     @media screen {
-      min-height: calc(95vh - #{$navbar-height} - #{$quire-progress-bar-height});
+      min-height: calc(95vh - #{$navbar-height});
     }
     background-position: center center;
     background-repeat: no-repeat;
@@ -43,7 +43,7 @@
     background-image: linear-gradient(90deg, $quire-cover-color-1, $quire-cover-color-2);
     position: relative;
     @media screen {
-      min-height: calc(95vh - #{$navbar-height} - #{$quire-progress-bar-height}) !important;
+      min-height: calc(95vh - #{$navbar-height}) !important;
     }
     text-align: left;
     display: flex;
