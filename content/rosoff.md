@@ -7,11 +7,11 @@ contributor:
   - id: nrosoff
 ---
 
-{% figure 'rosoff-fig-1', 'is-pulled-right' %}
+{% figure 'rosoff-fig-1', 'is-pulled-left' %}
 
 The Brooklyn Museum began actively collecting the ancient arts of the Americas in 1929 with the appointment of Herbert Joseph Spinden (1879–1967), who succeeded Stewart Culin (1858–1929) as the institution’s second Curator of Ethnology (fig. 1). The four case studies presented in this essay foreground Spinden’s central role in the acquisition of some of the institution’s most iconic works.[^1]
 
-{% figure 'rosoff-fig-2' %}
+{% figure 'rosoff-fig-2', 'is-pulled-right' %}
 
 Before coming to the Brooklyn Museum, Spinden was already well known for his pioneering work on ancient Maya art and held curatorial positions at the American Museum of Natural History, Harvard’s Peabody Museum of Archaeology and Ethnology, and the Buffalo Museum of Science. Born in Huron, South Dakota, in 1879, Spinden studied anthropology and archaeology at Harvard University, culminating in a PhD in 1909.[^2] Upon his arrival at Brooklyn, he reinstalled Culin’s Rainbow House Gallery of Ethnology and commenced building the Museum’s collection of prehispanic, Spanish American, and ethnographic objects from Mexico, Central, and South America (fig. 2). Despite being an archaeologist, Spinden focused on the aesthetic qualities of Indigenous art and called for the desegregation of museum categories such as ethnology and fine and decorative arts.[^3] He rejected the word “primitive,” insisting that prehispanic traditions such as Andean weaving and Maya monumental architecture were superlative art forms.[^4] From 1931 until his retirement in 1950, he acquired almost eleven thousand works for the museum and went on at least seven collecting expeditions.[^5]
 

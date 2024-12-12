@@ -2,109 +2,109 @@ figure_list:
   - id: rosoff-fig-1
     src: "figures/inline/rosoff-fig-1.jpg"
     label: "1"
-    credit: "Brooklyn Museum Photograph Collection, Series: Staff, Folder: Spinden, Herbert, Brooklyn Museum Libraries and Archives"
-    caption: "Herbert Joseph Spinden, 1879-1967. Brooklyn Museum Photograph Collection, Series: Staff, Folder: Spinden, Herbert, Brooklyn Museum Libraries and Archives."
+    credit: "Brooklyn Museum Photograph Collection, Series: Staff, Folder: Spinden, Herbert, Brooklyn Museum Libraries and Archives."
+    caption: "Herbert Joseph Spinden, 1879-1967."
   
   - id: rosoff-fig-2
     src: "figures/inline/rosoff-fig-2.jpg"
     label: "2"
-    credit: "Brooklyn Museum Photograph Collection, Series: Gallery Views, Folder: AON, Gallery of Ethnology, Brooklyn Museum Libraries and Archives"
-    caption: "Rainbow House Gallery of Ethnology, 1930. Brooklyn Museum Photograph Collection, Series: Gallery Views, Folder: AON, Gallery of Ethnology, Brooklyn Museum Libraries and Archives."
+    credit: "Brooklyn Museum Photograph Collection, Series: Gallery Views, Folder: AON, Gallery of Ethnology, Brooklyn Museum Libraries and Archives."
+    caption: "Rainbow House Gallery of Ethnology, 1930."
   
   - id: rosoff-fig-3
     src: "figures/inline/rosoff-fig-3.jpg"
     label: "3"
-    credit: "NYHS-RG5, Box 1, Folder 3, New-York Historical Society (NYHS) Pictorial Archive"
-    caption: "Huastec sculptures adjacent to Egyptian sarcophagus, New-York Historical Society, 170 Second Avenue, New York, NY, late 1800s–1908. NYHS-RG5, Box 1, Folder 3, New-York Historical Society (NYHS) Pictorial Archive."
+    credit: "NYHS-RG5, Box 1, Folder 3, New-York Historical Society (NYHS) Pictorial Archive."
+    caption: "Huastec sculptures adjacent to Egyptian sarcophagus, New-York Historical Society, 170 Second Avenue, New York, NY, late 1800s–1908."
   
   - id: rosoff-fig-4
     src: "figures/inline/rosoff-fig-4.jpg"
     label: "4"
-    credit: "Arts of the Americas Photo Files, Brooklyn Museum"
-    caption: "Mexican Hall, 1937. Arts of the Americas Photo Files, Brooklyn Museum."
+    credit: "Arts of the Americas Photo Files, Brooklyn Museum."
+    caption: "Mexican Hall, 1937."
   
   - id: rosoff-fig-5
     src: "figures/inline/rosoff-fig-5.jpg"
     label: "5"
-    caption: "B.M. Norman, “Drawing of a Rattle of a Priestess or Woman Impersonating a Deity” in Rambles in  the Yucatan, or, Notes of travel through the peninsula, including a visit to the remarkable ruins of Chi-Chen, Kabah, Zayi, and Uxmal, Third Edition (New York: J. & H. G. Langley, 1843), plate No. 1."
+    caption: "B.M. Norman, “Drawing of a Rattle of a Priestess or Woman Impersonating a Deity” in *Rambles in  the Yucatan, or, Notes of travel through the peninsula, including a visit to the remarkable ruins of Chi-Chen, Kabah, Zayi, and Uxmal*, 3rd ed. (J. & H. G. Langley, 1843), plate no. 1."
   
   - id: rosoff-fig-6
     src: "figures/inline/rosoff-fig-6.jpg"
     label: "6"
-    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2904PA"
-    caption: "Rattle of a Priestess or Woman Impersonating a Deity, Campeche, Mexico, 500–850. Ceramic, 6 × 2 5/8 × 1 5/8 in.  (15.2 × 6.7 × 4.1 cm). Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2904PA."
+    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2904PA."
+    caption: "Rattle of a Priestess or Woman Impersonating a Deity, Campeche, Mexico, 500–850. Ceramic, 6 × 2 5/8 × 1 5/8 in.  (15.2 × 6.7 × 4.1 cm)."
   
   - id: rosoff-fig-7
     src: "figures/inline/rosoff-fig-7.jpg"
     label: "7"
-    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2895PA"
-    caption: "Huastec Relief Carving of a Human Face, Ruins in the vicinity of Rancho de las Piedras,  Tamaulipas, Mexico, 900–1250. Sedimentary rock (probably sandstone, 7 3/4 × 13 1/2 × 11 1/2 in. (19.7 × 34.3 ×  29.2 cm). Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2895PA."
+    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2895PA."
+    caption: "Huastec Relief Carving of a Human Face, Ruins in the vicinity of Rancho de las Piedras, Tamaulipas, Mexico, 900–1250. Sedimentary rock (probably sandstone), 7 3/4 × 13 1/2 × 11 1/2 in. (19.7 × 34.3 ×  29.2 cm)."
   
   - id: rosoff-fig-8
-    src: "figures/inline/rosoff-fig-8.jpg"
+    src: "figures/inline/rosoff-fig-8-front.jpg"
     label: "8"
-    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2897PA"
-    caption: "Huastec Life-Death Figure, Possibly found at the site of Chilitijú, near San Vicente Tancauyalab, San Luis Potosí, Mexico, 900–1250. Sandstone, traces of pigment, 62 3/8 x 26 x 11 1/2 in. (158.4 x 66 x 29.2  cm). Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2897PA."
+    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2897PA."
+    caption: "Huastec Life-Death Figure, possibly found at the site of Chilitijú, near San Vicente Tancauyalab, San Luis Potosí, Mexico, 900–1250. Sandstone, traces of pigment, 62 3/8 x 26 x 11 1/2 in. (158.4 x 66 x 29.2  cm)."
   
   - id: rosoff-fig-9
     src: "figures/inline/rosoff-fig-9.jpg"
     label: "9"
-    credit: "Courtesy of the Center for  Southwest Research, University of New Mexico"
-    caption: "Minor Cooper Keith (1848–1929) and Cristina Castro Keith (1861–1944), in Keith Watt Stewart and Costa Rica (The University of New Mexico Press, 1964), n.p., . Courtesy of the Center for  Southwest Research, University of New Mexico."
+    credit: "Courtesy of the Center for Southwest Research, University of New Mexico."
+    caption: "Minor Cooper Keith (1848–1929) and Cristina Castro Keith (1861–1944), in *Keith Watt Stewart and Costa Rica* (The University of New Mexico Press, 1964), n.p."
   
   - id: rosoff-fig-10
     src: "figures/inline/rosoff-fig-10.jpg"
     label: "10"
-    credit: "Brooklyn Museum: Gift of Mrs. Minor C. Keith in memory of  her husband, 31.1692"
-    caption: "Central Caribbean Seated Male Figure, Probably Las Mercedes, Costa Rica., 1000–1550. Volcanic  stone (Andesite), 11 3/4 × 7 × 5 1/2 in. (29.8 × 17.8 × 14 cm). Brooklyn Museum: Gift of Mrs. Minor C. Keith in memory of  her husband, 31.1692."
+    credit: "Brooklyn Museum: Gift of Mrs. Minor C. Keith in memory of  her husband, 31.1692."
+    caption: "Central Caribbean Seated Male Figure, probably Las Mercedes, Costa Rica, 1000–1550. Volcanic stone (andesite), 11 3/4 × 7 × 5 1/2 in. (29.8 × 17.8 × 14 cm)."
   
   - id: rosoff-fig-11
     src: "figures/inline/rosoff-fig-11.jpg"
     label: "11"
-    credit: "Brooklyn Museum: Alfred  W. Jenkins Fund, 34.5084"
-    caption: "Central Caribbean Human Figure Wearing Crocodile Mask, Jiménez River near site of  Las Mercedes, Costa Rica, 700–1000. Vesicular andesite, 61 x 24 1/2 x 20 in., 631 lb. (154.9 x 62.2 x 50.8 cm). Brooklyn Museum: Alfred  W. Jenkins Fund, 34.5084."
+    credit: "Brooklyn Museum: Alfred  W. Jenkins Fund, 34.5084."
+    caption: "Central Caribbean Human Figure Wearing Crocodile Mask, Jiménez River near site of Las Mercedes, Costa Rica, 700–1000. Vesicular andesite, 61 x 24 1/2 x 20 in., 631 lb. (154.9 x 62.2 x 50.8 cm)."
   
   - id: rosoff-fig-12
     src: "figures/inline/rosoff-fig-12.jpg"
     label: "12"
-    credit: "Brooklyn Museum: John Thomas Underwood Memorial Fund, 38.121"
-    caption: "Nasca Mantle, Cabeza Larga, Ica, Peru, 100–300. Cotton, camelid fiber, 24  5/8 × 58 11/16 in. (62.5 × 149 cm). Brooklyn Museum: John Thomas Underwood Memorial Fund, 38.121."
+    credit: "Brooklyn Museum: John Thomas Underwood Memorial Fund, 38.121."
+    caption: "Nasca Mantle, Cabeza Larga, Ica, Peru, 100–300. Cotton, camelid fiber, 24 5/8 × 58 11/16 in. (62.5 × 149 cm)."
   
   - id: rosoff-fig-13
     src: "figures/inline/rosoff-fig-13.jpg"
     label: "13"
-    credit: "Museo de Arte de Lima. Archivo de Arte Peruano. Fondo Elena Izcue. Gift of Elba de Izcue Jordán"
-    caption: "Anne Wassell, Elena Izcue y su libro “El arte peruana en la escuela”, 1935. Gelatin silver print on paper, Museo de Arte de Lima. Archivo de Arte Peruano. Fondo Elena Izcue. Gift of Elba de Izcue Jordán."
+    credit: "Museo de Arte de Lima. Archivo de Arte Peruano. Fondo Elena Izcue. Gift of Elba de Izcue Jordán."
+    caption: "Anne Wassell, Elena Izcue y su libro *El arte peruana en la escuela*, 1935. Gelatin silver print on paper."
   
   - id: rosoff-fig-14
     src: "figures/inline/rosoff-fig-14.jpg"
     label: "14"
-    credit: "Museo de Arte de Lima. Gift of Elba de Izcue Jordán. ARCHI. Archivo Digital de Arte Peruano"
-    caption: "Elena Izcue, Textile Design, ca. 1928–1936. 15 15/16 × 10 1/16 in. (40.5 × 25.5 cm). Museo de Arte de Lima. Gift of Elba de Izcue Jordán. ARCHI. Archivo Digital de Arte Peruano."
+    credit: "Museo de Arte de Lima. Gift of Elba de Izcue Jordán. ARCHI. Archivo Digital de Arte Peruano."
+    caption: "Elena Izcue, Textile Design, c. 1928–1936. 15 15/16 × 10 1/16 in. (40.5 × 25.5 cm)."
   
   - id: rosoff-fig-15
     src: "figures/inline/rosoff-fig-15.jpg"
     label: "15"
-    credit: "Brooklyn Museum: By exchange, 48.22.6"
-    caption: "Aztec Seated Figure of Ehecatl, Orizaba, State of Veracruz, Mexico, 1440–1521. Volcanic stone, 11  7/16 x 7 1/16 x 6 11/16 in. (27.1 x 17.9 x 17 cm). Brooklyn Museum: By exchange, 48.22.6."
+    credit: "Brooklyn Museum: By exchange, 48.22.6."
+    caption: "Aztec Seated Figure of Ehecatl, Orizaba, State of Veracruz, Mexico, 1440–1521. Volcanic stone, 11  7/16 x 7 1/16 x 6 11/16 in. (27.1 x 17.9 x 17 cm)."
   
   - id: rosoff-fig-16
     src: "figures/inline/rosoff-fig-16.jpg"
     label: "16"
-    credit: "Brooklyn Museum: By exchange, 48.22.10"
-    caption: "Aztec Year Bundle, Valley of Mexico, Mexico, 1440–1521. Volcanic stone, 20 1/2 x 11 in. (52.1 x  27.9 cm). Brooklyn Museum: By exchange, 48.22.10."
+    credit: "Brooklyn Museum: By exchange, 48.22.10."
+    caption: "Aztec Year Bundle, Valley of Mexico, Mexico, 1440–1521. Volcanic stone, 20 1/2 x 11 in. (52.1 x  27.9 cm). "
   
   - id: rosoff-fig-17
     src: "figures/inline/rosoff-fig-17.jpg"
     label: "17"
-    credit: "Brooklyn Museum Photograph Collection, Series: Staff, Folder: Spinden, Herbert. Brooklyn Museum Libraries and Archives"
-    caption: "(From left to right) Miguel Covarrubias, Herbert Spinden, and Daniel F. Rubín de la Borbolla, Brooklyn Museum, January 1948. Brooklyn Museum Photograph Collection, Series: Staff, Folder: Spinden, Herbert. Brooklyn Museum Libraries and Archives."
+    credit: "Brooklyn Museum Photograph Collection, Series: Staff, Folder: Spinden, Herbert. Brooklyn Museum Libraries and Archives."
+    caption: "(From left to right) Miguel Covarrubias, Herbert Spinden, and Daniel F. Rubín de la Borbolla, Brooklyn Museum, January 1948."
   
   - id: rosoff-fig-18
     src: "figures/inline/rosoff-fig-18.jpg"
     label: "18"
-    credit: "Records of the Department of Photography, Brooklyn Museum Archives"
-    caption: "Installation view, What Cortez Saw in Mexico, September 24–November 11, 1948. Records of the Department of Photography, Brooklyn Museum Archives."
+    credit: "Records of the Department of Photography, Brooklyn Museum Archives."
+    caption: "Installation view, *What Cortez Saw in Mexico*, September 24–November 11, 1948."
   
   - id: bergh-fig-1
     src: "figures/inline/bergh-fig-1.jpg"
