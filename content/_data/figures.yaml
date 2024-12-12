@@ -753,103 +753,103 @@ figure_list:
     src: "figures/inline/hoobler-fig-1.jpg"
     label: "1"
     credit: "Century Association Archives Foundation, Member Photograph Albums Collection, Album 11. Courtesy the Century Association Archives."
-    caption: "George Frederick Kunz (1856–1932), ca. 1890. Century Association Archives Foundation, Member Photograph Albums Collection, Album 11. Courtesy the Century Association Archives.."
+    caption: "George Frederick Kunz (1856–1932), ca. 1890."
   
   - id: hoobler-fig-2
     src: "figures/inline/hoobler-fig-2.jpg"
     label: "2"
-    credit: "Walters Art Museum, 37.1682. Courtesy the Walters Art Museum"
-    caption: "Thomas Cromwell Corner, Posthumous Portrait of Henry Walters (1848–1931), 1938. Oil on canvas, Walters Art Museum, 37.1682. Courtesy the Walters Art Museum."
+    credit: "Walters Art Museum, 37.1682. Courtesy the Walters Art Museum/"
+    caption: "Thomas Cromwell Corner, Posthumous Portrait of Henry Walters (1848–1931), 1938. Oil on canvas."
   
   - id: hoobler-fig-3
     src: "figures/inline/hoobler-fig-3.jpg"
     label: "3"
     credit: "Walters Art Museum Library and Archives (146797). Courtesy the Walters Art Museum"
-    caption: "Ancient American objects made of gold, purchased from Tiffany & Co., New York, . Walters Art Museum Library and Archives (146797). Courtesy the Walters Art Museum."
+    caption: "Ancient American objects made of gold, purchased from Tiffany & Co., New York."
   
   - id: hoobler-fig-4
     src: "figures/inline/hoobler-fig-4.jpg"
     label: "4"
-    credit: "Walters Art Museum Library and Archives (146697). Courtesy the Walters Art Museum"
-    caption: "Objects with snake imagery purchased from Tiffany & Co, ca. 1900. Walters Art Museum Library and Archives (146697). Courtesy the Walters Art Museum."
+    credit: "Walters Art Museum Library and Archives (146697). Courtesy the Walters Art Museum."
+    caption: "Objects with snake imagery purchased from Tiffany & Co, c. 1900. "
   
   - id: hoobler-fig-5
     src: "figures/inline/hoobler-fig-5.jpg"
     label: "5"
-    credit: "Walters Art Museum, 29.2. Courtesy the Walters Art Museum"
-    caption: "Knotted Rattlesnake, Mexica (Aztec), Central Mexico, 1100–1520. Basalt, 11 1/4 × 16 in. (28.5 × 40.64 cm). Walters Art Museum, 29.2. Courtesy the Walters Art Museum."
+    credit: "Walters Art Museum, 29.2. Courtesy the Walters Art Museum."
+    caption: "Knotted Rattlesnake, Mexica (Aztec), Central Mexico, 1100–1520. Basalt, 11 1/4 × 16 in. (28.5 × 40.64 cm)."
   
   - id: hoobler-fig-6
     src: "figures/inline/hoobler-fig-6.jpg"
     label: "6"
-    credit: "Walters Art Museum Library and Archives (456064). Courtesy the Walters Art Museum"
-    caption: "Installation photograph of 1952 exhibition 4000 Years of Modern Art at the Walters Art Museum, . Walters Art Museum Library and Archives (456064). Courtesy the Walters Art Museum."
+    credit: "Walters Art Museum Library and Archives (456064). Courtesy the Walters Art Museum."
+    caption: "Installation photograph of *4000 Years of Modern Art at the Walters Art Museum*, 1952."
   
   - id: hoobler-fig-7
     src: "figures/inline/hoobler-fig-7.jpg"
     label: "7"
-    credit: "Exhibitions Photographs Collection, Box 6, Folder 15, PCEX_06_15_001_recto, Archives and Manuscripts Collections, The Baltimore Museum of Art"
-    caption: "Adelyn D. Breeskin, Alan Wurtzburger, Janet Wurtzburger, and Paul S. Wingert in Wurtzburger Collection of African Negro Sculpture exhibition, 1954. Exhibitions Photographs Collection, Box 6, Folder 15, PCEX_06_15_001_recto, Archives and Manuscripts Collections, The Baltimore Museum of Art."
+    credit: "Exhibitions Photographs Collection, Box 6, Folder 15, PCEX_06_15_001_recto, Archives and Manuscripts Collections, The Baltimore Museum of Art."
+    caption: "Adelyn D. Breeskin, Alan Wurtzburger, Janet Wurtzburger, and Paul S. Wingert in *Wurtzburger Collection of African Negro Sculpture*, 1954."
   
   - id: hoobler-fig-8
     src: "figures/inline/hoobler-fig-8.jpg"
     label: "8"
-    credit: "Photo by author"
-    caption: "Catalogs of Wurtzburger collections: African Art (1954), Oceanic Art (1956), Pre-Columbian Art (1958), . Photo by author."
+    credit: "Photo by author."
+    caption: "Catalogs of Wurtzburger collections: *African Art* (1954), *Oceanic Art* (1956), *Pre-Columbian Art* (1958)."
   
   - id: hoobler-fig-9
     src: "figures/inline/hoobler-fig-9.jpg"
     label: "9"
-    credit: "Exhibitions Photographs Collection, Box 6, Folder 14, PC_EX_06_14_004, Archives and Manuscripts Collections, The Baltimore Museum of Art"
-    caption: "Installation photograph of Wurtzburger Collection of African Negro Sculpture exhibition, 1954. Exhibitions Photographs Collection, Box 6, Folder 14, PC_EX_06_14_004, Archives and Manuscripts Collections, The Baltimore Museum of Art."
+    credit: "Exhibitions Photographs Collection, Box 6, Folder 14, PC_EX_06_14_004, Archives and Manuscripts Collections, The Baltimore Museum of Art."
+    caption: "Installation photograph of *Wurtzburger Collection of African Negro Sculpture*, 1954."
   
   - id: hoobler-fig-10
     src: "figures/inline/hoobler-fig-10.jpg"
     label: "10"
-    credit: "Exhibitions Photographs Collection, Box 5, Folder 13, AN008_010, Archives and Manuscripts Collections, The Baltimore Museum of Art"
-    caption: "Installation photograph of Folk Art of the South American Highlands exhibition, 1950. Exhibitions Photographs Collection, Box 5, Folder 13, AN008_010, Archives and Manuscripts Collections, The Baltimore Museum of Art."
+    credit: "Exhibitions Photographs Collection, Box 5, Folder 13, AN008_010, Archives and Manuscripts Collections, The Baltimore Museum of Art."
+    caption: "Installation photograph of *Folk Art of the South American Highlands*, 1950."
   
   - id: hoobler-fig-11
     src: "figures/inline/hoobler-fig-11.jpg"
     label: "11"
-    credit: "Baltimore Museum of Art: Gift of Alan Wurtzburger, BMA 1960.30.25. Photo by Mitro Hood"
-    caption: "Maskette, Mixtec, Mexico, 1200–1400. Serpentine, Baltimore Museum of Art: Gift of Alan Wurtzburger, BMA 1960.30.25. Photo by Mitro Hood."
+    credit: "Baltimore Museum of Art: Gift of Alan Wurtzburger, BMA 1960.30.25. Photo by Mitro Hood."
+    caption: "Maskette, Mixtec, Mexico, 1200–1400. Serpentine, DIMS NEEDED."
   
   - id: hoobler-fig-12
     src: "figures/inline/hoobler-fig-12.jpg"
     label: "12"
-    credit: "Fiske Kimball Papers (FKP), Box 62, Folder 12, Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
-    caption: "Fiske (1888–1955) and Marie (1889–1955) Kimball (PM284DE), ca. 1940. Fiske Kimball Papers (FKP), Box 62, Folder 12, Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    credit: "Fiske Kimball Papers (FKP), Box 62, Folder 12, Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    caption: "Fiske (1888–1955) and Marie (1889–1955) Kimball (PM284DE), c. 1940."
   
   - id: hoobler-fig-13
     src: "figures/inline/hoobler-fig-13.jpg"
     label: "13"
-    credit: "Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
-    caption: "“L.A. lays golden egg, but Philadelphia takes it back home to hatch,” LA Daily News (PM244OA), January 20, 1951. Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    credit: "(PM244OA) Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    caption: "“L. A. lays golden egg, but Philadelphia takes it back home to hatch,” *LA Daily News*, January 20, 1951."
   
   - id: hoobler-fig-14
     src: "figures/inline/hoobler-fig-14.jpg"
     label: "14"
-    credit: "Fiske Kimball Papers (FKR), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
-    caption: "Fiske Kimball, drawing of the central gallery for the Arensberg collection, with the Arensbergs’ initials, February 7, 1949 (PM231IT), 1949. Fiske Kimball Papers (FKR), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    credit: "(PM231IT) Fiske Kimball Papers (FKR), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    caption: "Fiske Kimball, drawing of the central gallery for the Arensberg collection, with the Arensbergs’ initials, February 7, 1949."
   
   - id: hoobler-fig-15
     src: "figures/inline/hoobler-fig-15.jpg"
     label: "15"
-    credit: "Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
-    caption: "Installation photograph of Pre-Columbian Sculpture from the Arensberg Collection, October 3–December 5, 1953 (PM2164Q), 1953. Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    credit: "(PM2164Q) Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    caption: "Installation photograph of *Pre-Columbian Sculpture from the Arensberg Collection*, October 3–December 5, 1953."
   
   - id: hoobler-fig-16
     src: "figures/inline/hoobler-fig-16.jpg"
     label: "16"
-    credit: "Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
-    caption: "Opening of the Louise and Walter Arensberg Collection in Twenty-Two New Galleries (PM2165O), 1954. Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    credit: "(PM2165O) Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
+    caption: "Opening of *Louise and Walter Arensberg Collection in Twenty-Two New Galleries*, 1954."
   
   - id: hoobler-fig-17
     src: "figures/inline/hoobler-fig-17.jpg"
     label: "17"
-    credit: "Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
-    caption: "Opening of the Louise and Walter Arensberg Collection in Twenty-Two New Galleries (PM2165D), 1954. Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
+    credit: "(PM2165D) Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
+    caption: "Opening of *Louise and Walter Arensberg Collection in Twenty-Two New Galleries*, 1954."
   
   - id: lyall-fig-1-fpo
     src: "figures/inline/lyall-fig-1-fpo.jpg"
