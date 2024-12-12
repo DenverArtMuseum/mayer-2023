@@ -521,121 +521,121 @@ figure_list:
   - id: pope-fig-1
     src: "figures/inline/pope-fig-1.jpg"
     label: "1"
-    credit: "Courtesy of the Smithsonian Libraries and Archives.  Retrieved from https://doi.org/10.5479/sil.817405.39088013421441"
-    caption: "“Columbus Taking Possession.” Photographs of the World’s Fair (The Werner Company, Chicago, 1894), 191, . Courtesy of the Smithsonian Libraries and Archives.  Retrieved from https://doi.org/10.5479/sil.817405.39088013421441."
+    credit: "Courtesy of the Smithsonian Libraries and Archives. Retrieved from https://doi.org/10.5479/sil.817405.39088013421441."
+    caption: "“Columbus Taking Possession,” in *Photographs of the World’s Fair* (The Werner Company, Chicago, 1894), 191."
   
   - id: pope-fig-2
     src: "figures/inline/pope-fig-2.jpg"
     label: "2"
-    credit: "Courtesy of the Smithsonian Libraries and Archives. Retrieved from https://doi.org/10.5479/sil.817405.39088013421441"
-    caption: "“Relics of a Nameless Race,” in Photographs of the World’s Fair (The Werner Company, Chicago, 1894), 153, . Courtesy of the Smithsonian Libraries and Archives. Retrieved from https://doi.org/10.5479/sil.817405.39088013421441."
+    credit: "Courtesy of the Smithsonian Libraries and Archives. Retrieved from https://doi.org/10.5479/sil.817405.39088013421441."
+    caption: "“Relics of a Nameless Race,” in *Photographs of the World’s Fair* (The Werner Company, Chicago, 1894), 153."
   
   - id: pope-fig-3
     src: "figures/inline/pope-fig-3.jpg"
     label: "3"
     credit: "Commission on Chicago Landmarks Photograph Collection, Ryerson and Burnham Art and Architecture Archives, The Art Institute of Chicago. Digital file #201606_170201-231"
-    caption: "Art Institute of Chicago entrance, c. 1910. Art Institute of Chicago, 1893–1916. Shepley, Rutan and Coolidge, . Commission on Chicago Landmarks Photograph Collection, Ryerson and Burnham Art and Architecture Archives, The Art Institute of Chicago. Digital file #201606_170201-231."
+    caption: "Art Institute of Chicago entrance, c. 1910. Art Institute of Chicago, 1893–1916. Shepley, Rutan and Coolidge."
   
   - id: pope-fig-4
     src: "figures/inline/pope-fig-4.jpg"
     label: "4"
-    credit: "Department records, Arts of the Americas, Art Institute of Chicago"
-    caption: "Record of donation from Lydia Ames Coonley-Ward to the Art Institute of Chicago, April 1907. Department records, Arts of the Americas, Art Institute of Chicago."
+    credit: "Department records, Arts of the Americas, Art Institute of Chicago."
+    caption: "Record of donation from Lydia Ames Coonley-Ward to the Art Institute of Chicago, April 1907."
   
   - id: pope-fig-5
     src: "figures/inline/pope-fig-5.jpg"
     label: "5"
-    credit: "Katharine Kuh papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9865"
-    caption: "Katharine Kuh in her office at the Art Institute of Chicago, 1951. Photograph by Stephen Lewellyn, Katharine Kuh papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9865."
+    credit: "Katharine Kuh papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9865."
+    caption: "Katharine Kuh in her office at the Art Institute of Chicago, 1951. Photograph by Stephen Lewellyn."
   
   - id: pope-fig-6
     src: "figures/inline/pope-fig-6.jpg"
     label: "6"
-    credit: "Katharine Kuh Papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9951"
-    caption: "Installation view, Katharine Kuh Gallery, George Fred Keck water colors and Oceanic sculpture, November 1940. Katharine Kuh Papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9951."
+    credit: "Katharine Kuh Papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9951."
+    caption: "Installation view, Katharine Kuh Gallery, George Fred Keck water colors and Oceanic sculpture, November 1940."
   
   - id: pope-fig-7
     src: "figures/inline/pope-fig-7.jpg"
     label: "7"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, Who Is Posada?, Gallery of Art Interpretation, The Art Institute of Chicago, April 13–May 14, 1944. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, *Who Is Posada?*, Gallery of Art Interpretation, The Art Institute of Chicago, April 13–May 14, 1944."
   
   - id: pope-fig-8
     src: "figures/inline/pope-fig-8.jpg"
     label: "8"
-    credit: "From Schmitz and Deimel, Geschenke der Ahnen (Museum für Völkerkunde zu Leipzig, 2001), 14, fig. 1"
-    caption: "Dr. Eduard Gaffron, Lima, 1905. From Schmitz and Deimel, Geschenke der Ahnen (Museum für Völkerkunde zu Leipzig, 2001), 14, fig. 1."
+    credit: "From Schmitz and Deimel, *Geschenke der Ahnen* (Museum für Völkerkunde zu Leipzig, 2001), 14, fig. 1"
+    caption: "Dr. Eduard Gaffron, Lima, 1905."
   
   - id: pope-fig-9
     src: "figures/inline/pope-fig-9.jpg"
     label: "9"
-    credit: "Folklore collections in the Reiss-Museum Mannheim, Gaffron correspondence, 1917. From Schmitz and Deimel, Geschenke der Ahnen (Museum für Völkerkunde zu Leipzig, 2001), 15, fig. 2"
-    caption: "View of Eduard Gaffron’s Private Collection, Berlin, 1917. Folklore collections in the Reiss-Museum Mannheim, Gaffron correspondence, 1917. From Schmitz and Deimel, Geschenke der Ahnen (Museum für Völkerkunde zu Leipzig, 2001), 15, fig. 2."
+    credit: "Folklore collections in the Reiss-Museum Mannheim, Gaffron correspondence, 1917. From Schmitz and Deimel, *Geschenke der Ahnen* (Museum für Völkerkunde zu Leipzig, 2001), 15, fig. 2"
+    caption: "View of Eduard Gaffron’s private collection, Berlin, 1917."
   
   - id: pope-fig-10
     src: "figures/inline/pope-fig-10.jpg"
     label: "10"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, Treasures of Ancient Peruvian Art: The Eduard Gaffron Collection at the Art Institute of Chicago, April 1952. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, *Treasures of Ancient Peruvian Art: The Eduard Gaffron Collection at the Art Institute of Chicago*, April 1952."
   
   - id: pope-fig-11
     src: "figures/inline/pope-fig-11.jpg"
     label: "11"
-    credit: "Department records, Arts of the Americas, Art Institute of Chicago"
-    caption: "Ceramicas del Antiguo Peru de la coleccion Wassermann-San Blas (1938), title page, . Department records, Arts of the Americas, Art Institute of Chicago."
+    credit: "Department records, Arts of the Americas, Art Institute of Chicago."
+    caption: "*Ceramicas del Antiguo Peru de la coleccion Wassermann-San Blas* (1938), title page."
   
   - id: pope-fig-12
     src: "figures/inline/pope-fig-12.jpg"
     label: "12"
-    caption: "The Nathan Cummings Collection of Ancient Peruvian Art (np, 1954), cover, ."
+    caption: "*The Nathan Cummings Collection of Ancient Peruvian Art* (n.p., 1954), cover."
   
   - id: pope-fig-13
     src: "figures/inline/pope-fig-13.jpg"
     label: "13"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, Primitive Art from Chicago Collections at the Art Institute of Chicago, November 16, 1960–January 2, 1961. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, *Primitive Art from Chicago Collections at the Art Institute of Chicago*, November 16, 1960–January 2, 1961."
   
   - id: pope-fig-14
     src: "figures/inline/pope-fig-14.jpg"
     label: "14"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, Primitive Art Department permanent collection gallery at the Art Institute of Chicago, Summer and Fall 1960. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, Primitive Art permanent collection gallery at the Art Institute of Chicago, Summer and Fall 1960."
   
   - id: pope-fig-15
     src: "figures/inline/pope-fig-15.jpg"
     label: "15"
-    credit: "(Art Institute of Chicago, 1965), cover"
-    caption: "Allen Wardwell, Primitive Art in the Collections of The Art Institute of Chicago, . (Art Institute of Chicago, 1965), cover."
+    credit: 
+    caption: "*Allen Wardwell, Primitive Art in the Collections of The Art Institute of Chicago* (Art Institute of Chicago, 1965), cover."
   
   - id: pope-fig-16
     src: "figures/inline/pope-fig-16.jpg"
     label: "16"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, The Ancient Americas permanent collection gallery, Gallery 125 at the Art Institute of Chicago, 1985. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, The Ancient Americas permanent collection gallery, Gallery 125 at the Art Institute of Chicago, 1985."
   
   - id: pope-fig-17
     src: "figures/inline/pope-fig-17.jpg"
     label: "17"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, The Ancient Americas: Art from Sacred Landscapes at the Art Institute of Chicago, October 10, 1992–January 3, 1993. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, *The Ancient Americas: Art from Sacred Landscapes* at the Art Institute of Chicago, October 10, 1992–January 3, 1993."
   
   - id: pope-fig-18
     src: "figures/inline/pope-fig-18.jpg"
     label: "18"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, Indian Arts of the Americas permanent collection gallery, Gallery 136 at the Art Institute of Chicago, 2011. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, Indian Arts of the Americas permanent collection gallery, Gallery 136 at the Art Institute of Chicago, 2011."
   
   - id: pope-fig-19
     src: "figures/inline/pope-fig-19.jpg"
     label: "19"
-    credit: "(Art Institute of Chicago, 2017), cover"
-    caption: "Richard F. Townsend with Elizabeth Pope, Indian Art of the Americas at the Art Institute of Chicago,, . (Art Institute of Chicago, 2017), cover."
+    credit: 
+    caption: "Richard F. Townsend with Elizabeth Pope, *Indian Art of the Americas at the Art Institute of Chicago* (Art Institute of Chicago, 2017), cover."
   
   - id: pope-fig-20
     src: "figures/inline/pope-fig-20.jpg"
     label: "20"
-    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago"
-    caption: "Installation view, Arts of the Americas permanent collection gallery, Gallery 265, The Paul and Gabriella Rosenbaum Gallery at the Art Institute of Chicago, March 2022. Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
+    caption: "Installation view, Arts of the Americas permanent collection gallery, Gallery 265, The Paul and Gabriella Rosenbaum Gallery at the Art Institute of Chicago, March 2022."
   
   - id: robb-fig-1
     src: "figures/inline/robb-fig-1.jpg"
