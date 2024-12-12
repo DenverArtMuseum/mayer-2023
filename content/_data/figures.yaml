@@ -235,134 +235,134 @@ figure_list:
   - id: 'pillsbury-fig-1'
     src: "figures/inline/pillsbury-fig-1.jpg"
     label: "1"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "Old Park Entrance of The Metropolitan Museum of Art. In foreground: Wing B, designed by Theodore Weston and constructed in 1888. Behind to the right: Wing A, central core designed by Calvert Vaux, completed in 1880. Behind: Wing C, designed by Arthur Tuckerman and built in 1894, . © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "Old Park Entrance of The Metropolitan Museum of Art. In foreground: Wing B, designed by Theodore Weston and constructed in 1888. Behind to the right: Wing A, central core designed by Calvert Vaux, completed in 1880. Behind: Wing C, designed by Arthur Tuckerman and built in 1894."
     alt: A black-and-white photograph in three-quarter view of a large brick building. The building has a gabled roof with wrought-iron trim and arched double-height windows with stone trim at the grand entryway.
   
   - id: pillsbury-fig-2
     src: "figures/inline/pillsbury-fig-2.jpg"
     label: "2"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "Gallery of American antiquities, The Metropolitan Museum of Art, Wing C, 2nd Floor, 1907. © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "Gallery of American antiquities, The Metropolitan Museum of Art, Wing C, 2nd Floor, 1907."
     alt: A black-and-white photograph of a gallery with hardwood floors and display cases lining the walls and in the center of the space, where various ancient American objects can be seen. Five chandeliers hang above from the skylight.
   
   - id: pillsbury-fig-3
     src: "figures/inline/pillsbury-fig-3.jpg"
     label: "3"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "Gallery of American Antiquities, with a view to Musical Instruments, 1907. © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "Gallery of American Antiquities, with a view to Musical Instruments, 1907."
     alt: A black-and-white photograph of a gallery with hardwood floors and display cases lining the walls and in the center of the space. Through an open doorway another gallery is visible.
   
   - id: pillsbury-fig-4
     src: "figures/inline/pillsbury-fig-4.jpg"
     label: "4"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "Remojadas heads. A Jaina figurine, 2nd row down, 2nd from left, is a rare Maya work to enter the collection at this time, 1907. © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "Remojadas heads. A Jaina figurine, 2nd row down, 2nd from left, is a rare Maya work to enter the collection at this time, 1907."
     alt: A black-and-white photograph of a display case featuring four rows of five or six small ceramic figurines. All but five of the ceramics are smiling faces.
   
   - id: pillsbury-fig-5
     src: "figures/inline/pillsbury-fig-5.jpg"
     label: "5"
-    credit: "The Michael C. Rockefeller Wing Archives, The Metropolitan Museum of Art"
-    caption: "Detail of an advertisement for a set of casts of the “Toltec Smiling Heads,” L. Castelvecchi & Company, 1898. The Michael C. Rockefeller Wing Archives, The Metropolitan Museum of Art."
+    credit: "The Michael C. Rockefeller Wing Archives, The Metropolitan Museum of Art."
+    caption: "Detail of an advertisement for a set of casts of the “Toltec Smiling Heads,” L. Castelvecchi & Company, 1898."
     alt: "A black-and-white advertisement that reads “The Famous Toltec Smiling Heads in the Petich’s Old Mexican Collection.” Under the title, two rows of photographs show smiling ceramic heads. Beneath those photos, the text reads: Petich’s old Mexican Collection has been pronounced by the foremost archaeologists, both American and from Europe, as the most startling one of its kind after the collection of the Museum in Mexico City. But notwithstanding its great value the ten Toltec Heads, which have been called the Mexican Tanagras, and whose exact copies in plaster we can now offer to the public, have been judged more valuable, more “absorbingly interesting” in themselves than all the other 1610 previous objects of which said collection is composed.  It would be impossible even to quote the many expressions of admiration that these heads have called forth from newspapers, reviews and scholars. After centuries of smiling at the skeletons of their masters under their native tumulus they were permitted to smile at the sons of a far later civilization, from the shelves of the Metropolitan Museum of Art to which the owner generously loans all such treasures."
   
   - id: pillsbury-fig-6
     src: "figures/inline/pillsbury-fig-6.jpg"
     label: "6"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "Textile study room, The Metropolitan Museum of Art, 1918. © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "Textile study room, The Metropolitan Museum of Art, 1918."
     alt: A black-and-white photograph of a study room, where people stand near cabinets and sit at tables, studying various textiles.
   
   - id: pillsbury-fig-7
-    src: "figures/inline/pillsbury-fig-7.jpg"
+    src: "figures/inline/pillsbury-fig-7-install.jpg"
     label: "7"
-    credit: "Photograph courtesy of the National Gallery of Art Archives (26B5_57_014)"
-    caption: "Ambassador Eduardo Zuleta Ángel of Colombia (third from left) with Elizabeth Easby (center) and Dudley Easby (far right) at the opening of the exhibition Masterpieces of Pre-Columbian Gold, National Gallery of Art, 1954. Photograph courtesy of the National Gallery of Art Archives (26B5_57_014)."
+    credit: "Photograph courtesy of the National Gallery of Art Archives (26B5_57_014)."
+    caption: "Ambassador Eduardo Zuleta Ángel of Colombia (third from left) with Elizabeth Easby (center) and Dudley Easby (far right) at the opening of the exhibition *Masterpieces of Pre-Columbian Gold*, National Gallery of Art, 1954."
     alt: A black-and-white photograph of a group of men and women in formal wear standing together in front of a display case featuring gold objects.
   
   - id: pillsbury-fig-8
     src: "figures/inline/pillsbury-fig-8.jpg"
     label: "8"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "Ancient Peruvian Ceramics: The Nathan Cummings Collection, The Metropolitan Museum of Art, 1965. © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "Ancient Peruvian Ceramics: The Nathan Cummings Collection, The Metropolitan Museum of Art, 1965."
     alt: A color photograph of a gallery with four display cases of varying heights, each containing many dark brown ceramic double-spouted vessels. Behind the cases, two large black and red textiles are framed on the wall.
   
   - id: pillsbury-fig-9
     src: "figures/inline/pillsbury-fig-9.jpg"
     label: "9"
-    credit: "Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art"
-    caption: "The Museum of Primitive Art, c. 1970. Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art."
+    credit: "Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art."
+    caption: "The Museum of Primitive Art, c. 1970."
     alt: A black-and-white photograph of a multistory brownstone building with a sign that reads “The Museum of Primitive Art.”
   
   - id: pillsbury-fig-10
     src: "figures/inline/pillsbury-fig-10.jpg"
     label: "10"
-    credit: "Photographic Archive. The Museum of Modern Art Archives. Photo: Wurts Brothers (1895–1979), The Museum of Modern Art/New York. Digital Image © The Museum of Modern Art/Licensed by SCALA/Art Resource, NY"
-    caption: "Installation view of the exhibition American Sources of Modern Art (Aztec, Mayan, Incan), May 8, 1933 through July 1, 1933. The Museum of Modern Art, New York, . Gelatin silver print, 7 x 9 ½ (17.7 x 24.1 cm).. Photographic Archive. The Museum of Modern Art Archives. Photo: Wurts Brothers (1895–1979), The Museum of Modern Art/New York. Digital Image © The Museum of Modern Art/Licensed by SCALA/Art Resource, NY."
+    credit: "Photographic Archive. The Museum of Modern Art Archives. Photo: Wurts Brothers (1895–1979), The Museum of Modern Art/New York. Digital Image © The Museum of Modern Art/Licensed by SCALA/Art Resource, NY."
+    caption: "Installation view of the exhibition American Sources of Modern Art (Aztec, Mayan, Incan), May 8, 1933 through July 1, 1933. The Museum of Modern Art, New York, . Gelatin silver print, 7 x 9 ½ (17.7 x 24.1 cm)."
     alt: A black-and-white photograph of a gallery space with one pedestal and one case displaying artwork on either side of the room, facing each other. The back wall has four vitrine openings to showcase more artwork.
   
   - id: pillsbury-fig-11
     src: "figures/inline/pillsbury-fig-11.jpg"
     label: "11"
-    credit: "Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center"
-    caption: "Robert Goldwater (left) and Nelson A. Rockefeller, with a Peruvian feather tabard (MMA 1978.412.20), The Museum of Primitive Art, Spring 1958. Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center."
+    credit: "Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center."
+    caption: "Robert Goldwater (left) and Nelson A. Rockefeller, with a Peruvian feather tabard (MMA 1978.412.20), The Museum of Primitive Art, Spring 1958."
     alt: A color photograph of two men in formal wear posed in front of a yellow-and-orange feather mantle depicting dark figures and animals above a curved line.
   
   - id: pillsbury-fig-12
     src: "figures/inline/pillsbury-fig-12.jpg"
     label: "12"
-    credit: "Photograph by Charles Uht. Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center"
-    caption: "Museum of Primitive Art, opening exhibition. The Olmec figure is on the table, 3rd object from left, Spring 1957. Photograph by Charles Uht. Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center."
+    credit: "Photograph by Charles Uht. Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center."
+    caption: "Museum of Primitive Art, opening exhibition. The Olmec figure is on the table, 3rd object from left, Spring 1957."
     alt: A black-and-white photograph of two adjacent gallery spaces separated by a half wall. Each room contains pedestals and tables displaying ceramic and stone works that are spotlit from above.
   
   - id: pillsbury-fig-13
     src: "figures/inline/pillsbury-fig-13.jpg"
     label: "13"
-    credit: "Vogue © Conde Nast"
-    caption: "“Vogue’s Eye View: How Old is a Smile,” Vogue 138, no. 7 (October 15, 1961): 73, . Vogue © Conde Nast."
+    credit: "Vogue © Conde Nast."
+    caption: "“Vogue’s Eye View: How Old is a Smile,” *Vogue* 138, no. 7 (October 15, 1961): 73."
     alt: "A page from Vogue magazine dated October 15, 1961. It reads:  Vogue’s Eye View: How old is a smile? This particular smile is about 1200 years old. It belongs to one of a group of Mexican clay figurines about which very little is known—except this: they are among the few ancient sculptures that show the human face smiling, even laughing. It’s not the enigmatic “ancient smile” (really a half-smile) of Greek or early Christian sculpture, but a natural, delighted grin of pure glee—imperishably fresh and charming. What was so funny in 700 A.D.? We’ll never know. There wasn’t any threatening nuclear cloud—but there was war, famine, pestilence. Eventually, one or all of these obliterated the people and the culture that produced this little head. But the smile remains. “Smiling Head,” Mexican clay Remojadas figure of about 700 A.D.; from the current exhibition, “Art of Ancient Mexico,” at the Museum of Primitive Art, New York City, through November 19. Photograph by Charles Uht."
   
   - id: pillsbury-fig-14
     src: "figures/inline/pillsbury-fig-14.jpg"
     label: "14"
-    credit: "Photo: Michael Fredericks, Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers,Rockefeller Archive Center"
-    caption: "Nelson A. Rockefeller viewing Maya objects at the press conference announcing the transfer of the Museum of Primitive Art collections to The Metropolitan Museum of Art, . Photo: Michael Fredericks, Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers,Rockefeller Archive Center."
+    credit: "Photo: Michael Fredericks, Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers,Rockefeller Archive Center."
+    caption: "Nelson A. Rockefeller viewing Maya objects at the press conference announcing the transfer of the Museum of Primitive Art collections to The Metropolitan Museum of Art."
     alt: A black-and-white photograph of a man in formal wear and glasses, looking closely at four small stone sculptures displayed near two ceramic vessels and a plate.
   
   - id: pillsbury-fig-15
     src: "figures/inline/pillsbury-fig-15.jpg"
     label: "15"
-    credit: "Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art"
-    caption: "Pre-Columbian Art from the Metropolitan Museum of Art, The Museum of Primitive Art, 1970. One of the Toltec panels given to the Met by Frederic Church in 1893 (MMA 93.27.1) can be seen on the left, . Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art."
+    credit: "Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art."
+    caption: "Pre-Columbian Art from the Metropolitan Museum of Art, The Museum of Primitive Art, 1970. One of the Toltec panels given to the Met by Frederic Church in 1893 (MMA 93.27.1) can be seen on the left."
     alt: A black-and-white photograph of three adjacent gallery spaces with dark-colored walls and pedestals that contain a few stone, ceramic, and textile works.
   
   - id: pillsbury-fig-16
     src: "figures/inline/pillsbury-fig-16.jpg"
     label: "16"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "Before Cortés: Sculpture of Middle America, one of the Met’s centennial exhibitions, 1970. Exhibition designer Stuart Silver bathed some cases in the colors of the Mexican flag. The Teotihuacan Water Goddess from the Louise and Walter Arensberg Collection, Philadelphia Museum of Art, is on the stepped platform in the center of the gallery, . © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "*Before Cortés: Sculpture of Middle America*, one of The Met’s centennial exhibitions, 1970. Exhibition designer Stuart Silver bathed some cases in the colors of the Mexican flag. The Teotihuacan Water Goddess from the Louise and Walter Arensberg Collection, Philadelphia Museum of Art, is on the stepped platform in the center of the gallery."
     alt: A color photograph of a gallery where the back wall contains five colorfully lit vitrines, containing stone and ceramics artworks. A pyramid-shaped pedestal, bearing a stone sculpture on top, is in the center, with two smaller cases off to the side.
   
   - id: pillsbury-fig-17
     src: "figures/inline/pillsbury-fig-17.jpg"
     label: "17"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "The Andean gallery, with a view to Piedras Negras Stela 5; The Michael C. Rockefeller Wing, The Metropolitan Museum of Art, 1982, . © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "The Andean gallery, with a view to Piedras Negras Stela 5; The Michael C. Rockefeller Wing, The Metropolitan Museum of Art, 1982."
     alt: A color photograph of a gallery with multiple cases and vitrines along the walls and arranged throughout the space. The gallery space is dimly lit, but each case has bright interior lights.
   
   - id: pillsbury-fig-18
     src: "figures/inline/pillsbury-fig-18.jpg"
     label: "18"
-    credit: "© The Metropolitan Museum of Art"
-    caption: "The Mesoamerican gallery, The Michael C. Rockefeller Wing, The Metropolitan Museum of Art,1982. Piedras Negras Stela 5 is on the left; a pair of Toltec reliefs given to the Museum in 1897 is on the wall; and the ceramic figure on the right was later determined to be a fake, . © The Metropolitan Museum of Art."
+    credit: "© The Metropolitan Museum of Art."
+    caption: "The Mesoamerican gallery, The Michael C. Rockefeller Wing, The Metropolitan Museum of Art, 1982. Piedras Negras Stela 5 is on the left; a pair of Toltec reliefs given to the Museum in 1897 is on the wall; and the ceramic figure on the right was later determined to be a fake."
     alt: A color photograph of a gallery with a large stone stela in the left foreground with other stone sculptures on pedestals and cases dispersed throughout the space.  The space is dimly lit with spotlights on the artworks.
   
   - id: pillsbury-fig-19
     src: "figures/inline/pillsbury-fig-19.jpg"
     label: "19"
-    caption: "Lapham’s Quarterly, Summer, 2019. The ‘cover being’ is a Remojadas figure, formerly in the collection of Nelson A. Rockefeller (now MMA 1979.206.1211), ."
-    alt: "The cover of a magazine dated Summer 2019. Red text across the top and bottom reads:  Lapham’s Quarterly  Happiness In the center of the page, an orange-colored ancient ceramic figurine stands with a decorative headdress and skirt, holding up both hands and smiling widely."
+    caption: '*Lapham’s Quarterly* (Summer 2019). The “cover being” is a Remojadas figure, formerly in the collection of Nelson A. Rockefeller (now MMA 1979.206.1211).'
+    alt: "The cover of a magazine dated Summer 2019. Red text across the top and bottom reads: Lapham’s Quarterly  Happiness In the center of the page, an orange-colored ancient ceramic figurine stands with a decorative headdress and skirt, holding up both hands and smiling widely."
   
   - id: koontz-fig-1
     src: "figures/inline/koontz-fig-1.jpg"
