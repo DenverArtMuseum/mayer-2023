@@ -640,71 +640,71 @@ figure_list:
   - id: robb-fig-1
     src: "figures/inline/robb-fig-1.jpg"
     label: "1"
-    credit: "Saint Louis Art Museum, After (Anonymous 1914): p. 16"
-    caption: "Main Floor Installation Plan, ca. 1914. Saint Louis Art Museum, After (Anonymous 1914): p. 16."
+    credit: 
+    caption: "Main Floor Installation Plan, c. 1914. Saint Louis Art Museum, After (Anonymous 1914): 16."
     alt: A museum floorplan with each gallery labeled, including gallery number 12, Central American Antiquities, in the upper left, located between the Oriental Art and the Ceramics, Glass, and Applied Art galleries.
   
   - id: robb-fig-2
     src: "figures/inline/robb-fig-2.jpg"
     label: "2"
-    credit: "Samuel Marx, architect; Hedrich-Blessing, photo. (Chicago History Museum)"
-    caption: "Central Staircase in May residence, 2222 South Warson Road, Ladue, Missouri, 1940–2007. Samuel Marx, architect; Hedrich-Blessing, photo. (Chicago History Museum)."
+    credit: "Samuel Marx, architect; Hedrich-Blessing, photo. Courtesy of Chicago History Museum."
+    caption: "Central Staircase in May residence, 2222 South Warson Road, Ladue, Missouri, 1940–2007. Samuel Marx, architect; Hedrich-Blessing, photo."
     alt: A black-and-white photograph of a house interior with a white carpeted spiral staircase. There is a chair next to the window beneath the stairs.
   
   - id: robb-fig-3
     src: "figures/inline/robb-fig-3.jpg"
     label: "3"
-    credit: "Saint Louis Art Museum 135:1980.1-.58. Gift of Morton D. May. Courtesy Saint Louis Art Museum"
-    caption: "Cache of 58 obsidian eccentrics, Said to be from Cuauhtitlan, Mexico., Classic period, ca. 300-500 CE. Saint Louis Art Museum 135:1980.1-.58. Gift of Morton D. May. Courtesy Saint Louis Art Museum."
+    credit: "Saint Louis Art Museum 135:1980.1-.58, Gift of Morton D. May. Courtesy Saint Louis Art Museum."
+    caption: "Cache of fifty-eight obsidian eccentrics, said to be from Cuauhtitlan, Mexico. Classic period, c. 300–500 CE."
     alt: A color photograph of fifty-eight black obsidian objects arranged on a table. Twenty-one are humanoid shaped of varying sizes. Fourteen resemble snakes with open mouths, fifteen are standard arrowheads, and seven are shards.
   
   - id: robb-fig-4
     src: "figures/inline/robb-fig-4.jpg"
     label: "4"
-    credit: "Courtesy of Saint Louis Art Museum Archives"
-    caption: "View of Gallery 100, c.1966-1971. Courtesy of Saint Louis Art Museum Archives."
+    credit: "Courtesy of Saint Louis Art Museum Archives."
+    caption: "View of Gallery 100, c.1966-1971."
     alt: A black-and-white photograph of a hallway leading into a gallery space, where there is a dark free-standing wall with the title, “Pre Columbian Art” on it and  an attached case that holds a ceramic seated figure.
   
   - id: robb-fig-5
     src: "figures/inline/robb-fig-5.jpg"
     label: "5"
-    credit: "Courtesy Amy Clark"
-    caption: "From left, Marian Kolisch, Morton D. May, and Mary Hamblett at the opening of the Meier and Frank Co. Pre-Columbian Sale, Portland, Oregon., February 22 1967. Courtesy Amy Clark."
+    credit: "Courtesy of Amy Clark."
+    caption: "From left, Marian Kolisch, Morton D. May, and Mary Hamblett at the opening of the Meier and Frank Co. Pre-Columbian Sale, Portland, Oregon., February 22 1967."
     alt: A black-and-white photograph of two well-dressed women and a man standing in department store. The woman on the right holds a stone mask. Behind them, shelves and pedestals display ancient American objects.
   
   - id: robb-fig-6
     src: "figures/inline/robb-fig-6.jpg"
     label: "6"
-    credit: "AC Martin / Samuel Marx, architects; Julius Shulman, photo. Job 367, Julius Shulman photography archive, 1936-1997. Series II. Architects, 1936-1997 © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)"
-    caption: "May Company, Wilshire and Fairfax Avenues, Los Angeles, 1948. AC Martin / Samuel Marx, architects; Julius Shulman, photo. Job 367, Julius Shulman photography archive, 1936-1997. Series II. Architects, 1936-1997 © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)."
+    credit: "AC Martin / Samuel Marx, architects; Julius Shulman, photo. Job 367, Julius Shulman photography archive, 1936–1997. Series II. Architects, 1936–1997. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2004.R.10)."
+    caption: "May Company, Wilshire and Fairfax Avenues, Los Angeles, 1948."
     alt: A black-and-white photograph of a four-storied May Co. department store on the corner of a busy intersection.
   
   - id: robb-fig-7
     src: "figures/inline/robb-fig-7.jpg"
     label: "7"
-    credit: "Mayer Center Department Archives. Photograph courtesy Denver Art Museum"
-    caption: "From left: Morton D. May, Allan Swayer, and James Economos at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966. Mayer Center Department Archives. Photograph courtesy Denver Art Museum."
+    credit: "Mayer Center Department Archives. Photograph courtesy of Denver Art Museum."
+    caption: "From left, Morton D. May, Allan Swayer, and James Economos at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
     alt: A black-and-white photograph of three men in suits seated in front of a monumental stone carving surrounded by plants. The man in the middle holds a stone object in his hand.
   
   - id: robb-fig-8
     src: "figures/inline/robb-fig-8.jpg"
     label: "8"
-    credit: "Mayer Center Department Archives. Photograph courtesy Denver Art Museum"
-    caption: "Morton D. May at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966. Mayer Center Department Archives. Photograph courtesy Denver Art Museum."
+    credit: "Mayer Center Department Archives. Photograph courtesy of Denver Art Museum"
+    caption: "Morton D. May at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
     alt: A color photograph of a man in a suit standing outside in front of a pedestal with two ancient American sculptures and a monumental stone carving among foliage.
   
   - id: robb-fig-9
     src: "figures/inline/robb-fig-9.jpg"
     label: "9"
-    credit: "Henry B. Nicholson Papers, UCLA Library Special Collections"
-    caption: "Unidentified group of men and woman, probably Morelos, Mexico, ca. 1966. Henry B. Nicholson Papers, UCLA Library Special Collections."
+    credit: "Henry B. Nicholson Papers, UCLA Library Special Collections."
+    caption: "Unidentified group of men and woman, probably Morelos, Mexico, c. 1966."
     alt: A black-and-white photograph of ten men in work attire standing next to a truck on an unpaved road. A woman in a dress leans over a group of ceramic objects, holding a newspaper page in one hand and a ceramic in the other.
   
   - id: robb-fig-10
     src: "figures/inline/robb-fig-10.jpg"
     label: "10"
-    credit: "Courtesy of Saint Louis Art Museum Archives"
-    caption: "View of Gallery 100, c. 1980s. Courtesy of Saint Louis Art Museum Archives."
+    credit: "Courtesy of Saint Louis Art Museum Archives."
+    caption: "View of Gallery 100, c. 1980s."
     alt: A color installation photograph of a gallery. There are multiple pedestals and cases with domed glass covering ancient American artifacts.
   
   - id: miller-fig-1
