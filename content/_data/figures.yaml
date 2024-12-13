@@ -367,64 +367,64 @@ figure_list:
   - id: koontz-fig-1
     src: "figures/inline/koontz-fig-1.jpg"
     label: "1"
-    credit: "Museum of Fine Arts, Houston, Archives Collection RG35-068-001"
-    caption: "James Johnson Sweeney on the steps of Cullinan Hall, 1964. Museum of Fine Arts, Houston, Archives Collection RG35-068-001."
+    credit: "Museum of Fine Arts, Houston, Archives Collection RG35-068-001."
+    caption: "James Johnson Sweeney on the steps of Cullinan Hall, 1964."
     alt: A black and white photograph of an older man dressed in a full suit stands on stone steps of a building with tall windows. The man looks off into the distance instead of at the camera.
   
   - id: koontz-fig-2
     src: "figures/inline/koontz-fig-2.jpg"
     label: "2"
-    credit: "Museum of Fine Arts, Houston: Museum purchase 62.42"
-    caption: "Seated Lord from a Relief Panel, Late Classic Maya, 702–764. Limestone with traces of paint, 39 1/8 × 26 1/2 × 1 3/4 in. (99.4 × 67.3 × 4.4 cm). Museum of Fine Arts, Houston: Museum purchase 62.42."
+    credit: "Museum of Fine Arts, Houston: Museum purchase, 62.42."
+    caption: "Seated Lord from a Relief Panel, Late Classic Maya, 702–764. Limestone with traces of paint, 39 1/8 × 26 1/2 × 1 3/4 in. (99.4 × 67.3 × 4.4 cm)."
     alt: A bas relief panel carved out of stone of a figure seated on their knees with head tilted back, holding up an offering. The edges of the panel are worn but evenly cut.
   
   - id: koontz-fig-3
     src: "figures/inline/koontz-fig-3.jpg"
     label: "3"
-    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-181"
-    caption: "Cullinan Hall facade and San Lorenzo Monument 2, 1963. Museum of Fine Arts, Houston, Archives Collection RG05-119-181."
+    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-181."
+    caption: "Cullinan Hall facade and San Lorenzo Monument 2, 1963."
     alt: A black and white photograph from a distance of a building with large windows. There is an Olmec stone head placed in the grass next to the stairs leading into the building.
   
   - id: koontz-fig-4
     src: "figures/inline/koontz-fig-4.jpg"
     label: "4"
-    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-153"
-    caption: "Olmec Tradition Exhibition Shot, MFAH Cullinan Hall, curated by James Johnson Sweeney, 1963. Museum of Fine Arts, Houston, Archives Collection RG05-119-153."
+    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-153."
+    caption: "*Olmec Tradition*, MFAH Cullinan Hall, curated by James Johnson Sweeney, 1963."
     alt: A black and white photograph of seven pedestals with stone sculptural objects on them in a large hall with polished stone floors and neutral painted walls.
   
   - id: koontz-fig-5
     src: "figures/inline/koontz-fig-5.jpg"
     label: "5"
-    credit: "Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.70"
-    caption: "Teotihuacan Tripod Vase with Blowgunner and Quetzal Birds in Cacao Trees, Teotihuacan, 150–650. Earthenware with painted stucco, 6 1/8 × 6 7/16 in. (15.6 × 16.4 cm). Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.70."
+    credit: "Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.70."
+    caption: "Teotihuacan Tripod Vase with Blowgunner and Quetzal Birds in Cacao Trees, Teotihuacan, 150–650. Earthenware with painted stucco, 6 1/8 × 6 7/16 in. (15.6 × 16.4 cm)."
     alt: A tripod ceramic vessel with decorative feet and figures painted on the exterior.
   
   - id: koontz-fig-6
     src: "figures/inline/koontz-fig-6.jpg"
     label: "6"
-    credit: "Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.164"
-    caption: "Frog Yoke, Classic Veracruz, 300–1200. Stone, 5 1/8 × 17 1/4 × 14 3/8 in. (13 × 43.8 × 36.5 cm). Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.164."
+    credit: "Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.164."
+    caption: "Frog Yoke, Classic Veracruz, 300–1200. Stone, 5 1/8 × 17 1/4 × 14 3/8 in. (13 × 43.8 × 36.5 cm)."
     alt: A U-shaped stone sculpture with decorative carvings. The carvings give it the appearance of a frog face.
   
   - id: koontz-fig-7
     src: "figures/inline/koontz-fig-7.jpg"
     label: "7"
-    credit: "Museum of Fine Arts, Houston, Archives Collection RG08-022-002"
-    caption: "Original Facade of MFAH (1924–26), c. 1926. Museum of Fine Arts, Houston, Archives Collection RG08-022-002."
+    credit: "Museum of Fine Arts, Houston, Archives Collection RG08-022-002."
+    caption: "Original Facade of MFAH (1924–26), c. 1926."
     alt: A black and white photograph of the front of a mansion with large columns in the entryway. A tall tree partially obscures the building.
   
   - id: koontz-fig-8
     src: "figures/inline/koontz-fig-8.jpg"
     label: "8"
-    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-118 01-002"
-    caption: "Recent Acquisitions, curated by James Johnson Sweeney, 1963. Museum of Fine Arts, Houston, Archives Collection RG05-118 01-002."
+    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-118 01-002."
+    caption: "*Recent Acquisitions*, curated by James Johnson Sweeney, 1963."
     alt: A black and white photograph of large paintings and sculptures in a hall with polished stone floors and neutral painted walls.
   
   - id: koontz-fig-9
     src: "figures/inline/koontz-fig-9.jpg"
     label: "9"
-    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-041"
-    caption: "Sweeney and San Lorenzo Monument 2 in situ in Veracruz, 1963. Museum of Fine Arts, Houston, Archives Collection RG05-119-041."
+    credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-041."
+    caption: "Sweeney and San Lorenzo Monument 2 in situ in Veracruz, 1963."
     alt: A black and white photograph of a man turned away from the camera facing an Olmec stone head half buried in the ground and overgrown by plants.
   
   - id: driggers-fig-1
