@@ -854,104 +854,104 @@ figure_list:
   - id: lyall-fig-1-fpo
     src: "figures/inline/lyall-fig-1-fpo.jpg"
     label: "1"
-    credit: "Image courtesy Denver Art Museum"
-    caption: "Map of the United States indicating the distance between Denver and institutions with comparable Ancient American collections, . Image courtesy Denver Art Museum."
+    credit: "Image courtesy of Denver Art Museum."
+    caption: "Map of US museums with comparable ancient American collections to the Denver Art Museum."
     alt: A map of the United States with museums and their locations marked. Denver is located far away from comparable collections.
   
   - id: lyall-fig-2
     src: "figures/inline/lyall-fig-2.jpg"
     label: "2"
-    credit: "Photography by the Denver Art Museum"
-    caption: "Installation of Anne Evans collection in the Gio Ponti–designed North Building, 2017. Photography by the Denver Art Museum."
+    credit: "Photography by the Denver Art Museum."
+    caption: "Installation of Anne Evans collection in the Gio Ponti–designed North Building, 2017."
     alt: A color photograph of a gallery painted orange displaying polychromatic wooden religious objects, textiles, and metalwork.
   
   - id: lyall-fig-3
     src: "figures/inline/lyall-fig-3.jpg"
     label: "3"
     credit: "Photographer: Albert Fenn. Photographic Archive, The Museum of Modern Art Archives. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY"
-    caption: "Eleanor Roosevelt and Frederic H. Douglas at Indian Art of the United States at the Museum of Modern Art, The Museum of Modern Art, New York, 1941. Gelatin silver print, Photographer: Albert Fenn. Photographic Archive, The Museum of Modern Art Archives. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
+    caption: "Eleanor Roosevelt and Frederic H. Douglas at Indian Art of the United States at the Museum of Modern Art, The Museum of Modern Art, New York, 1941. Gelatin silver print."
     alt: A black-and-white photograph of a man and woman talking in an exhibition. The woman wears a fur shawl and a dark hat. The man wears a suit and glasses and has a mustache.
   
   - id: lyall-fig-4
     src: "figures/inline/lyall-fig-4.jpg"
     label: "4"
-    credit: "Denver Post photo by Bill Johnson"
-    caption: "Otto Karl Bach shown with a pair of Nayarit figurines (1952.203-4) purchased from the Stendahl galleries, February 2, 1965. Denver Post photo by Bill Johnson."
+    credit: "*Denver Post* photo by Bill Johnson."
+    caption: "Otto Karl Bach shown with a pair of Nayarit figurines ([1952.203-4](https://www.denverartmuseum.org/en/search/collections?search_api_fulltext=1952.203%2C%201952.204#search-results)) purchased from the Stendahl galleries, February 2, 1965."
     alt: A black-and-white photograph of an older man leaning in next to two ceramic figurines. He is seen from the neck up and wears dark glasses.
   
   - id: lyall-fig-5
     src: "figures/inline/lyall-fig-5.jpg"
     label: "5"
-    credit: "Denver Art Museum Archives, 1959 Annual Report"
-    caption: "'Otto Karl Bach and Mrs. Murray McComas shown with sculpture acquired through contribution of the Women''s Committee, 1959. Denver Art Museum Archives, 1959 Annual Report. '"
+    credit: "1959 Annual Report, Denver Art Museum Archives."
+    caption: "'Otto Karl Bach and Mrs. Murray McComas shown with sculpture acquired through contribution of the Women's Committee, 1959."
     alt: A black-and-white photograph of a man and woman standing in front of a ceramic figure in the shape of a human head and headdress. The man looks at the woman, and the woman holds a clipboard and pen.
   
   - id: lyall-fig-6
     src: "figures/inline/lyall-fig-6.jpg"
     label: "6"
-    credit: "Denver Post photo by Dean Conger"
-    caption: "Mr. and Mrs. Chandler Weaver in the Pre-Columbian Art exhibition (January 7–February 18, 1952) at the Schleier Memorial Gallery, February 6, 1952. Denver Post photo by Dean Conger."
+    credit: "*Denver Post* photo by Dean Conger."
+    caption: "Mr. and Mrs. Chandler Weaver in the *Pre-Columbian Art* exhibition (January 7–February 18, 1952) at the Schleier Memorial Gallery, February 6, 1952."
     alt: A black-and-white photograph of a man and woman looking at a stone sculpture of a serpent head. The woman leans over it, and the man with a drink in hand points at the artwork. On the wall, above the artwork, reads, “Toltec Carving.”
   
   - id: lyall-fig-7
     src: "figures/inline/lyall-fig-7.jpg"
     label: "7"
-    credit: "Mayer Center Archives"
-    caption: "Robert Stroessner in the Pre-Columbian art gallery, c. 1970s. Mayer Center Archives."
+    credit: "Mayer Center Archives, Denver Art Museum."
+    caption: "Robert Stroessner in the Pre-Columbian art gallery, c. 1970s."
     alt: A black-and-white photograph of two men looking at a stone sculpture. The man to the left is wearing a pinstripe suit and glasses while the man to the right holds the object they are looking at.
   
   - id: lyall-fig-8
     src: "figures/inline/lyall-fig-8.jpg"
     label: "8"
-    credit: "Denver Art Museum: Funds from Nancy Doran Petry, 2022.159. © Estate of George Biddle"
-    caption: "George Biddle, Leadville, 1937. Oil on canvas, 48 1/2 × 48 1/2 in. Denver Art Museum: Funds from Nancy Doran Petry, 2022.159. © Estate of George Biddle."
+    credit: "Denver Art Museum: Funds from Nancy Doran Petry, 2022.159. © Estate of George Biddle."
+    caption: "George Biddle, *Leadville*, 1937. Oil on canvas, 48 1/2 × 48 1/2 in."
     alt: A town scene with farm animals grazing and lounging in front of homes and a synagogue and church in the middle ground. In the background, more buildings nestle into the mountainous terrain.
   
   - id: lyall-fig-9
-    src: "figures/inline/lyall-fig-9.jpg"
+    src: "figures/inline/lyall-fig-9-install.jpg"
     label: "9"
-    credit: "Rocky Mountain News photo by Mel Schieltz. Colorado Historic Newspapers Collection Archive"
-    caption: "Newspaper article featuring the ski ramp built at May D&F plaza in downtown Denver, November 10, 1964. Rocky Mountain News photo by Mel Schieltz. Colorado Historic Newspapers Collection Archive."
+    credit: "*Rocky Mountain News* photo by Mel Schieltz. Courtesy of Colorado Historic Newspapers Collection Archive."
+    caption: "The ski ramp built at May D&F plaza in downtown Denver, November 10, 1964."
     alt: A newspaper clipping from the Rocky Mountain News dated November 10, 1964. The headline below the image reads, May D&F Inaugurates World of Winter Show. The photograph depicts a ski slope attached to the outside of a building with a crowd of people watching a skier descend. The caption reads, The wonderful world of winter officially was opened in downtown Denver Monday during colorful ceremonies at the May-D&F Plaza at 16th st. and Court pl. Noted skiers spent the day performing on the 80-foot ski ramp built for the 2-week program.
   
   - id: lyall-fig-10
     src: "figures/inline/lyall-fig-10.jpg"
     label: "10"
-    credit: "Courtesy The Denver Post"
-    caption: "Newspaper advertisement produced by May D&F presenting a Pre-Columbian art sale/exhibition at their downtown store, April 9, 1967. Courtesy The Denver Post."
+    credit: "Courtesy of *The Denver Post*."
+    caption: "Advertisement produced by May D&F presenting a Pre-Columbian art sale/exhibition at their downtown store, April 9, 1967."
     alt: An advertisement in the newspaper for a Pre-Columbian Art Sale/Exhibition. It shows various stone and ceramic artworks from the exhibition with the dates, April 10-22. The text beneath reads,  May-D&F presents one of the largest and most comprehensive showings of Pre-Columbian art ever assembled in this country. See this exhibition beginning tomorrow in the downtown store, second floor gallery.  Approximately 2,000 pieces have been selected and purchased under the personal supervision of Mr. Morton D. May, Chairman of the Board of Directors of the May Department Stores Company. The items have been carefully authenticated and dated by Mr. Alan R. Sawyer, Director of the Textile Museum, Washington D.C. Dr. Henry B. Nicholson, Associate Professor of Anthropology, UCLA expertised the Mexican stone pieces.  There is a wealth of art from Mexico and Peru interspersed with pieces from Honduras, Nicaragua, Costa Rica, Panama, Colombia, and Ecuador. Many of the pieces have been determined to be of excellent museum quality. Viewing this collection of art from about 900 BC through the fifteenth century is an adventure for anyone. Pottery is in abundance in human and animal shapes. Stone, wood, gold and other metals are represented. Particularly outstanding is a collection of jade, stone and metal jewelry. Ancient Peruvian textiles are a strong part of the exhibition which ranges in price from $5 to $8,000. The art of Central America and the West Coast of South America, dating before Columbus’ discovery of America, has long been recognized as one of the highest artistic achievements of man. It is perhaps the favorite art form of people in this Rocky Mountain Empire, because of the early Spanish heritage of the land and because of the excellent collection in the pre-Columbian gallery in the south wing, Denver Museum of Art.  This pre-Columbian exhibition is one of a continuing series of various art forms and origins which May D&F makes available to the people of the Rocky Mountain area.
   
   - id: lyall-fig-11
     src: "figures/inline/lyall-fig-11.jpg"
     label: "11"
-    credit: "Mayer Center Department Archives. Photograph courtesy Denver Art Museum"
-    caption: "Installation photo of the former Pre-Columbian galleries, c. 1971. Mayer Center Department Archives. Photograph courtesy Denver Art Museum."
+    credit: "Mayer Center Archives, Denver Art Museum. Photograph courtesy of Denver Art Museum."
+    caption: "Installation photo of the former Pre-Columbian galleries, c. 1971."
     alt: A color photograph of a gallery with a large pyramid maquette in the center. Cases that extend to the ceiling and hold ceramic objects fill the rest of the gallery.
   
   - id: lyall-fig-12
     src: "figures/inline/lyall-fig-12.jpg"
     label: "12"
-    credit: "Mayer Center Department Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price"
-    caption: "Vincent Price filming in the Denver Art Museum’s Maya-themed period room within the former Pre-Columbian galleries. Detail from photo contact sheet, February 1983. Mayer Center Department Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price."
+    credit: "Mayer Center Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price"
+    caption: "Vincent Price filming in the Denver Art Museum’s Maya-themed period room within the former Pre-Columbian galleries. Detail from photo contact sheet, February 1983."
     alt: A contact photo sheet of a man in a dark suit standing in a room themed like a stone tomb. There are stone and ceramic sculptures behind him. A cameraperson can also be seen in some of the frames.
   
   - id: lyall-fig-13
     src: "figures/inline/lyall-fig-13.jpg"
     label: "13"
     credit: "Photograph by Jim Harvey, courtesy of Jan Mayer"
-    caption: "Frederick and Jan Mayer, c. 2000. Photograph by Jim Harvey, courtesy of Jan Mayer."
+    caption: "Frederick and Jan Mayer, c. 2000."
     alt: A black-and-white photograph of a man and woman seated in front of a neutral background. The woman wears a light-colored suit, a pearl necklace, and her hair is short. The man wears a dark colored suit, striped tie, and glasses. They are both smiling.
   
   - id: lyall-fig-14
     src: "figures/inline/lyall-fig-14.jpg"
     label: "14"
-    credit: "Photograph courtesy Denver Art Museum"
-    caption: "Lila Wallace-Reader’s Digest Study Gallery of Pre-Columbian Art, 2017. Photograph courtesy Denver Art Museum."
+    credit: "Photograph courtesy of Denver Art Museum."
+    caption: "Lila Wallace-Reader’s Digest Study Gallery of Pre-Columbian Art, 2017."
     alt: A color photograph of a gallery with carpeted floor and diamond shaped windows. A large sign hanging overhead reads, South America. The cases are large and contain multiple shelves, didactic text panels, and large numbers objects.
   
   - id: lyall-fig-15
     src: "figures/inline/lyall-fig-15.jpg"
     label: "15"
-    credit: "Photograph courtesy Denver Art Museum"
-    caption: "Reinstallation of the Arts of the Ancient Americas gallery, 2022. Photograph courtesy Denver Art Museum."
+    credit: "Photograph courtesy of Denver Art Museum"
+    caption: "Reinstallation of the Arts of the Ancient Americas gallery, 2022."
     alt: A color photograph of a gallery displaying ancient American artworks with hardwood floor and diamond shaped windows. The cases and walls are painted red.
