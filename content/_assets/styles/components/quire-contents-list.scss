@@ -208,14 +208,15 @@
             fill: $secondary-link-active-color !important;
           }
         }
-        * {
-           color: $secondary-link-active-color;
-         }
-         figure.image {
-           -webkit-box-shadow: 0px 0px 6px 0px $black-semi-transparent;
-           -moz-box-shadow: 0px 0px 6px 0px $black-semi-transparent;
-           box-shadow: 0px 0px 6px 0px $black-semi-transparent;
-         }
+        // NOTE: Overly broad selector causes more problems than it solves
+        // * {
+        //    color: $secondary-link-active-color;
+        // }
+        figure.image {
+          -webkit-box-shadow: 0px 0px 6px 0px $black-semi-transparent;
+          -moz-box-shadow: 0px 0px 6px 0px $black-semi-transparent;
+          box-shadow: 0px 0px 6px 0px $black-semi-transparent;
+        }
       }
     }
   }

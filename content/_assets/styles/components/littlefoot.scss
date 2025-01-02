@@ -31,18 +31,19 @@
 
   // Button font, size, and shape
   --button-border-radius: 50%;
+  --button-font-family: $typeface-inter;
   --button-font-size: .65em;
   --button-height: auto;
   --button-line-height: 1;
-  --button-margin: 0 0.1rem;
+  --button-margin: 0 0.5em 0 .125em;
   --button-minwidth: 1.4rem;
-  --button-padding: 0.25rem 0.25rem;
+  --button-padding: 0.125rem 0.25rem 0.25rem;
   --button-transition: background-color 0.25s ease, color 0.25s ease;
 
   // Popover font, size, and shape
   --popover-border: thin solid #949494;
   --popover-border-radius: 0.5rem;
-  --popover-font-family: #{$quire-primary-font};
+  --popover-font-family: #{$quire-footnotes-font};
   --popover-max-height: 15em;
   --popover-max-width: 90%;
   --popover-horizontal-padding: 1.4rem;

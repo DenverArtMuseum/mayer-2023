@@ -5,6 +5,7 @@ layout: essay
 order: 29
 contributor:
   - id: mmiller
+byline_format: name
 ---
 
 During the symposium, works sourced from the Stendahl Art Galleries were referred to in almost every presentation, from museum collections in New York to Denver. Particularly before 1970, no other single art gallery or art dealer had such impact in the formulation of museum collections in the area of prehispanic art. At the symposium, scholars evaluated individual institutional histories in the United States, especially those of art museums, with respect to the civic responsibilities shouldered by institutions and the opportunities that different curatorial departments undertook, sometimes with the engaged interest of individual collectors, who sought to bring an institution in line with their own passions.

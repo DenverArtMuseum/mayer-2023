@@ -5,6 +5,7 @@ layout: essay
 order: 24
 contributor:
   - id: epope
+byline_format: name
 ---
 
 {% figuregroup '2', 'pope-fig-1, pope-fig-2' %}

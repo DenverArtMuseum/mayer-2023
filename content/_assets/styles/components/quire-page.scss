@@ -284,47 +284,7 @@ body {
         blockquote {
           border-left: none;
           position: relative;
-          & > p,
-          & > ul,
-          & > ol,
-          & > dl,
-          & > h1,
-          & > h2,
-          & > h3,
-          & > h4,
-          & > h5,
-          & > h6 {
-            position: relative;
-            
-            @media screen {
-              &:first-child:before {
-                @if (lightness($content-background-color) < 50) {
-                  color: background-color-text-classic($content-background-color);
-                } @else if (lightness($secondary-background-color) > 50) {
-                  color: darken($secondary-background-color, 15%);
-                } @else {
-                  color: darken($content-background-color, 15%);
-                }
-                font-size: 5em;
-                line-height: 0.1em;
-                margin-right: 0.25em;
-                content: "“";
-                position: absolute;
-                top: 0.35em;
-                left: -0.55em;
-                @if $theme == classic {
-                  font-family: $quire-headings-font;
-                  font-style: normal;
-                  font-weight: bold;
-                  font-size: 4em;
-                  color: background-color-text-classic($content-background-color);
-                  top: 0.45em;
-                  left: -0.7em;
-                  font-size: 3.125em;
-                }
-              }
-            }
-          }
+
           ul,
           dl {
             margin-left: 0;

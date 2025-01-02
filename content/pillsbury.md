@@ -5,6 +5,7 @@ layout: essay
 order: 20
 contributor:
   - id: jpillsbury
+byline_format: name
 ---
 
 > “Tomorrow I must see you—somewhere where we can be alone. . . .”

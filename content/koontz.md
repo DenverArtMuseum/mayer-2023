@@ -5,6 +5,7 @@ layout: essay
 order: 26
 contributor:
   - id: rkoontz
+byline_format: name
 ---
 
 {% figure 'koontz-fig-1', 'is-pulled-left' %}

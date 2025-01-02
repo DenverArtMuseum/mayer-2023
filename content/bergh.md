@@ -5,6 +5,7 @@ layout: essay
 order: 23
 contributor:
   - id: sbergh
+byline_format: name
 ---
 
 ## An Early Resolution: Frederic Whiting (1920–1930)
