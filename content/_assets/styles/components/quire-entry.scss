@@ -84,10 +84,6 @@ $image-divider-height: 16px;
   }
 
   &__image {
-    @include foreground-color(
-      $quire-entry-image-color,
-      $quire-entry-image-icons-color
-    );
     background-color: $black;
     min-height: calc(
       100vh - #{$quire-entry-header-height} - #{$navbar-height}
@@ -96,6 +92,8 @@ $image-divider-height: 16px;
     align-items: center;
     justify-content: center;
     position: relative;
+    // TODO: these color functions need to be refactored
+    @include foreground-color($quire-entry-image-color,$quire-entry-image-icons-color);
 
     @media print {
       display: block;
@@ -471,20 +469,21 @@ $image-divider-height: 16px;
     .table {
       width: 90.5%;
       margin: 0 auto;
+      padding-bottom: 1em;
+      border-top: 1px solid $content-text-color;
+      border-bottom: 1px solid $content-text-color;
+      font-size: 0.875em;
+
       @media print {
         margin: 0;
         width: 100%;
       }
-      padding-bottom: 1em;
-      border-top: 1px solid $content-text-color;
-      border-bottom: 1px solid $content-text-color;
 
       @media print {
         color: $print-text-color;
         border-color: $print-text-color;
         background-color: transparent;
       }
-      font-size: 0.875em;
 
       td {
         border: none;

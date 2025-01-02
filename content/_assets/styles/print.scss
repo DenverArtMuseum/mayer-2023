@@ -426,12 +426,12 @@ $print-trim: $print-bleed * 2;
         padding: 1em;
       }
       position: relative;
+      margin: 0 $menu-grid-item-margin $menu-grid-gap;
       * {
         margin: 0;
         padding: 0;
         background-color: transparent;
       }
-      margin: 0 $menu-grid-item-margin $menu-grid-gap;
       a {
         position: initial;
       }

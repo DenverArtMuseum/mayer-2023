@@ -77,11 +77,6 @@ q {
 /* Trying to prevent blank page if element with margin-bottom at the end of xhtml */
 
 body {
-  > {
-    :last-child, section > :last-child {
-      margin-bottom: 0;
-    }
-  }
   font-size: 100%;
   line-height: 1.5;
   margin: 0;
@@ -90,6 +85,11 @@ body {
   widows: 2;
   /* iBooks and Kobo support widows and orphans */
   orphans: 2;
+  > {
+    :last-child, section > :last-child {
+      margin-bottom: 0;
+    }
+  }
 }
 
 /* PAGE LAYOUT */

@@ -160,10 +160,10 @@
     font-style: normal;
     text-align: left;
     color: background-color-text($content-background-color);
+    user-select: text;
     @media print {
       color: $print-text-color;
     }
-    user-select: text;
     a {
       line-height: 0;
     }
