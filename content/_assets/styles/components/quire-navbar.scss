@@ -24,14 +24,28 @@
 // .quire-navbar
 // -----------------------------------------------------------------------------
 .quire-navbar {
+  color: $quire-navbar-text-color;
+  background-color: $quire-navbar-color;
   font-family: $quire-navigation-font;
-  font-weight: 400;
   font-size: .875em;
+  font-weight: 400;
+  min-height: $navbar-height;
   position: sticky;
+  top: 0 !important;
+  width: 100%;
   z-index: 10;
 
+  // TODO: Is the best way to decide this? Also .65rem seems small
+  @if $navbar-height <= 2rem {
+    font-size: .85rem;
+  }
+  @if $navbar-height <= 1rem {
+    font-size: .65rem;
+  }
+  
   .hide-small-screen {
     display: none;
+    // TODO: Desktop breakpoint? Not tablet? or small-desktop?
     @media screen and (min-width: $desktop) {
       display: initial;
       overflow: hidden;
@@ -40,7 +54,7 @@
     }
   }
 
-  // TODO: why?
+  // TODO: Make slightly more specific to make the logo styles easier
   svg {
     height: calc(#{$navbar-height} * .65);
     width: calc(#{$navbar-height} * .65);
@@ -48,21 +62,6 @@
     max-width: 1rem;
     vertical-align: sub;
   }
-
-  @if $navbar-height <= 2rem {
-    font-size: .85rem;
-  }
-  @if $navbar-height <= 1rem {
-    font-size: .65rem;
-  }
-
-  //@include foreground-color($quire-navbar-color,$quire-navbar-text-color);
-  
-  color: $quire-navbar-text-color;
-  background-color: $quire-navbar-color;
-  min-height: $navbar-height;
-  top: 0 !important;
-  width: 100%;
 
   svg {
     fill: $quire-navbar-text-color;
@@ -100,10 +99,12 @@
   }
 
   &__center {
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: center;
-    flex: 1 1 auto;
+    flex: 0 0 calc(100% - 16.25rem);
+    width: calc(100% - 16.25rem);
+    @media screen and (min-width: $tablet) {
+      flex: 0 0 calc(100% - 31.25rem);
+      width: calc(100% - 31.25rem);
+    }
   }
 
   &__right {
@@ -114,9 +115,9 @@
   }
 
   &__left, &__right {
-    flex: 0 0 130px;
+    flex: 0 0 8.125rem;
     @media screen and (min-width: $tablet) {
-      flex: 0 0 250px;
+      flex: 0 0 15.625rem;
     }
   }
 
