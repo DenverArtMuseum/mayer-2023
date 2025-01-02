@@ -28,7 +28,7 @@
   font-weight: 400;
   font-size: .875em;
   position: sticky;
-  z-index: 1;
+  z-index: 10;
 
   .hide-small-screen {
     display: none;
@@ -40,6 +40,7 @@
     }
   }
 
+  // TODO: why?
   svg {
     height: calc(#{$navbar-height} * .65);
     width: calc(#{$navbar-height} * .65);
@@ -84,7 +85,7 @@
 // -----------------------------------------------------------------------------
 .quire-navbar-controls {
   display: flex;
-  flex-wrap: no-wrap;
+  flex-flow: row nowrap;
   justify-content: space-between;
   line-height: $navbar-height;
   height: $navbar-height;
@@ -137,24 +138,15 @@
       transition: all .25s ease;
 
       &:hover {
-        color: findColorInvert($accent-color) !important;
-        background-color: $accent-color;
+        color: $quire-navbar-hover-text-color;
+        background-color: $quire-navbar-hover-color;
         svg {
-          fill: findColorInvert($accent-color);
+          fill: $quire-navbar-hover-text-color;
         }
-        * {
-          color: findColorInvert($accent-color) !important;
-        }
-        @if $navbar == accent {
-          color: $accent-color !important;
-          background-color: findColorInvert($accent-color);
-          svg {
-            fill: $accent-color !important;
-          }
-          * {
-            color: $accent-color !important;
-          }
-        }
+        // Another overly broad selector that causes more problems than it solves
+        // * {
+        //   color: findColorInvert($accent-color) !important;
+        // }
       }
     }
 
@@ -188,10 +180,10 @@
 
 .quire-navbar-page-controls {
   display: flex;
-  flex-wrap: no-wrap;
+  flex-flow: row nowrap;
   align-content: center;
   justify-content: center;
-  gap: 1rem;
+  //gap: 1rem;
   width: 100%;
 
   &__item {
@@ -229,7 +221,9 @@
     }
 
     &.quire-previous-page {
-      justify-content: flex-end;
+      a {
+        justify-content: flex-end;
+      }
     }
 
     &.quire-next-page {
@@ -270,7 +264,7 @@
       &.quire-next-page,
       &.quire-previous-page {
         display: block;
-        width: 45%;
+        width: 40%;
       }
     }
 
@@ -366,10 +360,10 @@
       -webkit-transition: all .25s ease;
       transition: all .25s ease;
       &:hover {
-        color: findColorInvert($accent-color) !important;
-        background-color: $accent-color;
+        color: $quire-navbar-hover-text-color;
+        background-color: $quire-navbar-hover-color;
         svg {
-          fill: findColorInvert($accent-color);
+          fill: $quire-navbar-hover-text-color;
         }
       }
     }

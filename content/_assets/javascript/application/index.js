@@ -373,32 +373,25 @@ littlefoot({
   activateOnHover: true,
   buttonTemplate: '<button aria-label="Footnote <% number %>" class="littlefoot__button" id="<% reference %>" title="See Footnote <% number %>" /> <% number %> </button>'
 });
-// Prepends "#lf-"" to  footnote's link to anchor, to match Littlefoot's button
-$('a.footnote-backref').each(function() {
-  var href = $(this).attr('href');
-  if( !/^\#lf-/.test(href) ) {
-      var newhref = href.replace(/#/, "#lf-");
-      $(this).attr('href',newhref);
-      //location.href = href;
-  }
+
+// Footnotes link back to text
+document.querySelectorAll('a.footnote-backref').forEach(function (link) {
+  // why does onHashLinkClick exist? 11ty? Why rewrite default behavior if you're just going to duplicate it?
+  link.removeEventListener('click', onHashLinkClick);
+
+  link.addEventListener('click', function(e) {
+    e.preventDefault();
+    e.stopImmediatePropagation();
+
+    var element_id = e.target.href.replace(/.*#/, '#lf-');
+
+    // Get height of header
+    var offset = document.querySelector('.quire__primary > .quire-navbar').getBoundingClientRect().height;
+
+    // Get y position of target element's parent paragraph.
+    var target_scroll = document.querySelector(element_id).parentElement.parentElement.getBoundingClientRect().top;
+
+    window.scrollBy({left: 0, top: target_scroll - offset, behavior: 'smooth'});
+  });
 });
-// Makes sure anchor links do not open new tab
-// TODO: this could be better for sure
-$("body").on("click", "a.footnote-backref[data-href]", function() {
-  var href = $(this).data("href");
-  if (href) {
-      location.href = href;
-  }
-});
-/* TODO: Find a better way. This shouldn't be added in javascript
-$(".footnotes.littlefoot--print").each(function() {
-  if( $(this).find('>ol') ) {
-    $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
-  }  
-});
-$(".footnotes .littlefoot__popover .littlefoot__content").each(function() {
-  if( $(this).find('>ol') ) {
-    $(this).prepend($('<h5 class="footnotes-title">Notes</h5>'));
-  }  
-});
-*/
+

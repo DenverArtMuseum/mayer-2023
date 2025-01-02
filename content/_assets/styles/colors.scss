@@ -11,7 +11,7 @@
 // refactor of Quire styles.
 
 $black: #000000 !default;
-$off-black: #333333;
+$off-black: #202020;
 $gray: #CCCCCC;
 $white: #ffffff;
 $off-white: #EEF2F3;
@@ -21,3 +21,9 @@ $light-yellow: #F9F9A3;
 $off-black-semi-transparent: rgba(0, 0, 0, .5);
 $black-semi-transparent: rgba(0, 0, 0, 0.75);
 $rich-black: cmyk(50%, 50%, 50%, 100%);
+
+// Usable color variables.
+$text-black: $off-black;
+$main-blue: rgb(58, 118, 127); // #3a767f
+$main-coral: rgb(224, 107, 64); // #e06b40
+

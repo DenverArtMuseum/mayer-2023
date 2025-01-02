@@ -5,6 +5,7 @@ layout: essay
 order: 27
 contributor:
   - id: vlyall
+byline_format: name
 ---
 
 >“Comparatively few art museums are so fortunate as to be regarded as ministering in a real way to the requirement of their communities, and yet, under the conditions of modern life, it is only upon these terms that an art museum can, in the long run, justify its existence.”

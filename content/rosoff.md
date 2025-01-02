@@ -5,6 +5,7 @@ layout: essay
 order: 21
 contributor:
   - id: nrosoff
+byline_format: name
 ---
 
 The Brooklyn Museum began actively collecting the ancient arts of the Americas in 1929 with the appointment of Herbert Joseph Spinde (1879–1967), who succeeded Stewart Culin (1858–1929) as the institution’s second Curator of Ethnology (fig. 1). The four case studies presented in this essay foreground Spinden’s central role in the acquisition of some of the institution’s most iconic works.[^1]

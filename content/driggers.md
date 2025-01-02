@@ -5,6 +5,7 @@ layout: essay
 order: 28
 contributor:
   - id: kdriggers
+byline_format: name
 ---
 
 In the 1960s and 1970s, the Tucson Museum of Art found new clarity in defining a vision of its future. After decades of operating without a permanent collection, doing business under various organizational names, and mounting an eclectic range of exhibitions in rented quarters, the museum began to push for a building of its own and to plan for an art collection, and what was then called “pre-Columbian art” was foregrounded as central to its purpose. Reporting on a gift of funds to construct the new galleries, the *Arizona Daily Star* noted that “the new museum is expected to feature permanent collections of pre-Columbian, Spanish Colonial, and contemporary Western art,” observing the special relationship between the museum’s collection-to-be and Tucson’s identity as a place of Mexican heritage.[^1] Museum leadership believed that Tucson’s history should guide their acquisitions, and the art of the Americas—and especially ancient and colonial art from Mexico—became the institution’s foremost priority.

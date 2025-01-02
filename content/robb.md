@@ -5,6 +5,7 @@ layout: essay
 order: 25
 contributor: 
   - id: mrobb
+byline_format: name
 ---
 
 ## “Central American Antiq.”

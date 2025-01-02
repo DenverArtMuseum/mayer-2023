@@ -1,0 +1,130 @@
+
+// Every override in here is a candidate for a change made to the original scss file
+
+// NOTE: removed blockquote customization from quire-page.scss
+
+/* ToC page
+ * Also made changes to _includes/components/table-of-contents/item/list.js
+ * Original markup needed to change
+ * Overly broad * selector commented out in quire-contents-list.scss as well
+ ************************************************************************/
+.quire-contents {
+  .quire-page__content {
+    .container {
+      max-width:38em;
+    }
+  }
+}
+
+.quire-contents-list {
+  &.list {
+    font-family: $quire-navigation-font;
+
+    .table-of-contents {
+      .table-of-contents-list {
+        a {
+          .contributor {
+            color: $content-text-color;
+            display: block;
+            font-style: normal;
+      
+            &::before {
+              content: "by";
+              display: inline-block;
+              margin: 0 .25em 0 1em;
+            }
+          }
+
+          &:hover {
+            .contents-page-title {
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+/*========================================================================
+ * END of Table of Contents page customizations
+ */
+
+
+/*------------------------------------------------------------------------
+ * Navbar customizations
+ * Removed overly broad * selector in quire-navbar.scss
+ -----------------------------------------------------------------------*/
+.quire-navbar {
+  .quire-navbar-controls {
+    .quire-navbar-button {
+      color: inherit;
+
+      &:hover {
+        color: $quire-navbar-hover-text-color;
+      }
+    }
+  }
+  .quire-navbar-page-controls {
+    &__item{
+      &.quire-previous-page {
+        padding-right: 1rem;
+      }
+      &.quire-next-page {
+        padding-left: 1rem;
+        position: relative;
+
+        a {
+          &::before {
+            color: $white;
+            content: '|';
+            position: absolute;
+            left:-.125rem;
+            z-index: 10;
+          }
+        
+          &:hover {
+            &::before {
+              color: $white;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+/*========================================================================
+ * END of Navbar customizations
+ =======================================================================*/
+
+/*------------------------------------------------------------------------
+ * Page customizations
+ -----------------------------------------------------------------------*/
+.quire-essay {
+  .quire-page {
+    &__header {
+      &.hero {
+        background: $main-coral;
+
+        .hero-body {
+          color: $white;
+
+          .quire-page__header__title {
+            color: $white;
+            max-width: 35ch;
+            margin: 0 auto;
+          }
+
+          .quire-page__header__contributor {
+            font-size: px-to-rem(24px);
+            font-style: normal;
+          }
+        }
+      }
+    }
+  }
+}
+/*========================================================================
+ * END of Page customizations
+ =======================================================================*/
