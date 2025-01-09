@@ -85,7 +85,7 @@ module.exports = function (eleventyConfig) {
           ? getFigure(object.figure[0].id)
           : null
         imageElement = firstObjectFigure
-          ? tableOfContentsImage({ src: firstObjectFigure.src })
+          ? tableOfContentsImage({ src: firstObjectFigure.src, inline: firstObjectFigure.staticInlineFigureImage, zoom: firstObjectFigure.zoom })
           : ''
         break
       }

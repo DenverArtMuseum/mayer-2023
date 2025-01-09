@@ -11,13 +11,13 @@ const path = require('path')
 module.exports = function(eleventyConfig) {
   const { imageDir } = eleventyConfig.globalData.config.figures
   return function(params) {
-    const { src } = params
+    const { src, inline, zoom } = params
     if (!imageDir || !src) return ''
-    const imgPath = path.join(imageDir, src)
+    const imgPath = zoom ? inline : path.join(imageDir, src)
     return `
       <div class="card-image">
         <figure class="image">
-          <img src="${ imgPath }" alt="" />
+          <img src="${ imgPath }" alt="" loading="lazy" />
         </figure>
       </div>
     `

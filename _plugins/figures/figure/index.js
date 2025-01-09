@@ -105,7 +105,7 @@ module.exports = class Figure {
     this.outputFormat = format && format.output
     this.processImage = imageProcessor
     this.src = src
-    this.tileQuality = this.tileQuality || baseTileQuality
+    this.tileQuality = tileQuality || baseTileQuality
     /**
      * We are disabling zoom for all sequence figures
      * our custom image-sequence component currently only supports static images
