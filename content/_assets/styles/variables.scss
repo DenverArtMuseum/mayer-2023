@@ -83,12 +83,15 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 $quire-menu-width: 22rem;
 
-$quire-menu-color: $off-black;
-$quire-menu-text-color: $white;
-$menu-accent-color: $link-color;
-$menu-link-color: $link-color; // not used yet
+$quire-menu-font: $typeface-inter;
+$quire-menu-heading-font: $typeface-inter;
+
+$quire-menu-color: $main-lavender;
+$quire-menu-text-color: $black;
+$menu-accent-color: $main-coral;
+$menu-link-color: $main-coral; // not used yet
 $menu-link-visited-color: $link-color; // not used yet
-$menu-link-active-color: $link-color; // not used yet
+$menu-link-active-color: $secondary-blue; // not used yet
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------

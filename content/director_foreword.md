@@ -2,7 +2,7 @@
 title: Director's Foreword
 subtitle: 
 layout: essay
-order: 1
+order: 2
 ---
 
 Generally, museums offer a public platform for the presentation and exploration of cultural narratives, memories, and aesthetics. Increasingly, as these institutions grapple with their complicated colonial pasts, curators have begun investigating their collections’ origins to better understand how they were formed, who contributed to their formation, and how the objects were used to represent cultures, countries, and identities. “Pre-Columbian” art once described the material culture produced in the Americas prior to the arrival of Europeans. Now, museums across the US typically use art “of the Americas” or “of the ancient Americas” to describe these objects produced south of the US-Mexico border. The shift in terminology reflects the continuing effort to confront the changing meanings and import of what collector Nelson Rockefeller once described as the “other Americas.”[^1]
