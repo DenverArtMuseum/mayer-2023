@@ -37,8 +37,8 @@
     margin-left: 0;
     margin-right: 0;
     @if $theme == modern {
-      border-top: 1px solid $accent-color;
-      border-bottom: 1px solid $accent-color;
+      //border-top: 1px solid $accent-color;
+      //border-bottom: 1px solid $accent-color;
       padding: 1rem 0;
     } @else {
       // figures shouldn't have borders or padding in 'classic' theme
