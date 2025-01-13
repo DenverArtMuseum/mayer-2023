@@ -3,6 +3,71 @@
 
 // NOTE: removed blockquote customization from quire-page.scss
 
+/* Cover page
+ * TODO: a lot. 
+ ************************************************************************/
+.quire-cover__hero {
+  background: $main-coral;
+  min-height: unset !important; // TODO: fix base styles to get rid of this nonsense
+
+  .quire-cover__overlay {
+    background-color: #000;
+    background-position: center top;
+    background-size: contain;
+    position: unset;
+
+    @media screen {
+      min-height: calc(100vw / 6.185567010309278);
+    }
+  }
+
+  .quire-cover__hero-body {
+    padding-top: 1.25rem;
+    padding-bottom: 2rem;
+
+    .container {
+      background:none;
+      color: #fff;
+      padding: 0;
+      position: unset;
+      display:block;
+
+      // TODO: go into base styles and remove all nested text color declarations
+      h1 {
+        color: inherit;
+        .subtitle {
+          color: inherit;
+        }
+      }
+      .reading-line {
+        color: inherit;
+      }
+      .contributor {
+        color: inherit;
+        font-family: $quire-navigation-font;
+      }
+    }
+  }
+}
+
+// TODO: remove the markup from the template if they like this being gone
+.quire-cover__more {
+  display: none;
+}
+
+.quire-cover {
+  .quire-page__content {
+    .container {
+      &.is-fluid {
+        .content {
+          margin-top: 1em; // TODO: Fix base styles here
+          padding-top: 1em !important; // TODO: Fix base styles here, too
+        }
+      }
+    }
+  }
+}
+
 /* ToC page
  * Also made changes to _includes/components/table-of-contents/item/list.js
  * Original markup needed to change
