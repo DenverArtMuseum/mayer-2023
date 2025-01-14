@@ -3,8 +3,13 @@
 
 // NOTE: removed blockquote customization from quire-page.scss
 
+// Create SASS variable for root path because there's no easy way to automate this
+// TODO: how to get publication url from publication.yaml to here?
+$root_path: "/";
+//$root_path: "/mayer-2023/"; // Github pages path only
+
 /* Cover page
- * TODO: a lot. 
+ * TODO: Title responsiveness
  ************************************************************************/
 .quire-cover__hero {
   background: $main-coral;
@@ -12,12 +17,22 @@
 
   .quire-cover__overlay {
     background-color: #000;
+    background-image: url("#{$root_path}_assets/images/cover-800.jpg");
     background-position: center top;
     background-size: contain;
+    height: calc(100vw / 1.539695268644747); // based on image aspect ratio
+    min-height: unset;
     position: unset;
 
-    @media screen {
-      min-height: calc(100vw / 6.185567010309278);
+    @media screen and (min-width: 48rem) {
+      background-image: url("#{$root_path}_assets/images/cover-1400.jpg");
+    }
+    @media screen and (min-width: 78rem) {
+      background-image: url("#{$root_path}_assets/images/cover-1920.jpg");
+      height: calc(100vw / 6.185567010309278);
+    }
+    @media screen and (min-width: 120rem) {
+      background-image: url("#{$root_path}_assets/images/cover-3000.jpg");
     }
   }
 
@@ -44,7 +59,7 @@
       }
       .contributor {
         color: inherit;
-        font-family: $quire-navigation-font;
+        font-family: $quire-navigation-font; // TODO: make sure this is consistent, whatever it is
       }
     }
   }
