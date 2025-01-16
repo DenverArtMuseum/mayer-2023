@@ -127,6 +127,9 @@ $root_path: "/";
     .table-of-contents {
       .table-of-contents-list {
         a {
+          .contents-page-title {
+            font-weight: 500; // try semibold. Font is variable. Have fun with it.
+          }
           .contributor {
             color: $content-text-color;
             display: block;
@@ -229,6 +232,24 @@ $root_path: "/";
     }
   }
 }
+
+.quire-page__content {
+  .container { 
+    .content {
+      .backmatter {
+        font-size: 1rem;
+        h2 {
+          font-size: 1.125em;
+          margin: 4rem 0 2em;
+        }
+      }
+      .footnotes {
+        font-size:1.125rem;
+      }
+    }
+  }
+}
+
 /*========================================================================
  * END of Page customizations
  =======================================================================*/
