@@ -70,12 +70,14 @@
       }
     }
 
+    // Some of these styles never get used because they're overridden by quire-page styles
+    // TODO: Fix specificity
     .title {
       font-family: $quire-headings-font;
       font-size: calc(2rem * #{$quire-cover-text-scale});
       font-weight: 700;
       line-height: 1.07;
-      margin-bottom: calc(.5rem * #{$quire-cover-text-scale});
+      margin-bottom: calc(.375em * #{$quire-cover-text-scale});
       color: $quire-cover-text-color;
       @media print {
         font-size: 40pt;
@@ -88,7 +90,7 @@
 
     .subtitle {
       display: block;
-      margin-top: calc(.5rem * #{$quire-cover-text-scale});
+      margin-top: calc(.0625em * #{$quire-cover-text-scale});
       font-size: calc(1.5rem * #{$quire-cover-text-scale});
       font-weight: 400;
       line-height: 1.02;

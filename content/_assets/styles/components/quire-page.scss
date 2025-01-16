@@ -75,9 +75,13 @@ body {
       color: $print-text-color;
     }
 
+    // FIXME: I cannot conceive of a good reason to do… this. 
+    // Comment out and see how the site looks (immediately better it turns out)
+    /*
     &:not(:first-child) {
       margin-top: 1rem;
     }
+    */
   }
 
   h1,
@@ -276,7 +280,7 @@ body {
         }
 
         p {
-          line-height: 2;
+          line-height: 1.7;
           @media print {
             line-height: 1.5;
           }
