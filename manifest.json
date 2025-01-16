@@ -1,0 +1,69 @@
+{
+  "_assets/fonts/crimson/CrimsonPro-Italic.woff2": {
+    "file": "_assets/CrimsonPro-Italic.woff2",
+    "src": "_assets/fonts/crimson/CrimsonPro-Italic.woff2"
+  },
+  "_assets/fonts/crimson/CrimsonPro.woff2": {
+    "file": "_assets/CrimsonPro.woff2",
+    "src": "_assets/fonts/crimson/CrimsonPro.woff2"
+  },
+  "_assets/fonts/hepta/HeptaSlab-VF.woff2": {
+    "file": "_assets/HeptaSlab-VF.woff2",
+    "src": "_assets/fonts/hepta/HeptaSlab-VF.woff2"
+  },
+  "_assets/fonts/inter/InterVariable-Italic.woff2": {
+    "file": "_assets/InterVariable-Italic.woff2",
+    "src": "_assets/fonts/inter/InterVariable-Italic.woff2"
+  },
+  "_assets/fonts/inter/InterVariable.woff2": {
+    "file": "_assets/InterVariable.woff2",
+    "src": "_assets/fonts/inter/InterVariable.woff2"
+  },
+  "_assets/fonts/montserrat/latin-wght-italic.woff2": {
+    "file": "_assets/latin-wght-italic.woff2",
+    "src": "_assets/fonts/montserrat/latin-wght-italic.woff2"
+  },
+  "_assets/fonts/montserrat/latin-wght-normal.woff2": {
+    "file": "_assets/latin-wght-normal.woff2",
+    "src": "_assets/fonts/montserrat/latin-wght-normal.woff2"
+  },
+  "_assets/images/cover-1400.jpg": {
+    "file": "_assets/cover-1400.jpg",
+    "src": "_assets/images/cover-1400.jpg"
+  },
+  "_assets/images/cover-1920.jpg": {
+    "file": "_assets/cover-1920.jpg",
+    "src": "_assets/images/cover-1920.jpg"
+  },
+  "_assets/images/cover-3000.jpg": {
+    "file": "_assets/cover-3000.jpg",
+    "src": "_assets/images/cover-3000.jpg"
+  },
+  "_assets/images/cover-800.jpg": {
+    "file": "_assets/cover-800.jpg",
+    "src": "_assets/images/cover-800.jpg"
+  },
+  "_index-0d3097ef.js": {
+    "assets": [
+      "_assets/InterVariable.woff2",
+      "_assets/InterVariable-Italic.woff2",
+      "_assets/CrimsonPro.woff2",
+      "_assets/CrimsonPro-Italic.woff2",
+      "_assets/HeptaSlab-VF.woff2",
+      "_assets/latin-wght-normal.woff2",
+      "_assets/latin-wght-italic.woff2",
+      "_assets/cover-800.jpg",
+      "_assets/cover-1400.jpg",
+      "_assets/cover-1920.jpg",
+      "_assets/cover-3000.jpg"
+    ],
+    "css": [
+      "_assets/index.css"
+    ],
+    "file": "_assets/index-0d3097ef.js"
+  },
+  "index.css": {
+    "file": "_assets/index.css",
+    "src": "index.css"
+  }
+}
