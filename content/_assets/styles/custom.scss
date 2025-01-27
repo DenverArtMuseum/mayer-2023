@@ -42,10 +42,11 @@ $root_path: "/";
 
     .container {
       background:none;
-      color: #fff;
+      color: $off-white;
       padding: 0 1.5rem;
       position: unset;
       display:block;
+      text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.2);
 
       // TODO: go into base styles and remove all nested text color declarations
       h1 {
@@ -66,7 +67,7 @@ $root_path: "/";
       }
       .contributor {
         color: inherit;
-        font-family: $quire-navigation-font; // TODO: make sure this is consistent for contribs, whatever it is
+        font-family: $typeface-besley; // TODO: make sure this is consistent for contribs, whatever it is
         font-size: 1.25rem;
         line-height: 1.4;
       }
@@ -163,8 +164,11 @@ $root_path: "/";
  * Removed overly broad * selector in quire-navbar.scss
  -----------------------------------------------------------------------*/
 .quire-navbar {
+  text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.3);
+
   .quire-navbar-controls {
     .quire-navbar-button {
+      text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.3);
       color: inherit;
 
       &:hover {
@@ -211,6 +215,21 @@ $root_path: "/";
 .menu {
   font-size: 1.25rem;
   line-height: 1.4;
+  text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.3);
+
+  .quire-menu__header__contributors {
+    font-family: $typeface-besley;
+    font-size: .75em;
+    font-style: normal;
+    margin-top: 1em;
+  }
+
+  .quire-menu__list {
+    .page-item {
+      line-height: 1.4;
+      
+    }
+  }
 }
 
 
@@ -222,6 +241,7 @@ $root_path: "/";
     &__header {
       &.hero {
         background: $main-red;
+        text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.2);
 
         .hero-body {
           color: $off-white;

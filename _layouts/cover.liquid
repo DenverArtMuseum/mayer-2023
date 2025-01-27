@@ -26,9 +26,9 @@ layout: base.11ty.js
       <div class="contributor">
         <span class="visually-hidden">Contributors: </span>
         {% if publication.contributor_as_it_appears %}
-          <em>{{ publication.contributor_as_it_appears }}</em>
+          {{ publication.contributor_as_it_appears }}
         {% else %}
-          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
+          {% contributors context=publicationContributors, format='string', type='primary' %}
         {% endif %}
       </div>
     </div>
