@@ -559,7 +559,7 @@ $image-divider-height: 16px;
       }
 
       p {
-        line-height: 1.5;
+        line-height: $quire-base-line-height;
       }
     }
   }

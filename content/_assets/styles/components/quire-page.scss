@@ -155,13 +155,10 @@ body {
     font-family: $quire-primary-font;
     font-size: 1em;
     font-weight: 400;
-    line-height: 1.6;
+    line-height: $quire-base-line-height;
     padding-top: 0;
     padding-bottom: 0;
     position: relative;
-    font-size: 1em;
-    font-weight: 400;
-    line-height: 1.6;
     color: background-color-text-classic($content-background-color);
 
     @include animation(0.5s ease 0s 1 slideFromRight);
@@ -280,7 +277,7 @@ body {
         }
 
         p {
-          line-height: 1.7;
+          line-height: $quire-base-line-height;
           @media print {
             line-height: 1.5;
           }
@@ -309,7 +306,7 @@ body {
         .backmatter {
           font-family: $quire-footnotes-font;
           font-size: 0.875rem;
-          line-height: 1.6;
+          line-height: $quire-backmatter-line-height;
           padding-top: 0;
 
           h2,
@@ -359,7 +356,7 @@ body {
 
           p {
             // font-size: 0.875em;
-            line-height: 1.6em !important;
+            line-height: $quire-backmatter-line-height;
           }
           dl {
           }
@@ -375,8 +372,9 @@ body {
           hr {
             display: none;
           }
+          // TODO: You have got to be kidding me with this shit
           * {
-            line-height: 1.6em;
+            line-height: $quire-backmatter-line-height;
           }
           @if $theme == classic {
             ul {
@@ -412,7 +410,7 @@ body {
     padding-top: 1em;
     margin-bottom: -3.5em;
     font-size: 0.875em;
-    line-height: 1.7em;
+    line-height: 1.7em; // TODO: Why? Why? Why? Quire team, why?
 
     @media screen and (max-width: $tablet) {
       margin-bottom: -3.25em;
@@ -471,7 +469,7 @@ body {
       .content {
         margin: 0;
         padding: 0 0 1em;
-        line-height: 1.714em;
+        line-height: 1.714em; // TODO: Nope. For real Quire, why?
 
         @media print {
           max-width: 100%;
@@ -528,7 +526,7 @@ body {
     }
 
     .label {
-      line-height: 1.3;
+      line-height: 1.3; // TODO: nope
       display: table;
       width: fit-content;
       @if $theme == classic {

@@ -219,13 +219,14 @@ $root_path: "/";
 
           .quire-page__header__title {
             color: $white;
-            max-width: 35ch;
+            max-width: 54ch;
             margin: 0 auto;
           }
 
           .quire-page__header__contributor {
             font-size: px-to-rem(24px);
             font-style: normal;
+            font-weight: 500;
           }
         }
       }

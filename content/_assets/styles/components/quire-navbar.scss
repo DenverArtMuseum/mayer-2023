@@ -27,8 +27,8 @@
   color: $quire-navbar-text-color;
   background-color: $quire-navbar-color;
   font-family: $quire-navigation-font;
-  font-size: .875em;
-  font-weight: 400;
+  font-size: 1.5rem;
+  font-weight: 500;
   min-height: $navbar-height;
   position: sticky;
   top: 0 !important;
@@ -304,7 +304,7 @@
   display: flex;
   flex-flow: row nowrap;
   font-family: $quire-navigation-font;
-  font-size: 1rem;
+  font-size: 0.83333em;
   height: $navbar-height;
   justify-content: center;
   min-width: $navbar-height;
@@ -338,6 +338,7 @@
   }
 
   .text-label {
+    font-weight: 500; // TODO: This shouldn't be necessary, but Bulma's reset.css is hot trash
     margin-left: .5rem;
   }
 

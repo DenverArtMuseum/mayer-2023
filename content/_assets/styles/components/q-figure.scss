@@ -155,7 +155,7 @@
 
   .content figure &__caption {
     font-size: 0.75em;
-    line-height: 1.5;
+    line-height: $quire-caption-line-height;
     margin-top: 0.5rem;
     font-style: normal;
     text-align: left;
@@ -164,6 +164,7 @@
     @media print {
       color: $print-text-color;
     }
+    // TODO: Why? adjust link line-height separately? inline-block nonsense?
     a {
       line-height: 0;
     }
@@ -173,7 +174,7 @@
     display: inline-block;
     height: 0;
     font-weight: 700;
-    line-height: 0;
+    line-height: 0; // TODO: Why?
     margin-right: .5rem;
     a {
       @if $theme == classic {
@@ -556,7 +557,7 @@ div.multimedia {
 
   .caption {
     font-size: 0.75em;
-    line-height: 1.8em;
+    line-height: $quire-caption-line-height;
     color: $black;
     word-break: break-all;
   }

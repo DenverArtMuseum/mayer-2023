@@ -47,10 +47,9 @@ $ibm-sans: 'IBM Plex Sans Condensed', sans-serif;
 // All of the default Quire fonts are commented out in fonts/index.scss
 //  - Inter and Montserrat below are available by default.
 //  - Raleway and Zen Kaku Gothic New are commented out by default, but are easy to enable.
-$typeface-inter: 'InterVariable', sans-serif;
-$typeface-crimson: 'CrimsonVariable', serif;
-$typeface-hepta: 'HeptaVariable', serif;
-$typeface-montserrat: 'Montserrat Variable', sans-serif;
+$typeface-afacad: 'AfacadVariable', sans-serif;
+$typeface-besley: 'BesleyVariable', serif;
+$typeface-sofiacond: 'SofiaSansCondVariable', sans-serif;
 // Uncomment Raleway in fonts/index.scss if you want to use it
 //$typeface-raleway: 'Raleway Variable', sans-serif;
 // Uncomment Zen Kaku Gothic in fonts/index.scss if you want to use it
@@ -61,7 +60,10 @@ $typeface-montserrat: 'Montserrat Variable', sans-serif;
 
 // Page typography
 // -----------------------------------------------------------------------------
-$quire-base-font-size: 1.5rem; // 24px at 100% zoom
+$quire-base-font-size: 1.125rem; // 20px at 100% zoom
+$quire-base-line-height: 2; // Why wasn't this a variable in the first place?
+$quire-caption-line-height: 1.7;
+$quire-backmatter-line-height: 1.6;
 $quire-page-paragraph-style: line-space; // or use indent
 
 // More easily alter page width and content size (default is really small)
@@ -83,8 +85,8 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // -----------------------------------------------------------------------------
 $quire-menu-width: 22rem;
 
-$quire-menu-font: $typeface-inter;
-$quire-menu-heading-font: $typeface-inter;
+$quire-menu-font: $typeface-sofiacond;
+$quire-menu-heading-font: $typeface-sofiacond;
 
 $quire-menu-color: $main-lavender;
 $quire-menu-text-color: $black;
@@ -143,10 +145,10 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $typeface-crimson !default;
-  $quire-headings-font: $typeface-hepta !default;
-  $quire-footnotes-font: $typeface-inter !default;
-  $quire-navigation-font: $typeface-montserrat !default;
+  $quire-primary-font: $typeface-besley !default;
+  $quire-headings-font: $typeface-afacad !default;
+  $quire-footnotes-font: $typeface-sofiacond !default;
+  $quire-navigation-font: $typeface-afacad !default;
   $accent-color: $red !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;
