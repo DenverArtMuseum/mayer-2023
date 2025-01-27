@@ -267,14 +267,21 @@ $root_path: "/";
   .container { 
     .content {
       .backmatter {
-        font-size: 1rem;
+        font-size: 1.25rem;
+        margin-top: 3rem;
         h2 {
-          font-size: 1.125em;
-          margin: 4rem 0 2em;
+          font-size: 1.25em;
+          margin: 1.6em 0 1em;
         }
       }
       .footnotes {
         font-size:1.125rem;
+
+        .footnotes-list {
+          .footnote-item {
+            max-width: 68ch;
+          }
+        }
       }
     }
   }
