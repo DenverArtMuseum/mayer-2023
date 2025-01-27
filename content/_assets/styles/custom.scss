@@ -12,7 +12,7 @@ $root_path: "/";
  * TODO: Title responsiveness
  ************************************************************************/
 .quire-cover__hero {
-  background: $main-coral;
+  background: $main-red;
   min-height: unset !important; // TODO: fix base styles to get rid of this nonsense
 
   .quire-cover__overlay {
@@ -212,7 +212,7 @@ $root_path: "/";
   .quire-page {
     &__header {
       &.hero {
-        background: $main-coral;
+        background: $main-red;
 
         .hero-body {
           color: $white;
@@ -233,7 +233,6 @@ $root_path: "/";
   }
 }
 
-// Footnotes specifically
 .quire-page__content {
   .container { 
     .content {
