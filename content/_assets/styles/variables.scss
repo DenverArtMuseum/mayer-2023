@@ -84,16 +84,17 @@ $quire-cover-text-scale: 1; // use decimal numbers such as .8 or 1.3
 // Menu
 // -----------------------------------------------------------------------------
 $quire-menu-width: 22rem;
+$quire-menu-font-size: 1.25rem;
 
-$quire-menu-font: $typeface-sofiacond;
-$quire-menu-heading-font: $typeface-sofiacond;
+$quire-menu-font: $typeface-afacad;
+$quire-menu-heading-font: $typeface-afacad;
 
-$quire-menu-color: $main-lavender;
-$quire-menu-text-color: $black;
+$quire-menu-color: $dark-background;
+$quire-menu-text-color: $off-white;
 $menu-accent-color: $main-red;
-$menu-link-color: $main-red; // not used yet
-$menu-link-visited-color: $link-color; // not used yet
-$menu-link-active-color: $secondary-blue; // not used yet
+$menu-link-color: $secondary-blue; // not used yet
+$menu-link-visited-color: $menu-link-color; // not used yet
+$menu-link-active-color: $menu-link-color; // not used yet
 
 // Image viewer (pop-up figure viewer & entry page viewer)
 // -----------------------------------------------------------------------------
@@ -162,7 +163,7 @@ $navbar-height: 4rem;
 $quire-navbar-color: $main-blue;
 $quire-navbar-hover-color: $main-red;
 $quire-navbar-text-color: $white;
-$quire-navbar-hover-text-color: $black;
+$quire-navbar-hover-text-color: $off-white;
 $navbar-link-color: $link-color;
 $navbar-link-visited-color: $link-visited-color;
 $navbar-link-active-color: $link-active-color;
