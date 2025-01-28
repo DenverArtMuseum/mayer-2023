@@ -17,4 +17,10 @@ Christoph Heinrich
 
 Frederick and Jan Mayer Director
 
+{% backmatter %}
+
+## Notes
+
 [^1]: In a letter dated September 29, 1944, from Nelson A. Rockefeller to René d’Harnoncourt, who was the vice president in charge of foreign activities at the Museum of Modern Art, Rockefeller referred to Latin America as the “other Americas.” The letter is part of a longer correspondence that makes clear the intended reason for d’Harnoncourt’s travels was to assess and report back the progress of communism in the “other Americas.” Record group: III 4 L, Box 135, Folder 1325, Rockefeller Archive Center, Sleepy Hollow, NY.
+
+{% endbackmatter %}
