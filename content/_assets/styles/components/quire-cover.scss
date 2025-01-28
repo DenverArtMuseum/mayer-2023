@@ -192,11 +192,17 @@
         padding-top: 2em !important;
         color: background-color-text-classic($secondary-background-color);
         background-color: $secondary-background-color;
+        /* TODO: Jesus Quire. Never do anything in 2 selectors when you can
+           overstate everything with like 32 completely redundant ones.
+           The CSS for Quire is so wildly overdefined it's kind of baffling.
+           No wonder they use !important all over the place.
         p {
           line-height: 2em;
           font-family: $quire-primary-font;
         }
+        */
       }
+      // TODO: Wtf is this? They didn't even use their own breakpoint variables
       @media screen and (min-width: 1028px) {
         max-width: 900px;
         width: 900px;

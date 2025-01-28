@@ -5,6 +5,7 @@
 
 // Create SASS variable for root path because there's no easy way to automate this
 // TODO: how to get publication url from publication.yaml to here?
+// Can we work with environment variables in SASS/11ty?
 $root_path: "/";
 //$root_path: "/mayer-2023/"; // Github pages path only
 
@@ -12,7 +13,7 @@ $root_path: "/";
  * TODO: Title responsiveness
  ************************************************************************/
 .quire-cover__hero {
-  background: $main-red;
+  background: $content-background-color;
   min-height: unset !important; // TODO: fix base styles to get rid of this nonsense
 
   .quire-cover__overlay {
@@ -39,14 +40,23 @@ $root_path: "/";
   .quire-cover__hero-body {
     padding-top: 1.25rem;
     padding-bottom: 2rem;
+    width:100%;
 
     .container {
       background:none;
-      color: $off-white;
+      color: $off-black;
+      margin: 0 $gap;
       padding: 0 1.5rem;
       position: unset;
       display:block;
-      text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.2);
+      text-align: center;
+      width:100%;
+
+      .publication-logo {
+        width: 100%;
+        margin: 1rem 0 2rem;
+        max-width: 48rem;
+      }
 
       // TODO: go into base styles and remove all nested text color declarations
       h1 {
@@ -69,10 +79,12 @@ $root_path: "/";
         color: inherit;
         font-family: $typeface-besley; // TODO: make sure this is consistent for contribs, whatever it is
         font-size: 1.25rem;
+        font-weight: 600;
         line-height: 1.4;
       }
 
       @media screen and (min-width: 48rem) {
+        margin: 0 auto;
         padding: 0;
 
         h1 {
@@ -86,6 +98,7 @@ $root_path: "/";
           font-size: 1.25rem;
         }
       }
+
     }
   }
 }

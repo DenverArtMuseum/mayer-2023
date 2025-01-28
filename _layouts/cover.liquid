@@ -7,6 +7,7 @@ layout: base.11ty.js
 
 {% assign coverImage = image %}
 {% assign imagePath = config.figures.imageDir | concat: coverImage | join: '/' %}
+{% assign logo = config.figures.imageDir | concat: 'full-logo.svg' | join: '/' %}
 
 <section class="quire-cover__hero hero is-fullheight">
   <div class="quire-cover__overlay" >
@@ -14,11 +15,11 @@ layout: base.11ty.js
     <img class="visually-hidden" src="{{ imagePath }}" />
   </div>
   <div class="quire-cover__hero-body hero-body">
-    <div class="container is-fluid">
-      <h1 class="title" id="page-header-{{ page.filePathStem }}">
-        {{ publication.title | markdownify }}
+    <div class="container">
+      <img class="publication-logo" src="{{ logo }}" alt="Collecting the Other Americas: Ancient Americas Collections in Art Museums" />
+      <h1 class="visually-hidden title" id="page-header-{{ page.filePathStem }}">
+        {{ publication.title | markdownify }}:
         {% if publication.subtitle %}
-          <span class="visually-hidden">: </span>
           <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
         {% endif %}
       </h1>

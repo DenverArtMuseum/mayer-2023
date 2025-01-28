@@ -113,6 +113,15 @@ module.exports = function(eleventyConfig) {
       `
     }
 
+    const navBarLogo = () => {
+      if (isHomePage) return ''
+      return html`
+      <div class="logo">
+        <a class="logo-link" href="/" title="Home" rel="home"><img src="/_assets/images/nav-logo.svg" alt=""></a>
+      </div>
+      `
+    }
+
     // TODO: get logo alt text in a config file
     return html`
       <div class="quire-navbar">
@@ -121,9 +130,7 @@ module.exports = function(eleventyConfig) {
         </a>
         <nav class="quire-navbar-controls">
           <div class="quire-navbar-controls__left">
-            <div class="logo">
-              <a class="logo-link" href="/" title="Home" rel="home"><img src="/_assets/images/nav-logo.svg" alt=""></a>
-            </div>
+            ${navBarLogo()}
           </div>
           <div class="quire-navbar-controls__center">
             <ul class="quire-navbar-page-controls" role="navigation" aria-label="quick">
