@@ -118,6 +118,12 @@ contributor:
     title: Andrew W. Mellon Curator and Chair of the Arts of the Americas   
     affiliation: Brooklyn Museum
     bio: "Nancy B. Rosoff is Andrew W. Mellon Curator and Chair of the Arts of the Americas at the Brooklyn Museum."
+  - id: cheinrich
+    type: secondary
+    first_name: Christoph
+    last_name: Heinrich
+    title: Frederick and Jan Mayer Director
+    affiliation: Denver Art Museum
 
 # ------------------------------------------------------------------------------
 # Copright & License

@@ -8,17 +8,17 @@ contributor:
 byline_format: name
 ---
 
-{% figuregroup '2', 'pope-fig-1, pope-fig-2' %}
-
 The Art Institute of Chicago’s building is a remnant of Chicago’s 1893 World’s Columbian Exposition, which celebrated the 400th anniversary of Christopher Columbus’s voyage to the Americas. Columbus’s arrival in the “New World” was framed as a decisive moment within an overarching vision of a uniquely American cultural and industrial progress (fig. 1). The organizers sought to reveal the foundation of modern America through the scientific study of its “Native peoples.” The Exposition offered many their first engagement with ancient and Indigenous Americas through archaeology and ethnographic displays, as well as replicas of ancient sculpture and architecture recently discovered in Mexico and Central America (fig. 2).[^1]
 
-{% figure 'pope-fig-3', 'is-pulled-left' %}
+{% figuregroup '2', 'pope-fig-1, pope-fig-2' %}
+
+{% figure 'pope-fig-3', 'is-pulled-right' %}
 
 The artifacts gathered for the Exposition became the founding collection for the new Columbian Museum of Chicago (later the Field Museum of Natural History, Chicago Natural History Museum, and finally the Field Museum), while the Art Institute would move into the headquarters of the World’s Congress Auxiliary in the heart of the city (fig. 3). Manifesting the ideal “White City” presented by the Exposition, this Beaux-Art building has a facade etched with the names of Western history’s most important painters, sculptors, and architects—asserting itself as an art institution in the classical European model. The collections of the Art Institute long reflected this perspective, with no interest in works from the ancient or Indigenous Americas. Exhibiting pre-Columbian and North American objects in natural history or anthropological institutions, rather than an art museum, was the standard practice of the day; it would take several decades until these “artifacts” were regarded as “art” and displayed alongside other celebrated artistic traditions.
 
 ## Modest Gifts and Industrial Inspiration
 
-{% figure 'pope-fig-4', 'is-pulled-right' %}
+{% figure 'pope-fig-4', 'is-pulled-left' %}
 
 Few ancient or Indigenous American objects entered the Art Institute’s permanent collection during the fifty years after its founding in 1879. They typically were modest gifts from civic-minded local philanthropists, such as the assortment of broken clay figures, earflares, and spindle whorls from ancient Mexico given in 1907—the first works from Mesoamerica acquired by the museum (fig. 4). With no curatorial department dedicated to the collection and display of these works, most were placed within the Decorative Arts Department, “all but forgotten in various storerooms.”[^2]
 
@@ -104,6 +104,7 @@ Emphasizing the aesthetics of the works, the installation of *Chicago Collection
 The focus on individual works of art and their formal qualities was also the design approach in the early permanent collection galleries. A photograph from the 1960s shows a decontextualized, modernist gallery display, featuring simple casework, a small selection of works, and minimal text (fig. 14). A later description of the early primitive art installation suggests that, due to the limitations of the space allocated to the collection, artwork was displayed according to size rather than style or place of origin, prioritizing visual and formal inquiry over contextual.[^41]
 
 {% figure 'pope-fig-15', 'is-pulled-right' %}
+
 Even with limited funds, the young department made purchases to better present the breadth of its collecting areas, selecting singular masterpieces that would act as keystones for the collection. In the 1960s, works from across the ancient Americas were acquired, including the Teotihuacan [*Mural Fragment*](https://www.artic.edu/artworks/14968/mural-fragment-depicting-a-maguey-bloodletting-ritual) (1962.702), [Coclé *Pedestal Bowl*](https://www.artic.edu/artworks/17490/pedestal-bowl-depicting-an-anthropomorphic-saurian-figure) (1963.389), [Chimú *Tumi*](https://www.artic.edu/artworks/18757/ceremonial-knife-tumi) (1963.841), and Maya *[Ballplayer Panel](https://www.artic.edu/artworks/110246/chak-ak-paat-kuy-red-turkey-playing-the-ballgame)* (1965.407). In 1965, the department published its first collection catalog, *Primitive Art in the Collections of The Art Institute of Chicago*, a small book featuring eighty works from across non-Western cultures (fig. 15). In his introduction, Wardwell acknowledged that “these collections will never attain the wealth and depth of those in older and better endowed institutions,” however, he hoped that, in some small way, “representation of the great artistic achievements of these exotic cultures can be imparted to those who visit the Art Institute of Chicago.”[^42]
 
 The succeeding curator of the department, Evan Maurer, fundamentally transformed how the collection was presented, reflecting increased specialization in academia and research in the field.[^43] Although Maurer was trained as a modernist with little experience with primitive art, his 1978 reinstallation of the permanent collection galleries moved away from generalized and formalist displays. Instead, he offered a deeper understanding of the works of art by situating them within their specific cultural context. The collection also was relocated to larger galleries, allowing for separate installations of the three primary culture areas: Americas, Oceania, and Africa. Each was further organized according to region, style, and medium. Juxtapositions of artworks were used to highlight similar motifs across media within a single culture and to demonstrate differences in regional art styles. To further emphasize the vast diversity of the department’s holdings within the distinct collecting areas, Mauer changed the name of the department to the Department of Africa, Oceania, and the Americas.
