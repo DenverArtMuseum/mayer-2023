@@ -208,11 +208,15 @@
     }
   }
 
+  /* I cannot imagine why this is necessary except some CSS somewhere
+     else must be horribly wrong. (turns out it was quire-buttons.scss
+     which is an absolute mess)
   .quire-contents-buttons {
     .nav-title {
       font-size: initial;
     }
   }
+  */
 
 }
 

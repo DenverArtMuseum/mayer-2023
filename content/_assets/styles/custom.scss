@@ -106,6 +106,11 @@ $root_path: "/";
       }
     }
   }
+
+  // TODO: consider making this global.
+  .quire-contents-buttons {
+    padding-top: 0;
+  }
 }
 
 /* ToC page
@@ -129,7 +134,8 @@ $root_path: "/";
       .table-of-contents-list {
         a {
           .contents-page-title {
-            font-weight: 500; // try semibold. Font is variable. Have fun with it.
+            font-size: 1.125em;
+            font-weight: 600;
           }
           .contributor {
             color: $content-text-color;
@@ -236,6 +242,21 @@ $root_path: "/";
 /*------------------------------------------------------------------------
  * Page customizations
  -----------------------------------------------------------------------*/
+// Quire's misunderstanding of CSS specificity strikes again.
+// Consequently, this selector is wildly overdefined now.
+// The more time I spend in Quire, the more I want to forcibly strip out
+// all of the CSS (especially Bulma) and start over.
+.quire-page .quire-page__content .container.is-fluid .content {
+  .dam-credit-line {
+    font-family: $quire-footnotes-font;
+    font-size: 1.125rem;
+    line-height: $quire-backmatter-line-height;
+
+    &.page-end {
+      margin-top: 2rem;
+    }
+  }
+}
 .quire-essay {
   .quire-page {
     &__header {
