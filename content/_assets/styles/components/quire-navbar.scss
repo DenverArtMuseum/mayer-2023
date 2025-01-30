@@ -91,6 +91,7 @@
 
   &__left {
     display: flex;
+    flex: 0 0 14rem;
     flex-flow: row nowrap;
     align-content: center;
     align-self: flex-start;
@@ -99,9 +100,12 @@
   }
 
   &__center {
+    display: none;
     flex: 0 0 calc(100% - 16.25rem);
+    align-content: center;
     width: calc(100% - 16.25rem);
     @media screen and (min-width: $tablet) {
+      display: block;
       flex: 0 0 calc(100% - 31.25rem);
       width: calc(100% - 31.25rem);
     }
@@ -109,13 +113,13 @@
 
   &__right {
     display: flex;
+    flex: 0 0 8.125rem;
     flex-flow: row nowrap;
     text-align: right;
     justify-content: flex-end;
   }
 
   &__left, &__right {
-    flex: 0 0 8.125rem;
     @media screen and (min-width: $tablet) {
       flex: 0 0 15.625rem;
     }

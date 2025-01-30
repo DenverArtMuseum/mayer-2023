@@ -39,7 +39,7 @@
     @if $theme == modern {
       //border-top: 1px solid $accent-color;
       //border-bottom: 1px solid $accent-color;
-      padding: 1rem 0;
+      padding: .75rem 0 1rem;
     } @else {
       // figures shouldn't have borders or padding in 'classic' theme
       // transparent border is to get around a bug with paged.js output
@@ -154,7 +154,7 @@
   }
 
   .content figure &__caption {
-    font-size: 0.75em;
+    font-size: .875em;
     line-height: $quire-caption-line-height;
     margin-top: 0.5rem;
     font-style: normal;
@@ -312,7 +312,7 @@
   &.is-pulled-left,
   &.is-pulled-right {
     @media screen and (min-width: $tablet) {
-      width: 50%;
+      width: 48%;
     }
 
     @media print {
@@ -322,16 +322,16 @@
 
   &.is-pulled-left {
     margin-left: 0;
-    margin-right: 1.25em;
+    margin-right: 1.875em;
     @media print {
       margin-right: 1.75em;
     }
   }
   &.is-pulled-right {
     margin-right: 0;
-    margin-left: 1em;
+    margin-left: 1.875em;
     @media print {
-      margin-left: 1.5em;
+      margin-left: 1.75em;
     }
   }
 
