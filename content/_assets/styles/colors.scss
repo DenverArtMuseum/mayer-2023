@@ -10,11 +10,18 @@
 // errors when variables are redefined. This may necessitate a pretty significant
 // refactor of Quire styles.
 
+//$main-aqua: #5b8474;
+$main-aqua: #1f6b4d;
+$secondary-aqua: #1B868E;
+$bright-aqua: #10a096;
+
 $black: #000000 !default;
 $off-black: #140909;
 $gray: #CCCCCC;
 $white: #ffffff;
-$off-white: #FFF9EC;
+//$off-white: #FFF9EC;
+//$off-white: #e4d8b8;
+$off-white: #f1ebda;
 $red: #CF4747;
 $blue: #6A8EB8;
 $light-yellow: #F9F9A3;
@@ -26,8 +33,9 @@ $rich-black: cmyk(50%, 50%, 50%, 100%);
 $text-black: $off-black;
 $main-blue: rgb(0, 100, 163); // #0065a3
 $secondary-blue: #008ee5;
-$main-red: rgb(165, 45, 32); // #a52d20
-$secondary-red: #c93324;
+//$main-red: rgb(165, 45, 32); // #a52d20
+$main-red: #8E3126; // Not enough contrast with text-black
+$secondary-red: #c93324; // Try #b23223 for black contrast
 $dark-background: #232020;
 $main-lilac: #C398BC;
 $main-lavender: #d3dbee;

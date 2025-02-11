@@ -6,11 +6,11 @@
 // To avoid errors, variables names should not be changed or deleted, and be
 // sure to leave the colons (:) and semi-colons (;) in place.
 
-$link-color: $main-blue;
+$link-color: $main-aqua;
 $link-visited-color: $main-red;
 $link-active-color: $link-color;
 
-$accent-color: $main-red;
+$accent-color: $main-aqua;
 $content-background-color: $off-white;
 $content-text-color: $off-black;
 $content-link-color: $link-color;
@@ -92,7 +92,7 @@ $quire-menu-heading-font: $typeface-afacad;
 $quire-menu-color: $dark-background;
 $quire-menu-text-color: $off-white;
 $menu-accent-color: $main-red;
-$menu-link-color: $secondary-blue; // not used yet
+$menu-link-color: $bright-aqua; // not used yet
 $menu-link-visited-color: $menu-link-color; // not used yet
 $menu-link-active-color: $menu-link-color; // not used yet
 
@@ -160,8 +160,8 @@ $quire-navigation-font: null; // navbar and next/prev buttons
 $navbar-height: 4rem;
 
 // Declare navbar colors (Quire's default names are confusing as hell)
-$quire-navbar-color: $main-blue;
-$quire-navbar-hover-color: $main-red;
+$quire-navbar-color: $main-red;
+$quire-navbar-hover-color: $main-aqua;
 $quire-navbar-text-color: $white;
 $quire-navbar-hover-text-color: $off-white;
 $navbar-link-color: $link-color;

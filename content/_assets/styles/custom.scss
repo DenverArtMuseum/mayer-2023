@@ -15,13 +15,14 @@ $root_path: "/";
 .quire-cover__hero {
   background: $content-background-color;
   min-height: unset !important; // TODO: fix base styles to get rid of this nonsense
+  position: relative;
 
   .quire-cover__overlay {
-    background-color: #000;
+    background-color: $off-white;
     background-image: url("#{$root_path}_assets/images/cover-800.jpg");
     background-position: center top;
     background-size: contain;
-    height: calc(100vw / 1.539695268644747); // based on image aspect ratio
+    height: calc(100vw / 1.569506726457399); // based on image aspect ratio
     min-height: unset;
     position: unset;
 
@@ -30,7 +31,7 @@ $root_path: "/";
     }
     @media screen and (min-width: 78rem) {
       background-image: url("#{$root_path}_assets/images/cover-1920.jpg");
-      height: calc(100vw / 6.185567010309278);
+      height: calc(100vw / 2.094972067039106);
     }
     @media screen and (min-width: 120rem) {
       background-image: url("#{$root_path}_assets/images/cover-3000.jpg");
@@ -40,11 +41,18 @@ $root_path: "/";
   .quire-cover__hero-body {
     padding-top: 1.25rem;
     padding-bottom: 2rem;
-    width:100%;
+    width: 100%;
+
+    @media screen and (min-width: 78rem) {
+      width:40%;
+      position:absolute;
+      bottom:25%;
+      left:2rem;
+    }
 
     .container {
       background:none;
-      color: $off-black;
+      color: $white;
       margin: 0 $gap;
       padding: 0 1.5rem;
       position: unset;
@@ -54,7 +62,7 @@ $root_path: "/";
 
       .publication-logo {
         width: 100%;
-        margin: 1rem 0 2rem;
+        margin: 1rem 0 .5rem;
         max-width: 48rem;
       }
 
@@ -81,6 +89,7 @@ $root_path: "/";
         font-size: 1.25rem;
         font-weight: 600;
         line-height: 1.4;
+        text-shadow:.075em 0.075em 0.3em rgba(0,0,0,0.7);
       }
 
       @media screen and (min-width: 48rem) {
@@ -274,7 +283,7 @@ $root_path: "/";
   .quire-page {
     &__header {
       &.hero {
-        background: $main-red;
+        background: $main-aqua;
         text-shadow:0 0.08333em 0.16667em rgba(0,0,0,0.2);
 
         .hero-body {
