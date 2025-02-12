@@ -43,10 +43,10 @@ $root_path: "/";
     padding-bottom: 2rem;
     width: 100%;
 
-    @media screen and (min-width: 67rem) {
+    @media screen and (min-width: 58rem) {
       width:35%;
       position:absolute;
-      bottom:25%;
+      bottom:29%;
       left:1rem;
 
       svg {
@@ -78,7 +78,7 @@ $root_path: "/";
       text-align: center;
       width:100%;
 
-      @media screen and (min-width: 67rem) {
+      @media screen and (min-width: 58rem) {
         color: $white;
       }
 
@@ -113,13 +113,21 @@ $root_path: "/";
         line-height: 1.4;
         margin-top:0;
 
-        @media screen and (min-width: 67rem) {
-          font-size: 1rem;
+        @media screen and (min-width: 58rem) {
+          font-size: 0.875rem;
           text-shadow:.0875em 0.0875em 0.2em rgba(0,0,0,0.7);
         }
 
-        @media screen and (min-width: 72rem) {
+        @media screen and (min-width: 67rem) {
+          font-size: 1rem;
+        }
+
+        @media screen and (min-width: 74rem) {
           font-size: 1.25rem;
+        }
+
+        @media screen and (min-width: 90rem) {
+          font-size: 1.5rem;
         }
       }
 
