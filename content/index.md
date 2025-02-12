@@ -10,6 +10,6 @@ The term "Pre-Columbian art" once described the material culture produced in the
 
 {% backmatter %}
 
-Cover image: Vincent Price filming in the Denver Art Museum’s Maya-themed period room within the former Pre-Columbian galleries. Detail from photo contact sheet, February 1983. Mayer Center Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price.
+Cover image: Credit line coming soon…
 
 {% endbackmatter %}
