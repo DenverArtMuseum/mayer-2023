@@ -2,7 +2,7 @@
 title: Ancient American Art In and Out and Back In Again at The Met
 subtitle: 
 layout: essay
-order: 20
+order: 21
 contributor:
   - id: jpillsbury
 byline_format: name

@@ -24,7 +24,7 @@ Unlike the data of the stock books, the content of the family letters cannot be 
 
 The rest of this essay includes portions of family letters. My glosses and their specific focus point to a larger picture of the SAG practice. The family letters are most dense and interlocking from 1954 until just before Earl’s death in 1966, and so small selections of these letters will be drawn from those years, ending with a letter from December 1965 that reveals a deal the SAG failed to make. Dozens of letters document the five years between 1958 and1963; addressed briefly elsewhere, those letters focus on developing new markets and new inventory, often of classical antiquities, with much of the business conducted in Europe.[^7] To keep this essay focused on the prehispanic market in the United States, the letters selected here date from 1954 to 1956 and from 1963 until 1965. Letters from Earl, Al, Joe, and Enid all point to different aspects of the business, and each has a very specific voice, from brusque to chatty, and when speaking of the young children in the family, even tender. Spelling and punctuation rarely meet the standards of the day and are retained here. Dates have been reconstructed, by and large, by the PHAPI project. The selections that follow have been taken from larger contexts, as seen in the illustration of the original letter in the GRI archives.
 
-[fig. 1 here]
+{% figure 'miller-fig-1', 'is-pulled-left' %} 
 
 Al Stendahl, in Los Angeles, to his father, Earl Stendahl, in New York, 1954 (month and day uncertain)
 
@@ -40,7 +40,7 @@ Robert (Bob) Stolper (1920–2013) worked closely and competitively with the SAG
 
 And who was Frederick Peterson (1920–2009), addressed next in this letter? The author of *Ancient Mexico* (1959), Peterson was a long-standing faculty member at the University of West Virginia, who had documented thousands of prehispanic objects in both public and private collections in the 1950s; one copy of his documentation survives today at the University of New Mexico.[^8] He was well connected in both Mexico and the United States, and fake Maya codices, as discussed in this letter circulated both in 1954 and today.[^9] In what might seem to a non sequitur, the letter connects the codices to Jaina Island (an unlikely origin, all in all), and April Dammann has recounted how Earl secured permission to film on Jaina Island in 1952.[^10] He and his crew then proceeded to loot the island for a month, filling oversized cases with dozens, if not hundreds of figurines—so he was “damned lucky” with his timing, as Al noted in the letter, especially as interest in Maya art ramped up: Robert Woods Bliss and Nelson Rockefeller had both made significant acquisitions of Maya objects by then. “Campeche” is probably a shorthand reference to one of the Stendahl’s Mexican partners operating in Yucatan, probably Alberto Márquez or less likely José Maria Palomeque, to stay ahead of other buyers, particularly Jorge Hauswaldt, a German émigré in Mexico, and Echániz, Earl’s principal Mexican partner.
 
-Fig. 2
+{% figure 'miller-fig-2', 'is-pulled-left' %} 
 
 Earl Stendahl, in New York to his son, Al Stendahl, in Los Angelese, Friday, October 29, 1954 (dated by Earl)
 
@@ -50,7 +50,7 @@ Earl Stendahl, in New York to his son, Al Stendahl, in Los Angelese, Friday, Oct
 
 Several advisers and authenticators played key roles with respect to the quality and integrity of the Stendahl inventory. One of the most important individuals to dealers and collectors in New York was Gordon Ekholm (1909–1987), Mesoamerican curator at the American Museum of Natural History (AMNH), who also advised Ernst Erickson (1893–1983) on building the collection Erickson would donate to the AMNH.[^11] Presumably written in New York, this six-page letter, written over multiple days, noted that Robert and Mildred Bliss came to examine works in a bank vault with Ekholm and perhaps a “young Mexican,” although it is hard to follow the timing. The “young Mexican” might be Jose Luis Franco, the Mexican authenticator with whom Ekholm was friendly and who may have been involved in the export of antiquities at some point. Although dated 1954, at this point, Bliss was already planning the book that would be published in 1957, *Pre-Columbian Art: Robert Woods Bliss Collection*, written by Samuel K. Lothrop, Joy Mahler, and William Foshag, a spectacular coffee table book featuring the Bliss collection. Earl has this book in mind as he begins to plan the publication, *Pre-Columbian Art of Mexico and Central America*, published posthumously by Harry N. Abrams (1968).
 
-Fig. 3
+{% figure 'miller-fig-3', 'is-pulled-left' %} 
 
 Earl Stendahl, in New York or Washington, to his son, Al Stendahl, in Lost Angeles, February 9, 1956
 
@@ -62,7 +62,7 @@ Earl Stendahl, in New York or Washington, to his son, Al Stendahl, in Lost Angel
 
  Earl continued to pursue Maya art, using a short layover in Merida, Mexico, to meet with Alberto Marquez, a source for him there (Earl declined to purchase a necklace), en route to New Orleans and up to Washington DC to see Robert Woods Bliss, perhaps his most significant client. The Degas painting at Dumbarton Oaks today ([HC.P.1918.02.(O)](https://museum.doaks.org/objects-1/info?query=Portfolios%20%3D%20%224034%22%20and%20Disp_Maker_1%20%3D%20%22Edgar%20Degas%22&sort=0))was not acquired from Stendahl, so this sale evidently did not take place. The items that Earl showed to Bliss were things he had presumably brought from Mexico City in his luggage, acquired from someone whose name cannot be easily deciphered. He quickly made \$1,200 on the deal, selling Bliss the carved mirror (also not a work at Dumbarton Oaks today), and although he told Bliss he would consult Al on a price reduction, he simply informed Al that the price on a “marble” *hacha* (presumably [PC.B.038](http://museum.doaks.org/objects-1/info/22925) ) would drop by \$3,000.
 
-Fig. 4
+{% figure 'miller-fig-4', 'is-pulled-left' %} 
 
 Joe Dammann, in Los Angeles, to his father-in-law, Earl Stendahl, in New York, November 19, 1963
 
@@ -82,7 +82,7 @@ The key new client here is Dr. William F. Kaiser of Berkeley, who spent \$12,500
 
 Joe also describes a plan to sell the Mosaic Jaguar, a work eventually published in *Saturday Evening Post* on February 8, 1964, to accompany the article “Art from Nobody Knows Where” that detailed the rampant looting in Mexico that was feeding prominent collections in the US despite Mexican laws prohibiting it. The Mosaic Jaguar was actually a blatant forgery, and its location is not known today.
 
-Fig. 5
+{% figure 'miller-fig-5', 'is-pulled-left' %} 
 
 Earl Stendahl, in New York, to his wife, Enid Stendahl, in Los Angeles, December 12, 1964
 
@@ -100,7 +100,7 @@ Mitchell then threw a dinner party at Lüchow’s, his famous New York establish
 
 The letter concludes with Earl’s travel schedule for the next ten days or so in Europe and a request to Enid to ship Los Angeles inventory on to New York.
 
-Fig. 6
+{% figure 'miller-fig-6', 'is-pulled-left' %} 
 
 Earl Stendahl, from his travels to Los Angeles, to his son, Al Stendahl, and son-in-law, Joe Dammann, February 22, 1965
 
@@ -122,7 +122,7 @@ Back in New York, Jan Mitchell was considered “hot” by the SAG, which is to 
 
 There was news for Earl to share as well: Another client Nasli Heeramaneck (1902–1971) had had a stroke. And then Earl waffled on shipping an object to a potential buyer, given its condition and worried that, if the client actually saw the work, the sale would fall through.
 
-Fig. 7
+{% figure 'miller-fig-7', 'is-pulled-left' %} 
 
 Enid, in New York, to the family, in Los Angeles, December 1965
 
