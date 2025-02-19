@@ -202,7 +202,7 @@ If museums are memory institutions, the keepers of national, cultural, and even 
 
 [^59]: Kevin Stayton, quoted in Levitt, *Artifacts and Allegiances*, 74.
 
-[^60]: Nelson A. Rockefeller to Rene d’Harnoncourt, III 4 L Box 135, Rockefeller Archive Center, Sleepy Hollow, NY.
+[^60]: Nelson A. Rockefeller to Rene d’Harnoncourt, September 29, 1944, Record group: III 4 L, Box 135, Folder 1325, Rockefeller Archive Center, Sleepy Hollow, NY.
 
 [^61]: Janet Catherine Berlo, ed., *The Early Years of Native American Art History* (University of Washington Press, 1992); Kathleen Bickford Berzock and Christa Clarke, eds., *Representing African Art in American Art Museums: A Century of Collecting and Display* (University of Washington Press, 2011).
 

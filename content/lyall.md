@@ -105,6 +105,8 @@ Today, the department continues to embrace the groundbreaking approach of the ea
 
 {% backmatter %}
 
+Victoria's acknowledgments go here
+
 ## Notes
 
 [^1]: Neil Harris, “Searching for Form: The Denver Art Museum in Context,” in *The Denver Art Museum: The First Hundred Years*, ed. Marlene Chambers (Denver Art Museum, 1996), 60.
