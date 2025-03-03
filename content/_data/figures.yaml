@@ -712,42 +712,49 @@ figure_list:
     label: "Fig. 1"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
     caption: "Al Stendahl to his father, Earl Stendahl. From Los Angeles to New York, 1954 (month and day uncertain). Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    alt: Typed letter with blue ink on yellowed paper
   
   - id: miller-fig-2
     src: "figures/inline/miller-fig-2-fpo.jpg"
     label: "Fig. 2"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
     caption: "Earl Stendahl to his son, Al. From New York to Los Angeles, Friday, Oct. 29-54 (dated by Earl). Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    alt: Handwritten letter on white paper with The Plaza letterhead at top.
   
   - id: miller-fig-3
     src: "figures/inline/miller-fig-3-fpo.jpg"
     label: "Fig. 3"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
     caption: "Earl Stendahl to his son, Al Stendahl. From New York or Washington to Los Angeles, 9 February 1956. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    alt: Handwritten letter on white paper.
   
   - id: miller-fig-4
     src: "figures/inline/miller-fig-4-fpo.jpg"
     label: "Fig. 4"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
     caption: "Joe Damman to his father-in-law, Earl Stendahl. From Los Angeles to New York., 19 November 1963. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    alt: typed letter on white-bluish paper with handwritten signature
   
   - id: miller-fig-5
     src: "figures/inline/miller-fig-5-fpo.jpg"
     label: "Fig. 5"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
     caption: "Earl Stendahl to his wife, Enid. From New York to Los Angeles, 12 December 1964. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    alt: Handwritten letter on white paper with Stendahl Galleries letterhead
   
   - id: miller-fig-6
     src: "figures/inline/miller-fig-6-fpo.jpg"
     label: "Fig. 6"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
     caption: "Earl Stendahl to his son Al and son-in-law Ron Damman. From his travels to Los Angeles, 22 February 1965. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    alt: Handwritten letter on white paper with Earl L. Stendahl letterhead
   
   - id: miller-fig-7
     src: "figures/inline/miller-fig-7-1-fpo.jpg"
     label: "Fig. 7"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
     caption: "Enid to the family. From New York to Los Angeles, December 1965. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    alt: Handwritten letter on white paper with Hotel de la Paix Geneve letterhead.
   
   - id: hoobler-fig-1
     src: "figures/inline/hoobler-fig-1.jpg"
