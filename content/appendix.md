@@ -5,7 +5,7 @@ layout: essay
 order: 30 
 ---
 
-Transcripts of letters appear below each letter. Spelling and punctuation match letter as closely as possible.
+Click the link below each letter to read the transcript. Original spelling and punctuation have been retained.
 
 {% figure 'miller-fig-1' %} 
 
