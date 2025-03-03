@@ -4,6 +4,7 @@ subtitle: Letters from the Stendahl Art Galleries Archive
 layout: essay
 order: 30 
 ---
+
 {% figure 'miller-fig-1' %} 
 
 {% figure 'miller-fig-2' %}
