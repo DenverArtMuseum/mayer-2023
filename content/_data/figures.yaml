@@ -826,7 +826,7 @@ figure_list:
     src: "figures/inline/hoobler-fig-12.jpg"
     label: "Fig. 12"
     credit: "Fiske Kimball Papers (FKP), Box 62, Folder 12, Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
-    caption: "Fiske (1888–1955) and Marie (1889–1955) Kimball (PM284DE), c. 1940."
+    caption: "Fiske (1888–1955) and Marie (1889–1955) Kimball, c. 1940 (PM284DE)."
   
   - id: hoobler-fig-13
     src: "figures/inline/hoobler-fig-13.jpg"
@@ -849,7 +849,7 @@ figure_list:
   - id: hoobler-fig-16
     src: "figures/inline/hoobler-fig-16.jpg"
     label: "Fig. 16"
-    credit: " Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
+    credit: " Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
     caption: "Opening of *Louise and Walter Arensberg Collection in Twenty-Two New Galleries*, 1954 (PM2165O)."
   
   - id: hoobler-fig-17
