@@ -271,7 +271,7 @@ figure_list:
     src: "figures/inline/pillsbury-fig-6.jpg"
     label: "Fig. 6"
     credit: "© The Metropolitan Museum of Art."
-    caption: "Textile study room, The Metropolitan Museum of Art, 1918."
+    caption: "Textile Study Room, The Metropolitan Museum of Art, 1918."
     alt: A black-and-white photograph of a study room, where people stand near cabinets and sit at tables, studying various textiles.
   
   - id: pillsbury-fig-7
@@ -299,7 +299,7 @@ figure_list:
     src: "figures/inline/pillsbury-fig-10.jpg"
     label: "Fig. 10"
     credit: "Photographic Archive. The Museum of Modern Art Archives. Photo: Wurts Brothers (1895–1979), The Museum of Modern Art/New York. Digital Image © The Museum of Modern Art/Licensed by SCALA/Art Resource, NY."
-    caption: "Installation view of the exhibition American Sources of Modern Art (Aztec, Mayan, Incan), May 8, 1933 through July 1, 1933. The Museum of Modern Art, New York. Gelatin silver print, 7 × 9½ (17.7 x 24.1 cm)."
+    caption: "Installation view of the exhibition *American Sources of Modern Art (Aztec, Mayan, Incan)*, May 8, 1933 through July 1, 1933. The Museum of Modern Art, New York. Gelatin silver print, 7 × 9½ (17.7 × 24.1 cm)."
     alt: A black-and-white photograph of a gallery space with one pedestal and one case displaying artwork on either side of the room, facing each other. The back wall has four vitrine openings to showcase more artwork.
   
   - id: pillsbury-fig-11
@@ -334,7 +334,7 @@ figure_list:
     src: "figures/inline/pillsbury-fig-15.jpg"
     label: "Fig. 15"
     credit: "Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art."
-    caption: "Pre-Columbian Art from the Metropolitan Museum of Art, The Museum of Primitive Art, 1970. One of the Toltec panels given to the Met by Frederic Church in 1893 (MMA 93.27.1) can be seen on the left."
+    caption: "Pre-Columbian Art from The Metropolitan Museum of Art, The Museum of Primitive Art, 1970. One of the Toltec panels given to the Met by Frederic Church in 1893 (MMA 93.27.1) can be seen on the left."
     alt: A black-and-white photograph of three adjacent gallery spaces with dark-colored walls and pedestals that contain a few stone, ceramic, and textile works.
   
   - id: pillsbury-fig-16
