@@ -875,7 +875,7 @@ figure_list:
   - id: lyall-fig-3
     src: "figures/inline/lyall-fig-3.jpg"
     label: "Fig. 3"
-    credit: "Photographer: Albert Fenn. Photographic Archive, The Museum of Modern Art Archives. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY"
+    credit: "Photographer: Albert Fenn. Photographic Archive, The Museum of Modern Art Archives. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
     caption: "Eleanor Roosevelt and Frederic H. Douglas at *Indian Art of the United States* at the Museum of Modern Art, New York, 1941. Gelatin silver print."
     alt: A black-and-white photograph of a man and woman talking in an exhibition. The woman wears a fur shawl and a dark hat. The man wears a suit and glasses and has a mustache.
   
@@ -938,7 +938,7 @@ figure_list:
   - id: lyall-fig-12
     src: "figures/inline/lyall-fig-12.jpg"
     label: "Fig. 12"
-    credit: "Mayer Center Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price"
+    credit: "Mayer Center Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price."
     caption: "Vincent Price filming in the Denver Art Museum’s Maya-themed period room within the former Pre-Columbian galleries. Detail from photo contact sheet, February 1983."
     alt: A contact photo sheet of a man in a dark suit standing in a room themed like a stone tomb. There are stone and ceramic sculptures behind him. A cameraperson can also be seen in some of the frames.
   
