@@ -389,7 +389,7 @@ figure_list:
     src: "figures/inline/koontz-fig-4.jpg"
     label: "Fig. 4"
     credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-153."
-    caption: "*Olmec Tradition*, MFAH Cullinan Hall, curated by James Johnson Sweeney, 1963."
+    caption: "*The Olmec Tradition*, MFAH Cullinan Hall, curated by James Johnson Sweeney, 1963."
     alt: A black and white photograph of seven pedestals with stone sculptural objects on them in a large hall with polished stone floors and neutral painted walls.
   
   - id: koontz-fig-5
@@ -410,7 +410,7 @@ figure_list:
     src: "figures/inline/koontz-fig-7.jpg"
     label: "Fig. 7"
     credit: "Museum of Fine Arts, Houston, Archives Collection RG08-022-002."
-    caption: "Original Facade of MFAH (1924–26), c. 1926."
+    caption: "Original facade of MFAH (1924–26), c. 1926."
     alt: A black and white photograph of the front of a mansion with large columns in the entryway. A tall tree partially obscures the building.
   
   - id: koontz-fig-8
