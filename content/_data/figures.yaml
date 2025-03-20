@@ -552,7 +552,7 @@ figure_list:
     src: "figures/inline/pope-fig-6.jpg"
     label: "Fig. 6"
     credit: "Katharine Kuh Papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9951."
-    caption: "Installation view, Katharine Kuh Gallery, George Fred Keck water colors and Oceanic sculpture, November 1940."
+    caption: "Installation view, Katharine Kuh Gallery, George Fred Keck watercolors and Oceanic sculpture, November 1940."
   
   - id: pope-fig-7
     src: "figures/inline/pope-fig-7.jpg"
@@ -599,13 +599,13 @@ figure_list:
     src: "figures/inline/pope-fig-14.jpg"
     label: "Fig. 14"
     credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
-    caption: "Installation view, Primitive Art permanent collection gallery at the Art Institute of Chicago, Summer and Fall 1960."
+    caption: "Installation view, Primitive Art permanent collection gallery at the Art Institute of Chicago, summer and fall 1960."
   
   - id: pope-fig-15
     src: "figures/inline/pope-fig-15.jpg"
     label: "Fig. 15"
     credit: 
-    caption: "*Allen Wardwell, Primitive Art in the Collections of The Art Institute of Chicago* (Art Institute of Chicago, 1965), cover."
+    caption: "Allen Wardwell, *Primitive Art in the Collections of The Art Institute of Chicago* (Art Institute of Chicago, 1965), cover."
   
   - id: pope-fig-16
     src: "figures/inline/pope-fig-16.jpg"
