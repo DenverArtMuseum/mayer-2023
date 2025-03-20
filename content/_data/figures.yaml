@@ -648,7 +648,7 @@ figure_list:
     src: "figures/inline/robb-fig-2.jpg"
     label: "Fig. 2"
     credit: "Samuel Marx, architect; Hedrich-Blessing, photo. Courtesy of Chicago History Museum."
-    caption: "Central Staircase in May residence, 2222 South Warson Road, Ladue, Missouri, 1940–2007."
+    caption: "Central staircase in May residence, 2222 South Warson Road, Ladue, Missouri, 1940–2005."
     alt: A black-and-white photograph of a house interior with a white carpeted spiral staircase. There is a chair next to the window beneath the stairs.
   
   - id: robb-fig-3
@@ -662,7 +662,7 @@ figure_list:
     src: "figures/inline/robb-fig-4.jpg"
     label: "Fig. 4"
     credit: "Courtesy of Saint Louis Art Museum Archives."
-    caption: "View of Gallery 100, c. 1966-71."
+    caption: "View of Gallery 100, c. 1966–71."
     alt: A black-and-white photograph of a hallway leading into a gallery space, where there is a dark free-standing wall with the title, “Pre Columbian Art” on it and  an attached case that holds a ceramic seated figure.
   
   - id: robb-fig-5
@@ -683,13 +683,13 @@ figure_list:
     src: "figures/inline/robb-fig-7.jpg"
     label: "Fig. 7"
     credit: "Mayer Center Archives, Denver Art Museum. Photograph courtesy of Denver Art Museum."
-    caption: "From left, Morton D. May, Allan Swayer, and James Economos at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
+    caption: "From left, Morton D. May, Allan Sawyer, and James Economos at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
     alt: A black-and-white photograph of three men in suits seated in front of a monumental stone carving surrounded by plants. The man in the middle holds a stone object in his hand.
   
   - id: robb-fig-8
     src: "figures/inline/robb-fig-8.jpg"
     label: "Fig. 8"
-    credit: "Mayer Center Archives, Denver Art Museum. Photograph courtesy of Denver Art Museum"
+    credit: "Mayer Center Archives, Denver Art Museum. Photograph courtesy of Denver Art Museum."
     caption: "Morton D. May at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
     alt: A color photograph of a man in a suit standing outside in front of a pedestal with two ancient American sculptures and a monumental stone carving among foliage.
   
