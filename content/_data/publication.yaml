@@ -68,14 +68,14 @@ contributor:
     last_name: Hoobler
     title: William B. Ziff, Jr., Curator of Art of the Americas
     affiliation: Walters Art Museum
-    bio: "Ellen Hoobler is William B. Ziff, Jr., Curator of Art of the Americas at the Walters Art Museum in Baltimore, MD."
+    bio: "Ellen Hoobler is William B. Ziff, Jr., Curator of Art of the Americas at the Walters Art Museum in Baltimore."
   - id: rkoontz
     type: secondary
     first_name: Rex
     last_name: Koontz
     title: Moores Professor of Art History and Consulting Curator of the Art of the Indigenous Americas
     affiliation: University of Houston and Museum of Fine Arts, Houston
-    bio: "Rex Koontz is Moores Professor of Art History, University of Houston and Consulting Curator of the Art of the Indigenous Americas, Museum of Fine Arts, Houston."
+    bio: "Rex Koontz is Moores Professor of Art History, University of Houston, and Consulting Curator of the Art of the Indigenous Americas, Museum of Fine Arts, Houston."
   - id: vlyall
     type: primary
     first_name: Victoria Isabel
@@ -96,7 +96,7 @@ contributor:
     last_name: Pillsbury
     title: Andrall E. Pearson Curator of Ancient American Art  
     affiliation: Metropolitan Museum of Art
-    bio: "Joanne Pillsbury is Andrall E. Pearson Curator of Ancient American Art at the Metropolitan Museum of Art."
+    bio: "Joanne Pillsbury is Andrall E. Pearson Curator of Ancient American Art at The Metropolitan Museum of Art."
   - id: epope
     type: secondary
     first_name: Elizabeth Irene
@@ -124,6 +124,7 @@ contributor:
     last_name: Heinrich
     title: Frederick and Jan Mayer Director
     affiliation: Denver Art Museum
+    bio: "Christoph Heinrich is Frederick and Jan Mayer Director at the Denver Art Museum."
 
 # ------------------------------------------------------------------------------
 # Copright & License
