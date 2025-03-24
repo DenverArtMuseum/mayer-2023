@@ -71,7 +71,7 @@ The grandson of David May, a German Jewish émigré who settled in Colorado in 1
 
 In 1957, the May Company purchased the Daniels and Fischer store on 16th Street in downtown Denver. Known locally as May D&F, the store became a city fixture. Located on Zeckendorff Plaza, the campus included a pavilion shaped like a hyperbolic paraboloid, designed by architect I. M. Pei and an artificial ski slope during the winter months (fig. 9). The structure was destroyed to make way for a pedestrian street mall.
 
-A collector of primitive art, May arrived in Denver just as Otto Bach was trying to rally support for a world-class collection of pre-Columbian art. Indeed, the entirety of May’s documented relationship with the DAM transpired during the course of Bach’s tenure: His earliest gift happened in 1946 and his last in 1971.[^31] May donated extensively to the Native Arts Department, corresponding with the department’s curator, Norman Federer, and connecting Federer with other collectors and dealers that reached out to May but were not of interest to him.
+A collector of primitive art, May arrived in Denver just as Otto Bach was trying to rally support for a world-class collection of pre-Columbian art. Indeed, the entirety of May’s documented relationship with the DAM transpired during the course of Bach’s tenure: His earliest gift happened in 1946 and his last in 1971.[^31] May donated extensively to the Native Arts Department, corresponding with the department’s curator, Norman Feder, and connecting Feder with other collectors and dealers that reached out to May but were not of interest to him.
 
 {% figure 'lyall-fig-10', 'is-pulled-right' %}
 

@@ -110,7 +110,7 @@ The three museums discussed here all have drastically different origin stories: 
 
 [^1]: Throughout this entire section, I am indebted to the research of former Bard Graduate intern Alice Winkler, whose article, “‘A Triumph of Detail’: George F. Kunz and the Promotion of American Gemstones and Design at the Walters Art Museum from 1876–1932” (forthcoming from the *Journal of the Walters Art Museum*), was extremely helpful for understanding Kunz’s marketing of ancient gold. He has been profiled in a number of articles and on websites as being a ground-breaking gemologist and not in his role art from the ancient Americas.
 
-[^2]: For more on the Kunze axe, see “Kunz Axe,” American Museum of Natural History, accessed October 21, 2024, <https://www.amnh.org/exhibitions/permanent/mexico-central-america/kunz-axe>; and “Kunze [*sic*] Axe,” Blackburn Art History, November 7 2018, https://blackburnarthistory.blogspot.com/2018/11/kunze-axe.html.
+[^2]: For more on the Kunz axe, see “Kunz Axe,” American Museum of Natural History, accessed October 21, 2024, <https://www.amnh.org/exhibitions/permanent/mexico-central-america/kunz-axe>; and “Kunze [*sic*] Axe,” Blackburn Art History, November 7 2018, https://blackburnarthistory.blogspot.com/2018/11/kunze-axe.html.
 
 [^3]: Much of this information comes from a series of interviews in 1927 and 1928 that Kunz gave to *The Saturday Evening Post*, which are reprinted at Pala International, accessed October 31, 2024, https://www.palagems.com/kunz-reminiscences1.
 
@@ -128,7 +128,7 @@ The three museums discussed here all have drastically different origin stories: 
 
 [^10]: A journal entry dated December 14, 1910, states that two jadeites and sixty-seven gold ornaments were received. Anderson Journal records, vol. 1, p. 40, Walters Art Museum Library and Archives. The Anderson Journal is named after James C. Anderson, superintendent of Henry Walters’s Baltimore art gallery and collections. The journal has two volumes that encompass the years 1908–32. For more on this source, see Elissa O’Loughlin, “Our Mr. Anderson,” *The Journal of the Walters Art Museum* 70–71 (2012–2013): 137–42.
 
-[^11]: George Kunze to Henry Walters, December 29, 1910, Walters Correspondence with Tiffany & Co., Walters Art Museum Library and Archives.
+[^11]: George Kunz to Henry Walters, December 29, 1910, Walters Correspondence with Tiffany & Co., Walters Art Museum Library and Archives.
 
 [^12]: Anderson Journal Records, vol. 1, p. 41, entry dated January 11, 1911.
 
@@ -180,7 +180,7 @@ The three museums discussed here all have drastically different origin stories: 
 
 [^36]: Hoobler, “Smoothing the Path for Rough Stones,” 384.
 
-[^37]: Kenneth Ross, “L.A. Lays Golden Egg, But Philadelphia Takes It Back Home to Hatch,” *LA Daily News*, January 20, 1951, in Arensberg gift, Clippings, Arensberg Archives, Philadelphia Museum of Art, Library & Archives, accessed October 31, 2024,https://www.duchamparchives.org/pma/archive/component/WLA_B041_F039_012/.
+[^37]: Kenneth Ross, “L.A. Lays Golden Egg, But Philadelphia Takes It Back Home to Hatch,” *LA Daily News*, January 20, 1951, in Arensberg gift, Clippings, Arensberg Archives, Philadelphia Museum of Art, Library & Archives, accessed October 31, 2024, https://www.duchamparchives.org/pma/archive/component/WLA_B041_F039_012/.
 
 [^38]: “Collection Overview, Description,” Bacon (Francis) Library Archive, Online Archive of California, accessed October 31, 2024, https://oac.cdlib.org/findaid/ark:/13030/c8cj8g5h/.
 

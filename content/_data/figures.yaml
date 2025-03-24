@@ -73,8 +73,8 @@ figure_list:
   - id: rosoff-fig-13
     src: "figures/inline/rosoff-fig-13.jpg"
     label: "Fig. 13"
-    credit: "Museo de Arte de Lima. Archivo de Arte Peruano. Fondo Elena Izcue. Gift of Elba de Izcue Jordán."
-    caption: "Anne Wassell, *Elena Izcue y su libro El arte peruana en la escuela*, 1935. Gelatin silver print on paper."
+    credit: "Museo de Arte de Lima. Gift of Elba de Izcue Jordán. Archivo de Arte Peruano. Fondo Elena Izcue."
+    caption: "Anne Wassell, Elena Izcue y su libro *El arte peruana en la escuela*, 1935. Gelatin silver print on paper."
   
   - id: rosoff-fig-14
     src: "figures/inline/rosoff-fig-14.jpg"
@@ -326,7 +326,7 @@ figure_list:
   - id: pillsbury-fig-14
     src: "figures/inline/pillsbury-fig-14.jpg"
     label: "Fig. 14"
-    credit: "Photo: Michael Fredericks, Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers,Rockefeller Archive Center."
+    credit: "Photo: Michael Fredericks, Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center."
     caption: "Nelson A. Rockefeller viewing Maya objects at the press conference announcing the transfer of the Museum of Primitive Art collections to The Metropolitan Museum of Art."
     alt: A black-and-white photograph of a man in formal wear and glasses, looking closely at four small stone sculptures displayed near two ceramic vessels and a plate.
   
@@ -611,7 +611,7 @@ figure_list:
     src: "figures/inline/pope-fig-16.jpg"
     label: "Fig. 16"
     credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
-    caption: "Installation view, The Ancient Americas permanent collection gallery, Gallery 125 at the Art Institute of Chicago, 1985."
+    caption: "Installation view, Ancient Americas permanent collection gallery, Gallery 125 at the Art Institute of Chicago, 1985."
   
   - id: pope-fig-17
     src: "figures/inline/pope-fig-17.jpg"
@@ -669,7 +669,7 @@ figure_list:
     src: "figures/inline/robb-fig-5.jpg"
     label: "Fig. 5"
     credit: "Courtesy of Amy Clark."
-    caption: "From left, Marian Kolisch, Morton D. May, and Mary Hamblett at the opening of the Meier and Frank Co. Pre-Columbian Sale, Portland, Oregon, February 22 1967."
+    caption: "From left, Marian Kolisch, Morton D. May, and Mary Hamblett at the opening of the Meier and Frank Co. Pre-Columbian Sale, Portland, Oregon, February 22, 1967."
     alt: A black-and-white photograph of two well-dressed women and a man standing in department store. The woman on the right holds a stone mask. Behind them, shelves and pedestals display ancient American objects.
   
   - id: robb-fig-6
@@ -710,57 +710,57 @@ figure_list:
   - id: miller-fig-1
     src: "figures/inline/miller-fig-1-fpo.jpg"
     label: "Fig. 1"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Al Stendahl to his father, Earl Stendahl. From Los Angeles to New York, 1954 (month and day uncertain). Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Al Stendahl to his father, Earl Stendahl. From Los Angeles to New York, 1954 (month and day uncertain)."
     alt: Typed letter with blue ink on yellowed paper
   
   - id: miller-fig-2
     src: "figures/inline/miller-fig-2-fpo.jpg"
     label: "Fig. 2"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Excerpt from Earl Stendahl to his son, Al. From New York to Los Angeles, Friday, October 29, 1954 (dated by Earl). Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his son, Al. From New York to Los Angeles, Friday, October 29, 1954 (dated by Earl)."
     alt: Handwritten letter on white paper with The Plaza letterhead at top.
   
   - id: miller-fig-3
     src: "figures/inline/miller-fig-3-fpo.jpg"
     label: "Fig. 3"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Excerpt from Earl Stendahl to his son, Al Stendahl. From New York or Washington to Los Angeles, February 9, 1956. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his son, Al Stendahl. From New York or Washington to Los Angeles, February 9, 1956."
     alt: Handwritten letter on white paper.
   
   - id: miller-fig-4
     src: "figures/inline/miller-fig-4-fpo.jpg"
     label: "Fig. 4"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Joe Damman to his father-in-law, Earl Stendahl. From Los Angeles to New York, November 19, 1963. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Joe Damman to his father-in-law, Earl Stendahl. From Los Angeles to New York, November 19, 1963."
     alt: typed letter on white-bluish paper with handwritten signature
   
   - id: miller-fig-5
     src: "figures/inline/miller-fig-5-fpo.jpg"
     label: "Fig. 5"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Excerpt from Earl Stendahl to his wife, Enid. From New York to Los Angeles, December 12, 1964. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his wife, Enid. From New York to Los Angeles, December 12, 1964."
     alt: Handwritten letter on white paper with Stendahl Galleries letterhead
   
   - id: miller-fig-6
     src: "figures/inline/miller-fig-6-fpo.jpg"
     label: "Fig. 6"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Excerpt from Earl Stendahl to his son, Al, and son-in-law, Joe Damman. From his travels to Los Angeles, February 22,1965. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his son, Al, and son-in-law, Joe Damman. From his travels to Los Angeles, February 22,1965."
     alt: Handwritten letter on white paper with Earl L. Stendahl letterhead
   
   - id: miller-fig-7-1
     src: "figures/inline/miller-fig-7-1-fpo.jpg"
     label: "Fig. 7a"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Excerpt from Enid to the family. From New York to Los Angeles, December 1965. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Enid to the family. From New York to Los Angeles, December 1965."
     alt: Handwritten letter on white paper with Hotel de la Paix Geneve letterhead.
   
   - id: miller-fig-7-2
     src: "figures/inline/miller-fig-7-2-fpo.jpg"
     label: "Fig. 7b"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
-    caption: "Excerpt from Enid to the family. From New York to Los Angeles, December 1965. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Enid to the family. From New York to Los Angeles, December 1965."
     alt: Handwritten letter on white paper with Hotel de la Paix Geneve letterhead.
   
   - id: hoobler-fig-1
@@ -779,7 +779,7 @@ figure_list:
     src: "figures/inline/hoobler-fig-3.jpg"
     label: "Fig. 3"
     credit: "Walters Art Museum Library and Archives (146797). Courtesy of the Walters Art Museum."
-    caption: "Ancient American objects made of gold, purchased from Tiffany & Co., New York."
+    caption: "Ancient American objects made of gold, purchased from Tiffany & Co., New York, ca. 1910."
   
   - id: hoobler-fig-4
     src: "figures/inline/hoobler-fig-4.jpg"
@@ -797,7 +797,7 @@ figure_list:
     src: "figures/inline/hoobler-fig-6.jpg"
     label: "Fig. 6"
     credit: "Walters Art Museum Library and Archives (456064). Courtesy of the Walters Art Museum."
-    caption: "Installation view, *4000 Years of Modern Art at the Walters Art Museum*, 1952."
+    caption: "Installation view, *4000 Years of Modern Art at the Walters Art Museum*, 1953."
   
   - id: hoobler-fig-7
     src: "figures/inline/hoobler-fig-7.jpg"

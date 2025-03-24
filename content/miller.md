@@ -42,7 +42,7 @@ And who was Frederick Peterson (1920–2009), addressed next in this letter? The
 
 {% figure 'miller-fig-2', 'is-pulled-left' %} 
 
-## Earl Stendahl, in New York to his son, Al Stendahl, in Los Angelese, Friday, October 29, 1954 (dated by Earl)
+## Earl Stendahl, in New York to his son, Al Stendahl, in Los Angeles, Friday, October 29, 1954 (dated by Earl)
 
 (On page 4 or 5 of what appears to be a six-page letter)
 
@@ -52,7 +52,7 @@ Several advisers and authenticators played key roles with respect to the quality
 
 {% figure 'miller-fig-3', 'is-pulled-left' %} 
 
-## Earl Stendahl, in New York or Washington, to his son, Al Stendahl, in Lost Angeles, February 9, 1956
+## Earl Stendahl, in New York or Washington, to his son, Al Stendahl, in Los Angeles, February 9, 1956
 
 >Dear Al –
 
@@ -60,7 +60,7 @@ Several advisers and authenticators played key roles with respect to the quality
 
 >Bought the carved mirror from* [indecipherable, possibly Hauswaldt or Solamon] for 1500.00 and had him thro in a nice jade necklass worth about 150.00 also a few other pieces. Bliss was very happy when he saw it so he will pay me $2700 for it . . . Talked to Bliss about deal on Degas. He will call me this morning. Told him I would phone you about price of marble Hacha as he feels its too expensive 18000.00. I will make him a price of $15000.00.
 
- Earl continued to pursue Maya art, using a short layover in Merida, Mexico, to meet with Alberto Marquez, a source for him there (Earl declined to purchase a necklace), en route to New Orleans and up to Washington, DC, to see Robert Woods Bliss, perhaps his most significant client. The Degas painting at Dumbarton Oaks today ([HC.P.1918.02.(O)](https://museum.doaks.org/objects-1/info?query=Portfolios%20%3D%20%224034%22%20and%20Disp_Maker_1%20%3D%20%22Edgar%20Degas%22&sort=0)) was not acquired from Stendahl, so this sale evidently did not take place. The items that Earl showed to Bliss were things he had presumably brought from Mexico City in his luggage, acquired from someone whose name cannot be easily deciphered. He quickly made \$1,200 on the deal, selling Bliss the carved mirror (also not a work at Dumbarton Oaks today), and although he told Bliss he would consult Al on a price reduction, he simply informed Al that the price on a “marble” *hacha* (presumably [PC.B.038](http://museum.doaks.org/objects-1/info/22925) ) would drop by \$3,000.
+ Earl continued to pursue Maya art, using a short layover in Merida, Mexico, to meet with Alberto Marquez, a source for him there (Earl declined to purchase a necklace), en route to New Orleans and up to Washington, DC, to see Robert Woods Bliss, perhaps his most significant client. The Degas painting at Dumbarton Oaks today ([HC.P.1918.02.(O)](https://museum.doaks.org/objects-1/info?query=Portfolios%20%3D%20%224034%22%20and%20Disp_Maker_1%20%3D%20%22Edgar%20Degas%22&sort=0)) was not acquired from Stendahl, so this sale evidently did not take place. The items that Earl showed to Bliss were things he had presumably brought from Mexico City in his luggage, acquired from someone whose name cannot be easily deciphered. He quickly made \$1,200 on the deal, selling Bliss the carved mirror (also not a work at Dumbarton Oaks today), and although he told Bliss he would consult Al on a price reduction, he simply informed Al that the price on a “marble” *hacha* (presumably [PC.B.038](http://museum.doaks.org/objects-1/info/22925)) would drop by \$3,000.
 
 {% figure 'miller-fig-4', 'is-pulled-left' %} 
 
