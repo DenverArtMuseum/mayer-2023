@@ -3,7 +3,7 @@ figure_list:
     src: "figures/inline/rosoff-fig-1.jpg"
     label: "Fig. 1"
     credit: "Brooklyn Museum Photograph Collection, Series: Staff, Folder: Spinden, Herbert, Brooklyn Museum Libraries and Archives."
-    caption: "Herbert Joseph Spinden, 1879-1967."
+    caption: "Herbert Joseph Spinden (1879–1967)."
   
   - id: rosoff-fig-2
     src: "figures/inline/rosoff-fig-2.jpg"
@@ -32,19 +32,19 @@ figure_list:
     src: "figures/inline/rosoff-fig-6.jpg"
     label: "Fig. 6"
     credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2904PA."
-    caption: "Rattle of a Priestess or Woman Impersonating a Deity, Campeche, Mexico, 500–850. Ceramic, 6 × 2 5/8 × 1 5/8 in.  (15.2 × 6.7 × 4.1 cm)."
+    caption: "Rattle of a Priestess or Woman Impersonating a Deity, Campeche, Mexico, 500–850. Ceramic, 6 × 2⅝ × 1⅝ in.  (15.2 × 6.7 × 4.1 cm)."
   
   - id: rosoff-fig-7
     src: "figures/inline/rosoff-fig-7.jpg"
     label: "Fig. 7"
     credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2895PA."
-    caption: "Huastec Relief Carving of a Human Face, ruins in the vicinity of Rancho de las Piedras, Tamaulipas, Mexico, 900–1250. Sedimentary rock (probably sandstone), 7 3/4 × 13 1/2 × 11 1/2 in. (19.7 × 34.3 ×  29.2 cm)."
+    caption: "Huastec Relief Carving of a Human Face, ruins in the vicinity of Rancho de las Piedras, Tamaulipas, Mexico, 900–1250. Sedimentary rock (probably sandstone), 7¾ × 13½ × 11½ in. (19.7 × 34.3 ×  29.2 cm)."
   
   - id: rosoff-fig-8
     src: "figures/inline/rosoff-fig-8-front.jpg"
     label: "Fig. 8"
     credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2897PA."
-    caption: "Huastec Life-Death Figure, possibly found at the site of Chilitijú, near San Vicente Tancauyalab, San Luis Potosí, Mexico, 900–1250. Sandstone and traces of pigment, 62 3/8 x 26 x 11 1/2 in. (158.4 x 66 x 29.2  cm)."
+    caption: "Huastec Life-Death Figure, possibly found at the site of Chilitijú, near San Vicente Tancauyalab, San Luis Potosí, Mexico, 900–1250. Sandstone and traces of pigment, 62⅜ × 26 × 11½ in. (158.4 × 66 × 29.2 cm)."
   
   - id: rosoff-fig-9
     src: "figures/inline/rosoff-fig-9.jpg"
@@ -56,43 +56,43 @@ figure_list:
     src: "figures/inline/rosoff-fig-10.jpg"
     label: "Fig. 10"
     credit: "Brooklyn Museum: Gift of Mrs. Minor C. Keith in memory of  her husband, 31.1692."
-    caption: "Central Caribbean Seated Male Figure, probably Las Mercedes, Costa Rica, 1000–1550. Volcanic stone (andesite), 11 3/4 × 7 × 5 1/2 in. (29.8 × 17.8 × 14 cm)."
+    caption: "Central Caribbean Seated Male Figure, probably Las Mercedes, Costa Rica, 1000–1550. Volcanic stone (andesite), 11¾ × 7 × 5½ in. (29.8 × 17.8 × 14 cm)."
   
   - id: rosoff-fig-11
     src: "figures/inline/rosoff-fig-11.jpg"
     label: "Fig. 11"
     credit: "Brooklyn Museum: Alfred  W. Jenkins Fund, 34.5084."
-    caption: "Central Caribbean Human Figure Wearing Crocodile Mask, Jiménez River near site of Las Mercedes, Costa Rica, 700–1000. Vesicular andesite, 61 x 24 1/2 x 20 in., 631 lb. (154.9 x 62.2 x 50.8 cm)."
+    caption: "Central Caribbean Human Figure Wearing Crocodile Mask, Jiménez River near site of Las Mercedes, Costa Rica, 700–1000. Vesicular andesite, 61 × 24½ × 20 in., 631 lb. (154.9 × 62.2 × 50.8 cm)."
   
   - id: rosoff-fig-12
     src: "figures/inline/rosoff-fig-12.jpg"
     label: "Fig. 12"
     credit: "Brooklyn Museum: John Thomas Underwood Memorial Fund, 38.121."
-    caption: "Nasca Mantle, Cabeza Larga, Ica, Peru, 100–300. Cotton and camelid fiber, 24 5/8 × 58 11/16 in. (62.5 × 149 cm)."
+    caption: "Nasca Mantle, Cabeza Larga, Ica, Peru, 100–300. Cotton and camelid fiber, 24⅝ × 58¾ in. (62.5 × 149 cm)."
   
   - id: rosoff-fig-13
     src: "figures/inline/rosoff-fig-13.jpg"
     label: "Fig. 13"
-    credit: "Museo de Arte de Lima. Archivo de Arte Peruano. Fondo Elena Izcue. Gift of Elba de Izcue Jordán."
-    caption: "Anne Wassell, *Elena Izcue y su libro El arte peruana en la escuela*, 1935. Gelatin silver print on paper."
+    credit: "Museo de Arte de Lima. Gift of Elba de Izcue Jordán. Archivo de Arte Peruano. Fondo Elena Izcue."
+    caption: "Anne Wassell, Elena Izcue y su libro *El arte peruana en la escuela*, 1935. Gelatin silver print on paper."
   
   - id: rosoff-fig-14
     src: "figures/inline/rosoff-fig-14.jpg"
     label: "Fig. 14"
     credit: "Museo de Arte de Lima. Gift of Elba de Izcue Jordán. ARCHI. Archivo Digital de Arte Peruano."
-    caption: "Elena Izcue, Textile Design, c. 1928–1936. 15 15/16 × 10 1/16 in. (40.5 × 25.5 cm)."
+    caption: "Elena Izcue, Textile Design, c. 1928–36. 16 × 10⅛ in. (40.5 × 25.5 cm)."
   
   - id: rosoff-fig-15
     src: "figures/inline/rosoff-fig-15.jpg"
     label: "Fig. 15"
     credit: "Brooklyn Museum: By exchange, 48.22.6."
-    caption: "Aztec Seated Figure of Ehecatl, Orizaba, State of Veracruz, Mexico, 1440–1521. Volcanic stone, 11  7/16 x 7 1/16 x 6 11/16 in. (27.1 x 17.9 x 17 cm)."
+    caption: "Aztec Seated Figure of Ehecatl, Orizaba, State of Veracruz, Mexico, 1440–1521. Volcanic stone, 11½ × 7⅛ × 6¾ in. (27.1 × 17.9 × 17 cm)."
   
   - id: rosoff-fig-16
     src: "figures/inline/rosoff-fig-16.jpg"
     label: "Fig. 16"
     credit: "Brooklyn Museum: By exchange, 48.22.10."
-    caption: "Aztec Year Bundle, Valley of Mexico, Mexico, 1440–1521. Volcanic stone, 20 1/2 x 11 in. (52.1 x  27.9 cm). "
+    caption: "Aztec Year Bundle, Valley of Mexico, Mexico, 1440–1521. Volcanic stone, 20½ × 11 in. (52.1 × 27.9 cm)."
   
   - id: rosoff-fig-17
     src: "figures/inline/rosoff-fig-17.jpg"
@@ -138,14 +138,14 @@ figure_list:
     src: "figures/inline/bergh-fig-5.jpg"
     label: "Fig. 5"
     credit: "Cleveland Museum of Art: The Norweb Collection, 1940.530."
-    caption: "Cloth with Procession of Figures, Central Andes, Nasca, 170 BCE–70 CE (radiocarbon date). Cotton and camelid fiber worked in plain weave with pigment, 27 1/2 × 110 1/2 in. (69.8 × 280.7 cm)."
+    caption: "Cloth with Procession of Figures, Central Andes, Nasca, 170 BCE–70 CE (radiocarbon date). Cotton and camelid fiber worked in plain weave with pigment, 27½ × 110½ in. (69.8 × 280.7 cm)."
     alt: A heavily deteriorated horizontal panel cloth that depicts a procession of figures with animalistic features, facing left to right. The borders of the panel are dark red and blue while the central figures on the tan background are in shades of lighter blue and yellow.
   
   - id: bergh-fig-6
     src: "figures/inline/bergh-fig-6.jpg"
     label: "Fig. 6"
     credit: "Cleveland Museum of Art: Gift of Mrs. R. Henry Norweb, Mrs. Albert S. Ingalls, with additions from the John L. Severance Fund, 1952.459."
-    caption: "Pectoral, Isthmian region, Panama, Sitio Conte, 400–900 CE. Gold, 9 7/8 × 10 1/2 in. (25.1 × 26.7 cm)."
+    caption: "Pectoral, Isthmian region, Panama, Sitio Conte, 400–900 CE. Gold, 9⅞ × 10½ in. (25.1 × 26.7 cm)."
     alt: A round gold plate that would be hung from the four small holes in the center. It depicts a highly decorative figure with prominent teeth. Two small creatures stand on either side of the central figure.
   
   - id: bergh-fig-7
@@ -159,7 +159,7 @@ figure_list:
     src: "figures/inline/bergh-fig-8.jpg"
     label: "Fig. 8"
     credit: "Cleveland Museum of Art: The Norweb Collection, 1939.509."
-    caption: "Pendant, Isthmian region, Panama, International Style, 400–700 CE. Gold, 3 × 2 1/8 in. (7.4 × 5.2 cm)."
+    caption: "Pendant, Isthmian region, Panama, International Style, 400–700 CE. Gold, 3 × 2⅛ in. (7.4 × 5.2 cm)."
     alt: A small golden bust sculpture of a figure with an elaborate headdress, septum nose piercing, and collar necklace. At the base of the shoulders two protrusions extend into points with light decorations carved into them.
   
   - id: bergh-fig-9
@@ -173,7 +173,7 @@ figure_list:
     src: "figures/inline/bergh-fig-10.jpg"
     label: "Fig. 10"
     credit: "Cleveland Museum of Art: In memory of Mr. and Mrs. Henry Humphreys, gift of their daughter Helen, 1944.291."
-    caption: "Ornament with Figure, Central Andes, Wari, 600–1000 CE. Shell, stone, and metal, 2 5/8 × 1 1/2 in. (6.6 × 3.6 cm)."
+    caption: "Ornament with Figure, Central Andes, Wari, 600–1000 CE. Shell, stone, and metal, 2⅝ × 1½ in. (6.6 × 3.6 cm)."
     alt: A small ornament that has a white shell base with a figure attached to the front. The figure is depicted from the waist up with one arm and dressed in dark purple attire and headdress. Their necklace is greenstone and round metal elements have been embedded into their torso.
   
   - id: bergh-fig-11
@@ -194,42 +194,42 @@ figure_list:
     src: "figures/inline/bergh-fig-13.jpg"
     label: "Fig. 13"
     credit: "Cleveland Museum of Art: Purchase from the J. H. Wade Fund, 1967.29."
-    caption: "Front Face of a Stela, Mesoamerica, Guatemala, Waka’ (El Perú), 692 CE. Limestone, 108 1/8 × 71 3/4 in. (274.4 × 182.3 cm)."
+    caption: "Front Face of a Stela, Mesoamerica, Guatemala, Waka’ (El Perú), 692 CE. Limestone, 108⅛ × 71¾ in. (274.4 × 182.3 cm)."
     alt: A light tan stone sculpture depicting a woman dressed in elaborate regalia holding a weapon and shield. Her body faces forward but her head is turned in profile. A smaller figure stands next to her beneath the hand wielding the weapon. Panels of glyphic writing surround her.
   
   - id: bergh-fig-14
     src: "figures/inline/bergh-fig-14.jpg"
     label: "Fig. 14"
     credit: "Cleveland Museum of Art: Purchase from the J. H. Wade Fund, 1961.31."
-    caption: "Head Fragment, Mesoamerica, Olmec, 900–300 BCE. Jadeite, 3 × 2 1/2 in. (7.4 × 6.2 cm)."
+    caption: "Head Fragment, Mesoamerica, Olmec, 900–300 BCE. Jadeite, 3 × 2½ in. (7.4 × 6.2 cm)."
     alt: A greenstone sculpture of a head and partial neck. The stone above the cheekbones is broken, leaving the face without eyes. The earlobes have holes drilled in, and the mouth is carved to be slightly open.
   
   - id: bergh-fig-15
     src: "figures/inline/bergh-fig-15.jpg"
     label: "Fig. 15"
     credit: "Cleveland Museum of Art: Gift of Mr. and Mrs. James C. Gruener, 1990.276."
-    caption: "Figural Vessel, Mesoamerica, Zapotec, 500–150 BCE. Ceramic, 11 3/8 × 8 1/8 in. (28.9 × 20.6 cm)."
+    caption: "Figural Vessel, Mesoamerica, Zapotec, 500–150 BCE. Ceramic, 11⅜ × 8⅛ in. (28.9 × 20.6 cm)."
     alt: A white-colored ceramic depicting a face in the neck of the jar. The facial features and headdress are relief carved while the arms are lightly incised on the body of vessel.
   
   - id: bergh-fig-16
     src: "figures/inline/bergh-fig-16.jpg"
     label: "Fig. 16"
     credit: "Cleveland Museum of Art: John L. Severance Fund, 1994.12."
-    caption: "Two Artisans, Mesoamerica, Maya, 250–600 CE. Ceramic, 22 1/4 × 8 3/4 in. (56.5 × 22 cm) and 23 1/4 × 10 1/4 in. (59 × 26 cm)."
+    caption: "Two Artisans, Mesoamerica, Maya, 250–600 CE. Ceramic, 22¼ × 8¾ in. (56.5 × 22 cm) and 23¼ × 10¼ in. (59 × 26 cm)."
     alt: Two figures seated cross legged on round stools, leaning forward with empty hands that once would have held implements for artwork. They wear elaborate headdresses, clothing, and accessories.
   
   - id: bergh-fig-17
     src: "figures/inline/bergh-fig-17.jpg"
     label: "Fig. 17"
     credit: "Cleveland Museum of Art: Norman O. Stone and Ella A. Stone Memorial Fund, 1995.72."
-    caption: "Lidded Bowl with Iguana, Isthmian region, Costa Rica, southern Nicoya, 600–1100 CE. Ceramic, 17 3/4 × 15 in. (45 × 38 cm)."
+    caption: "Lidded Bowl with Iguana, Isthmian region, Costa Rica, southern Nicoya, 600–1100 CE. Ceramic, 17¾ × 15 in. (45 × 38 cm)."
     alt: A tan ceramic bowl with a bell-shaped lid that is wider on the bottom and narrower at the top and that bears an iguana on top. The iguana is dark red with its head tilted up and minimal decorative features. The tail follows the side of the lid.
   
   - id: bergh-fig-18
     src: "figures/inline/bergh-fig-18.jpg"
     label: "Fig. 18"
     credit: "Cleveland Museum of Art: J. H. Wade Trust Fund, 2021.131."
-    caption: "Plate with Supernatural Being, Central Andes, Cupisnique, 900–600 BCE. Stone, probably steatite (soapstone), 6 1/2 in. (16.4 cm)."
+    caption: "Plate with Supernatural Being, Central Andes, Cupisnique, 900–600 BCE. Stone, probably steatite (soapstone), 6½ in. dia. (16.4 cm dia.)."
     alt: A round, brown plate with a supernatural figure curled in the center holding a face to its chest. The supernatural figure bares its teeth, and a pair of legs unattached to a body can be seen behind it. The rest of the plate is highly decorated.
   
   - id: 'pillsbury-fig-1'
@@ -271,7 +271,7 @@ figure_list:
     src: "figures/inline/pillsbury-fig-6.jpg"
     label: "Fig. 6"
     credit: "© The Metropolitan Museum of Art."
-    caption: "Textile study room, The Metropolitan Museum of Art, 1918."
+    caption: "Textile Study Room, The Metropolitan Museum of Art, 1918."
     alt: A black-and-white photograph of a study room, where people stand near cabinets and sit at tables, studying various textiles.
   
   - id: pillsbury-fig-7
@@ -299,7 +299,7 @@ figure_list:
     src: "figures/inline/pillsbury-fig-10.jpg"
     label: "Fig. 10"
     credit: "Photographic Archive. The Museum of Modern Art Archives. Photo: Wurts Brothers (1895–1979), The Museum of Modern Art/New York. Digital Image © The Museum of Modern Art/Licensed by SCALA/Art Resource, NY."
-    caption: "Installation view of the exhibition American Sources of Modern Art (Aztec, Mayan, Incan), May 8, 1933 through July 1, 1933. The Museum of Modern Art, New York, . Gelatin silver print, 7 x 9 ½ (17.7 x 24.1 cm)."
+    caption: "Installation view of the exhibition *American Sources of Modern Art (Aztec, Mayan, Incan)*, May 8, 1933 through July 1, 1933. The Museum of Modern Art, New York. Gelatin silver print, 7 × 9½ (17.7 × 24.1 cm)."
     alt: A black-and-white photograph of a gallery space with one pedestal and one case displaying artwork on either side of the room, facing each other. The back wall has four vitrine openings to showcase more artwork.
   
   - id: pillsbury-fig-11
@@ -326,7 +326,7 @@ figure_list:
   - id: pillsbury-fig-14
     src: "figures/inline/pillsbury-fig-14.jpg"
     label: "Fig. 14"
-    credit: "Photo: Michael Fredericks, Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers,Rockefeller Archive Center."
+    credit: "Photo: Michael Fredericks, Projects, Series L (FA348), Box 164, Folder 1662, NAR personal papers, Rockefeller Archive Center."
     caption: "Nelson A. Rockefeller viewing Maya objects at the press conference announcing the transfer of the Museum of Primitive Art collections to The Metropolitan Museum of Art."
     alt: A black-and-white photograph of a man in formal wear and glasses, looking closely at four small stone sculptures displayed near two ceramic vessels and a plate.
   
@@ -334,7 +334,7 @@ figure_list:
     src: "figures/inline/pillsbury-fig-15.jpg"
     label: "Fig. 15"
     credit: "Museum of Primitive Art Records, Michael C. Rockefeller Wing, The Metropolitan Museum of Art."
-    caption: "Pre-Columbian Art from the Metropolitan Museum of Art, The Museum of Primitive Art, 1970. One of the Toltec panels given to the Met by Frederic Church in 1893 (MMA 93.27.1) can be seen on the left."
+    caption: "Pre-Columbian Art from The Metropolitan Museum of Art, The Museum of Primitive Art, 1970. One of the Toltec panels given to the Met by Frederic Church in 1893 (MMA 93.27.1) can be seen on the left."
     alt: A black-and-white photograph of three adjacent gallery spaces with dark-colored walls and pedestals that contain a few stone, ceramic, and textile works.
   
   - id: pillsbury-fig-16
@@ -375,7 +375,7 @@ figure_list:
     src: "figures/inline/koontz-fig-2.jpg"
     label: "Fig. 2"
     credit: "Museum of Fine Arts, Houston: Museum purchase, 62.42."
-    caption: "Seated Lord from a Relief Panel, Late Classic Maya, 702–764. Limestone with traces of paint, 39 1/8 × 26 1/2 × 1 3/4 in. (99.4 × 67.3 × 4.4 cm)."
+    caption: "Seated Lord from a Relief Panel, Late Classic Maya, 702–764. Limestone with traces of paint, 39⅛ × 26½ × 1¾ in. (99.4 × 67.3 × 4.4 cm)."
     alt: A bas relief panel carved out of stone of a figure seated on their knees with head tilted back, holding up an offering. The edges of the panel are worn but evenly cut.
   
   - id: koontz-fig-3
@@ -389,28 +389,28 @@ figure_list:
     src: "figures/inline/koontz-fig-4.jpg"
     label: "Fig. 4"
     credit: "Museum of Fine Arts, Houston, Archives Collection RG05-119-153."
-    caption: "*Olmec Tradition*, MFAH Cullinan Hall, curated by James Johnson Sweeney, 1963."
+    caption: "*The Olmec Tradition*, MFAH Cullinan Hall, curated by James Johnson Sweeney, 1963."
     alt: A black and white photograph of seven pedestals with stone sculptural objects on them in a large hall with polished stone floors and neutral painted walls.
   
   - id: koontz-fig-5
     src: "figures/inline/koontz-fig-5.jpg"
     label: "Fig. 5"
     credit: "Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.70."
-    caption: "Teotihuacan Tripod Vase with Blowgunner and Quetzal Birds in Cacao Trees, Teotihuacan, 150–650. Earthenware with painted stucco, 6 1/8 × 6 7/16 in. (15.6 × 16.4 cm)."
+    caption: "Teotihuacan Tripod Vase with Blowgunner and Quetzal Birds in Cacao Trees, Teotihuacan, 150–650. Earthenware with painted stucco, 6⅛ × 6½ in. (15.6 × 16.4 cm)."
     alt: A tripod ceramic vessel with decorative feet and figures painted on the exterior.
   
   - id: koontz-fig-6
     src: "figures/inline/koontz-fig-6.jpg"
     label: "Fig. 6"
     credit: "Museum of Fine Arts, Houston: Gift of Mrs. Harry Hanszen, 65.164."
-    caption: "Frog Yoke, Classic Veracruz, 300–1200. Stone, 5 1/8 × 17 1/4 × 14 3/8 in. (13 × 43.8 × 36.5 cm)."
+    caption: "Frog Yoke, Classic Veracruz, 300–1200. Stone, 5⅛ × 17¼ × 14⅜ in. (13 × 43.8 × 36.5 cm)."
     alt: A U-shaped stone sculpture with decorative carvings. The carvings give it the appearance of a frog face.
   
   - id: koontz-fig-7
     src: "figures/inline/koontz-fig-7.jpg"
     label: "Fig. 7"
     credit: "Museum of Fine Arts, Houston, Archives Collection RG08-022-002."
-    caption: "Original Facade of MFAH (1924–26), c. 1926."
+    caption: "Original facade of MFAH (1924–26), c. 1926."
     alt: A black and white photograph of the front of a mansion with large columns in the entryway. A tall tree partially obscures the building.
   
   - id: koontz-fig-8
@@ -431,7 +431,7 @@ figure_list:
     src: "figures/inline/driggers-fig-1.jpg"
     label: "Fig. 1"
     credit: "Photo by Jack Sheaffer. The Jack Sheaffer Photographic Collection (MS 435), 20668. Courtesy of University of Arizona Libraries, Special Collections."
-    caption: "Ralph Bellamy bought pre-Columbian sculpture at Clay Lockett’s Indian Arts & Crafts Shop during a visit to Tucson, September 18, 1962."
+    caption: "Ralph Bellamy bought pre-Columbian sculpture at Clay Lockett’s Indian Arts and Crafts Shop during a visit to Tucson, September 18, 1962."
     alt: A black-and-white photograph of a man holding a ceramic anthropomorphic shaped figurine close to his face, looking tenderly at the object. He is dressed casually and stands in front of shelves of boxes.
   
   - id: driggers-fig-2
@@ -444,36 +444,36 @@ figure_list:
   - id: driggers-fig-3
     src: "figures/inline/driggers-fig-3.jpg"
     label: "Fig. 3"
-    credit: "The Brummer Gallery Records, The Metropolitan Museum of Art, New York"
+    credit: "The Brummer Gallery Records, The Metropolitan Museum of Art, New York."
     caption: "Inventory card of Moche vessel from Brummer, 1937–1944. Inscription reads, “Sold to Frederick R. Pleasants, April 10, ’44.”"
     alt: A catalog card numbered P14013 with an image of a Peruvian ceramic vessel. It is dated October 4, 1937, and reads “Peruvian pottery, decorated in red with devils fighting warriors. Comes from the Château de la Muette. About 13” high.” Handwritten over top, it reads “Sold to Frederick R. Pleasants, April 10, ’44. $260 with a glass case.”
   
   - id: driggers-fig-4
     src: "figures/inline/driggers-fig-4.jpg"
     label: "Fig. 4"
-    credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1965.32"
-    caption: "Veracruz artist(s), Stela, Mexico, 300 BC–100 CE. Stone, 47 × 8 5/8 × 2 1/4 in (119.4 × 21.9 × 5.7 cm)."
+    credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1965.32."
+    caption: "Veracruz artist(s), Stela, Mexico, 300 BC–100 CE. Stone, 47 × 8⅝ × 2¼ in. (119.4 × 21.9 × 5.7 cm)."
     alt: A narrow dark tan stone slab with the figurine of a man carved on the uppermost portion. Beneath his feet are lightly incised markings that blend into the worn texture.
   
   - id: driggers-fig-5
     src: "figures/inline/driggers-fig-5.jpg"
     label: "Fig. 5"
-    credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1971.28"
-    caption: "Veracruz artist(s), Palma, Mexico, 700–800 CE. Volcanic stone (basalt), 14 5/8 × 10 × 6 in (37.1 × 25.4 × 15.2 cm)."
+    credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1971.28."
+    caption: "Veracruz artist(s), Palma, Mexico, 700–800 CE. Volcanic stone (basalt), 14⅝ × 10 × 6 in. (37.1 × 25.4 × 15.2 cm)."
     alt: A tan stone sculpture shaped to protect the sternum. It is narrow at the base and expands into five separate points at the top, somewhat resembling the petals of a flower. The surface is carved with decorative details,  including a facial motif at the base.
   
   - id: driggers-fig-6
     src: "figures/inline/driggers-fig-6.jpg"
     label: "Fig. 6"
-    credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1968.11"
-    caption: "Olmec artist(s), Spoon in the Shape of a Bird Monster Profile Head, Costa Rica, 800–300 BC. Jade, 1 3/4 × 4 1/4 × 1/4 in (4.4 × 10.8 × 0.6 cm)."
+    credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1968.11."
+    caption: "Olmec artist(s), Spoon in the Shape of a Bird Monster Profile Head, Costa Rica, 800–300 BCE. Jade, 1¾ × 4¼ × ¼ in. (4.4 × 10.8 × 0.6 cm)."
     alt: A greenstone sculpture of a creature in profile. The edges and grooves detailing the facial features are worn.
   
   - id: driggers-fig-7
     src: "figures/inline/driggers-fig-7.jpg"
     label: "Fig. 7"
     credit: "Photo by Jack Sheaffer. Courtesy of University of Arizona Libraries, Special Collections, #293 41507."
-    caption: "Grace Sternberg and Chris Carroll unpack Tucson Art Center’s Veracruz stele, returned from loan to the Metropolitan Museum of Art, New York, January 25, 1971."
+    caption: "Grace Sternberg and Chris Carroll unpack Tucson Art Center’s Veracruz stela, returned from loan to The Metropolitan Museum of Art, New York, January 25, 1971."
     alt: A black-and-white photograph of a man and woman holding up the Veracruz stone slab as they unpack it from a crate. Two framed textiles hang on the wall behind them, and a ceramic vessel is in a case to their right. On their left, at the very edge of the photograph, another woman watches.
   
   - id: driggers-fig-8
@@ -508,7 +508,7 @@ figure_list:
     src: "figures/inline/driggers-fig-12.jpg"
     label: "Fig. 12"
     credit: "Original image source: Arizona Historical Society. Quote source: “150 Years Live Vividly In Memory Of Pioneer” by Martha Buddecke, *Tucson Citizen*, February 1963. Photo: Willo Art."
-    caption: "Installation view, *La Casa Cordova’s Tucson Changing Landscape*. Didactic panel featuring Maria Navarrete Cordova developed by TMA staff with the support of Lydia Otero, 2017. "
+    caption: "Installation view, *La Casa Cordova’s Tucson Changing Landscape*. Didactic panel featuring María Navarrete Cordova developed by TMA staff with the support of Lydia Otero, 2017. "
     alt: A contemporary image of wall text describing the history and neighborhood of where the Tucson Museum is located. A large quote by Maria Cordova across the bottom of the wall text reads, “It’s important to tell the truth about historical happening for the sake one’s children…”
   
   - id: driggers-fig-13
@@ -552,7 +552,7 @@ figure_list:
     src: "figures/inline/pope-fig-6.jpg"
     label: "Fig. 6"
     credit: "Katharine Kuh Papers, 1875–1994, Archives of American Art, Smithsonian Institution. Digital ID: 9951."
-    caption: "Installation view, Katharine Kuh Gallery, George Fred Keck water colors and Oceanic sculpture, November 1940."
+    caption: "Installation view, Katharine Kuh Gallery, George Fred Keck watercolors and Oceanic sculpture, November 1940."
   
   - id: pope-fig-7
     src: "figures/inline/pope-fig-7.jpg"
@@ -599,19 +599,19 @@ figure_list:
     src: "figures/inline/pope-fig-14.jpg"
     label: "Fig. 14"
     credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
-    caption: "Installation view, Primitive Art permanent collection gallery at the Art Institute of Chicago, Summer and Fall 1960."
+    caption: "Installation view, Primitive Art permanent collection gallery at the Art Institute of Chicago, summer and fall 1960."
   
   - id: pope-fig-15
     src: "figures/inline/pope-fig-15.jpg"
     label: "Fig. 15"
     credit: 
-    caption: "*Allen Wardwell, Primitive Art in the Collections of The Art Institute of Chicago* (Art Institute of Chicago, 1965), cover."
+    caption: "Allen Wardwell, *Primitive Art in the Collections of The Art Institute of Chicago* (Art Institute of Chicago, 1965), cover."
   
   - id: pope-fig-16
     src: "figures/inline/pope-fig-16.jpg"
     label: "Fig. 16"
     credit: "Courtesy Institutional Photography Archive, Art Institute of Chicago."
-    caption: "Installation view, The Ancient Americas permanent collection gallery, Gallery 125 at the Art Institute of Chicago, 1985."
+    caption: "Installation view, Ancient Americas permanent collection gallery, Gallery 125 at the Art Institute of Chicago, 1985."
   
   - id: pope-fig-17
     src: "figures/inline/pope-fig-17.jpg"
@@ -648,7 +648,7 @@ figure_list:
     src: "figures/inline/robb-fig-2.jpg"
     label: "Fig. 2"
     credit: "Samuel Marx, architect; Hedrich-Blessing, photo. Courtesy of Chicago History Museum."
-    caption: "Central Staircase in May residence, 2222 South Warson Road, Ladue, Missouri, 1940–2007."
+    caption: "Central staircase in May residence, 2222 South Warson Road, Ladue, Missouri, 1940–2005."
     alt: A black-and-white photograph of a house interior with a white carpeted spiral staircase. There is a chair next to the window beneath the stairs.
   
   - id: robb-fig-3
@@ -662,14 +662,14 @@ figure_list:
     src: "figures/inline/robb-fig-4.jpg"
     label: "Fig. 4"
     credit: "Courtesy of Saint Louis Art Museum Archives."
-    caption: "View of Gallery 100, c. 1966-71."
+    caption: "View of Gallery 100, c. 1966–71."
     alt: A black-and-white photograph of a hallway leading into a gallery space, where there is a dark free-standing wall with the title, “Pre Columbian Art” on it and  an attached case that holds a ceramic seated figure.
   
   - id: robb-fig-5
     src: "figures/inline/robb-fig-5.jpg"
     label: "Fig. 5"
     credit: "Courtesy of Amy Clark."
-    caption: "From left, Marian Kolisch, Morton D. May, and Mary Hamblett at the opening of the Meier and Frank Co. Pre-Columbian Sale, Portland, Oregon, February 22 1967."
+    caption: "From left, Marian Kolisch, Morton D. May, and Mary Hamblett at the opening of the Meier and Frank Co. Pre-Columbian Sale, Portland, Oregon, February 22, 1967."
     alt: A black-and-white photograph of two well-dressed women and a man standing in department store. The woman on the right holds a stone mask. Behind them, shelves and pedestals display ancient American objects.
   
   - id: robb-fig-6
@@ -683,13 +683,13 @@ figure_list:
     src: "figures/inline/robb-fig-7.jpg"
     label: "Fig. 7"
     credit: "Mayer Center Archives, Denver Art Museum. Photograph courtesy of Denver Art Museum."
-    caption: "From left, Morton D. May, Allan Swayer, and James Economos at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
+    caption: "From left, Morton D. May, Allan Sawyer, and James Economos at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
     alt: A black-and-white photograph of three men in suits seated in front of a monumental stone carving surrounded by plants. The man in the middle holds a stone object in his hand.
   
   - id: robb-fig-8
     src: "figures/inline/robb-fig-8.jpg"
     label: "Fig. 8"
-    credit: "Mayer Center Archives, Denver Art Museum. Photograph courtesy of Denver Art Museum"
+    credit: "Mayer Center Archives, Denver Art Museum. Photograph courtesy of Denver Art Museum."
     caption: "Morton D. May at the opening of the May Company Pre-Columbian Sale, Los Angeles, California, June 1966."
     alt: A color photograph of a man in a suit standing outside in front of a pedestal with two ancient American sculptures and a monumental stone carving among foliage.
   
@@ -710,50 +710,57 @@ figure_list:
   - id: miller-fig-1
     src: "figures/inline/miller-fig-1-fpo.jpg"
     label: "Fig. 1"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
-    caption: "Al Stendahl to his father, Earl Stendahl. From Los Angeles to New York, 1954 (month and day uncertain). Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Al Stendahl to his father, Earl Stendahl. From Los Angeles to New York, 1954 (month and day uncertain)."
     alt: Typed letter with blue ink on yellowed paper
   
   - id: miller-fig-2
     src: "figures/inline/miller-fig-2-fpo.jpg"
     label: "Fig. 2"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
-    caption: "Excerpt from Earl Stendahl to his son, Al. From New York to Los Angeles, Friday, Oct. 29-54 (dated by Earl). Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his son, Al. From New York to Los Angeles, Friday, October 29, 1954 (dated by Earl)."
     alt: Handwritten letter on white paper with The Plaza letterhead at top.
   
   - id: miller-fig-3
     src: "figures/inline/miller-fig-3-fpo.jpg"
     label: "Fig. 3"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
-    caption: "Excerpt from Earl Stendahl to his son, Al Stendahl. From New York or Washington to Los Angeles, 9 February 1956. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his son, Al Stendahl. From New York or Washington to Los Angeles, February 9, 1956."
     alt: Handwritten letter on white paper.
   
   - id: miller-fig-4
     src: "figures/inline/miller-fig-4-fpo.jpg"
     label: "Fig. 4"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
-    caption: "Joe Damman to his father-in-law, Earl Stendahl. From Los Angeles to New York., 19 November 1963. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Joe Damman to his father-in-law, Earl Stendahl. From Los Angeles to New York, November 19, 1963."
     alt: typed letter on white-bluish paper with handwritten signature
   
   - id: miller-fig-5
     src: "figures/inline/miller-fig-5-fpo.jpg"
     label: "Fig. 5"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
-    caption: "Excerpt from Earl Stendahl to his wife, Enid. From New York to Los Angeles, 12 December 1964. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his wife, Enid. From New York to Los Angeles, December 12, 1964."
     alt: Handwritten letter on white paper with Stendahl Galleries letterhead
   
   - id: miller-fig-6
     src: "figures/inline/miller-fig-6-fpo.jpg"
     label: "Fig. 6"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
-    caption: "Excerpt from Earl Stendahl to his son Al and son-in-law Ron Damman. From his travels to Los Angeles, 22 February 1965. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his son, Al, and son-in-law, Joe Damman. From his travels to Los Angeles, February 22,1965."
     alt: Handwritten letter on white paper with Earl L. Stendahl letterhead
   
-  - id: miller-fig-7
+  - id: miller-fig-7-1
     src: "figures/inline/miller-fig-7-1-fpo.jpg"
-    label: "Fig. 7"
-    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38"
-    caption: "Excerpt from Enid to the family. From New York to Los Angeles, December 1965. Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38."
+    label: "Fig. 7a"
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Enid to the family. From New York to Los Angeles, December 1965."
+    alt: Handwritten letter on white paper with Hotel de la Paix Geneve letterhead.
+  
+  - id: miller-fig-7-2
+    src: "figures/inline/miller-fig-7-2-fpo.jpg"
+    label: "Fig. 7b"
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Enid to the family. From New York to Los Angeles, December 1965."
     alt: Handwritten letter on white paper with Hotel de la Paix Geneve letterhead.
   
   - id: hoobler-fig-1
@@ -772,7 +779,7 @@ figure_list:
     src: "figures/inline/hoobler-fig-3.jpg"
     label: "Fig. 3"
     credit: "Walters Art Museum Library and Archives (146797). Courtesy of the Walters Art Museum."
-    caption: "Ancient American objects made of gold, purchased from Tiffany & Co., New York."
+    caption: "Ancient American objects made of gold, purchased from Tiffany & Co., New York, ca. 1910."
   
   - id: hoobler-fig-4
     src: "figures/inline/hoobler-fig-4.jpg"
@@ -784,13 +791,13 @@ figure_list:
     src: "figures/inline/hoobler-fig-5.jpg"
     label: "Fig. 5"
     credit: "Walters Art Museum, 29.2. Courtesy of the Walters Art Museum."
-    caption: "Knotted Rattlesnake, Mexica (Aztec), Central Mexico, 1100–1520. Basalt, 11 1/4 × 16 in. (28.5 × 40.64 cm)."
+    caption: "Knotted Rattlesnake, Mexica (Aztec), Central Mexico, 1100–1520. Basalt, 11¼ × 16 in. (28.5 × 40.64 cm)."
   
   - id: hoobler-fig-6
     src: "figures/inline/hoobler-fig-6.jpg"
     label: "Fig. 6"
     credit: "Walters Art Museum Library and Archives (456064). Courtesy of the Walters Art Museum."
-    caption: "Installation view, *4000 Years of Modern Art at the Walters Art Museum*, 1952."
+    caption: "Installation view, *4000 Years of Modern Art at the Walters Art Museum*, 1953."
   
   - id: hoobler-fig-7
     src: "figures/inline/hoobler-fig-7.jpg"
@@ -826,7 +833,7 @@ figure_list:
     src: "figures/inline/hoobler-fig-12.jpg"
     label: "Fig. 12"
     credit: "Fiske Kimball Papers (FKP), Box 62, Folder 12, Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
-    caption: "Fiske (1888–1955) and Marie (1889–1955) Kimball (PM284DE), c. 1940."
+    caption: "Fiske (1888–1955) and Marie (1889–1955) Kimball, c. 1940 (PM284DE)."
   
   - id: hoobler-fig-13
     src: "figures/inline/hoobler-fig-13.jpg"
@@ -849,7 +856,7 @@ figure_list:
   - id: hoobler-fig-16
     src: "figures/inline/hoobler-fig-16.jpg"
     label: "Fig. 16"
-    credit: " Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
+    credit: " Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art."
     caption: "Opening of *Louise and Walter Arensberg Collection in Twenty-Two New Galleries*, 1954 (PM2165O)."
   
   - id: hoobler-fig-17
@@ -875,7 +882,7 @@ figure_list:
   - id: lyall-fig-3
     src: "figures/inline/lyall-fig-3.jpg"
     label: "Fig. 3"
-    credit: "Photographer: Albert Fenn. Photographic Archive, The Museum of Modern Art Archives. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY"
+    credit: "Photographer: Albert Fenn. Photographic Archive, The Museum of Modern Art Archives. Digital Image © The Museum of Modern Art/Licensed by SCALA / Art Resource, NY."
     caption: "Eleanor Roosevelt and Frederic H. Douglas at *Indian Art of the United States* at the Museum of Modern Art, New York, 1941. Gelatin silver print."
     alt: A black-and-white photograph of a man and woman talking in an exhibition. The woman wears a fur shawl and a dark hat. The man wears a suit and glasses and has a mustache.
   
@@ -911,7 +918,7 @@ figure_list:
     src: "figures/inline/lyall-fig-8.jpg"
     label: "Fig. 8"
     credit: "Denver Art Museum: Funds from Nancy Doran Petry, 2022.159. © Estate of George Biddle."
-    caption: "George Biddle, *Leadville*, 1937. Oil on canvas, 48 1/2 × 48 1/2 in."
+    caption: "George Biddle, *Leadville*, 1937. Oil on canvas, 48½ × 48½ in."
     alt: A town scene with farm animals grazing and lounging in front of homes and a synagogue and church in the middle ground. In the background, more buildings nestle into the mountainous terrain.
   
   - id: lyall-fig-9
@@ -938,7 +945,7 @@ figure_list:
   - id: lyall-fig-12
     src: "figures/inline/lyall-fig-12.jpg"
     label: "Fig. 12"
-    credit: "Mayer Center Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price"
+    credit: "Mayer Center Archives. Photograph courtesy of Denver Art Museum, permission courtesy the Estate of Vincent Price."
     caption: "Vincent Price filming in the Denver Art Museum’s Maya-themed period room within the former Pre-Columbian galleries. Detail from photo contact sheet, February 1983."
     alt: A contact photo sheet of a man in a dark suit standing in a room themed like a stone tomb. There are stone and ceramic sculptures behind him. A cameraperson can also be seen in some of the frames.
   
