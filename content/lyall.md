@@ -107,7 +107,7 @@ Today, the department continues to embrace the groundbreaking approach of the ea
 
 {% backmatter %}
 
-Victoria's acknowledgments go here
+I am indebted to Paula Michelle Contreras, Ancient Americas Curatorial Assistant, for her extraordinary research skills and to the members of the Provenance Team, Lori Iliff, Renée Albiston and Mac Coyle, for their investigative efforts. Additional thanks to Andrea Hansen, Denver Art Museum’s librarian, and Maura Pasquale, Executive Assistant to the Director, for their guidance on navigating both the department and executive archives. Additional thanks to Renée Miller and Christina Jackson for their help tracking down and resizing hard to find newspaper and magazine images. 
 
 ## Notes
 
@@ -161,9 +161,9 @@ Victoria's acknowledgments go here
 
 [^25]: Lewis Wingfield Story, “Building a Collection,” in *The Denver Art Museum*, 103.
 
-[^26]: Ibid. A memo listing museum staff in March 1968 notes that the institution employed thirty-three people as staff and lists Robert Stroessner as Assistant Curator of American Indian Art. Annual Meeting Minutes 1968–69, D13.FB2, Denver Art Museum Archives. While born in Colorado, Robert Stroessner’s family had connections to Latin America. A part of Stroessner’s family emigrated from Germany to Colorado, while another branch moved to Paraguay. Alfredo Stroessner, Paraguay’s longtime dictator, was Robert’s granduncle. The family remained in contact with their South American relatives. Stroessner visited Paraguay, and on at least on one occasion, his granduncle visited the US. See La Hay Wauhillau, “Denver’s Stroessner Rub Shoulders with President,” *Denver Post*, March 21, 1968. It is not known, however, how much Robert or his parents knew of his granduncle’s activities in the country. See also “Remembrance of Robert Stroessner” by Teddy Dewalt sent to Anne Tenant, New World Department archive, Denver Art Museum.
+[^26]: Ibid. A memo listing museum staff in March 1968 notes that the institution employed thirty-three people as staff and lists Robert Stroessner as Assistant Curator of American Indian Art. Annual Meeting Minutes 1968–69, D13.FB2, Denver Art Museum Archives. While born in Colorado, Robert Stroessner’s family had connections to Latin America. A part of Stroessner’s family emigrated from Germany to Colorado, while another branch moved to Paraguay. Alfredo Stroessner, Paraguay’s longtime dictator, was Robert’s granduncle. The family remained in contact with their South American relatives. Stroessner visited Paraguay, and on at least on one occasion, his granduncle visited the US. See La Hay Wauhillau, “Denver’s Stroessner Rub Shoulders with President,” *Denver Post*, March 21, 1968. It is not known, however, how much Robert or his parents knew of his granduncle’s activities in the country. See also “Remembrance of Robert Stroessner” by Teddy Dewalt sent to Anne Tenant, Mayer Center Archive, Denver Art Museum. The Mayer Center Archive encompasses archival material for both Arts of the Ancient Americas and Latin American Art as well as the previous New World Department.
 
-[^27]: Robert Stroessner to Tom Maytham, October 15, 1974, Stroessner Files 1974, Correspondence, New World Department archive.
+[^27]: Robert Stroessner to Tom Maytham, October 15, 1974, Stroessner Files 1974, Correspondence, Mayer Center Archive.
 
 [^28]: Robert Stroessner to Olive Bigelow Pell, November 12, 1968, Stroessner Files, 1968, ibid.
 
@@ -175,13 +175,13 @@ Victoria's acknowledgments go here
 
 [^32]: Thank you to Matthew Robb, who helped identify James Economos and the context of the photograph. The May Company store would ultimately become part of Los Angeles County Museum of Art’s campus and was known as “LACMA West.” It housed various museum departments including publications and education. Other floors would become storage for unused vitrines and museum furniture before the museum leased the building to the Academy Museum.
 
-[^33]: Morton May to Otto Bach, August 26, 1969, Morton May files, Saint Louis Art Museum copy of letter housed in the Ancient Americas department files.
+[^33]: Morton May to Otto Bach, August 26, 1969, Morton May files, Saint Louis Art Museum copy of letter housed in the Mayer Center Archive, Denver Art Museum.
 
 [^34]: Stroessner notes the generosity of Morton May and illustrates a number of his gifts in the 1968 Annual Report, Board Minutes 1968–69, D13.FB2, Denver Art Museum Archives.
 
 [^35]: Joanne Ditmer, “Otto Bach and His Enduring Legacy,” *Denver Post*, December 2, 1990.
 
-[^36]: Meeting of the Board of Trustees Minutes, February 18, 1970, Board Minutes 1970–71, D12.FB5, Denver Art Museum Archives. A letter from Robert Stroessner to Morton May, March 12, 1970, acknowledges the details of the sale (May Archives, Saint Louis Art Museum). And a letter from Robert Stroessner to Frederick Mayer, December 7, 1970, expresses his gratitude to Mayer for the gift of 62 pieces and includes the inventory of works (Stroessner Files, 1970, Correspondence, New World Department archive, Denver Art Museum). Thank you to John Buxton who helped track down material from the Texas collector. Alan Sawyer, director of the Textile Museum in Washington, DC, and former curator at the Art Institute of Chicago, provided the valuations of the Andean material. Morton May files, Saint Louis Art Museum copy of letter housed in the Ancient Americas department files.
+[^36]: Meeting of the Board of Trustees Minutes, February 18, 1970, Board Minutes 1970–71, D12.FB5, Denver Art Museum Archives. A letter from Robert Stroessner to Morton May, March 12, 1970, acknowledges the details of the sale (May Archives, Saint Louis Art Museum). And a letter from Robert Stroessner to Frederick Mayer, December 7, 1970, expresses his gratitude to Mayer for the gift of 62 pieces and includes the inventory of works (Stroessner Files, 1970, Correspondence, Mayer Center Archive, Denver Art Museum). Thank you to John Buxton who helped track down material from the Texas collector. Alan Sawyer, director of the Textile Museum in Washington, DC, and former curator at the Art Institute of Chicago, provided the valuations of the Andean material. Morton May files, Saint Louis Art Museum copy of letter housed in the Mayer Center Archive.
 
 [^37]: See “Bach years, 1944–1974,” in *Denver Art Museum*, 294fn47.
 
