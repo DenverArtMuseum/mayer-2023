@@ -46,7 +46,7 @@ Despite the initial interest in ancient American art, the museum began to recons
 
 There were some interesting exceptions to the mass relegation of ancient American objects to other institutions, however. Some twenty Maya and Mixtec items collected by the businessman and philanthropist Heber R. Bishop remained in the museum along with the Asian jades that formed the bulk of his collection. Indeed, a reproduction of a Mixtec figurine in that collection was reportedly one of the most popular items in the museum’s book shop in the 1950s.[^12] Ancient Peruvian textiles, which The Met began to collect as early as 1882, not only remained in the museum but continued to be collected, at least sporadically. Following the model of London’s South Kensington Museum (now the Victoria and Albert Museum), The Met adopted a similar guiding principle that museums could positively influence industrial design. The garment business was New York’s largest industry; the creation of The Met’s Textile Study Room in 1910 was fueled by the idea that the study of the decorative arts would lead to better design in factories and workshops (fig. 6).
 
-The textile collection grew over the years, eventually becoming the subject of a special exhibition in 1931, complete with a catalog intended primarily for “students of ornament,” a reminder of the abiding influence of Owen Jones, the nineteenth-century architect, designer, and theorist whose sourcebook, *The Grammar of Ornament* (1856) was intended to make design principles in the decorative arts, viewed globally, more widely available.[^13] By the 1950s, however, textiles were collected not simply for study purposes but as works of art in their own right. As modern art became more widely embraced, the path was laid for seeing ancient Andean textiles in a new way. In 1959, John Phillips, a curator in the Department of Renaissance and Post-Renaissance Art who had worked on the 1931 exhibition, recommended the purchase of eight Peruvian textiles. Perhaps signaling a changing attitude at the museum, Phillips noted, “In our day, when highly conventionalized forms have become familiar through the agency of contemporary painting and sculpture, these textiles seem far less *outré* than they once did.”[^14]
+The textile collection grew over the years, eventually becoming the subject of a special exhibition in 1931, complete with a catalog intended primarily for “students of ornament,” a reminder of the abiding influence of Owen Jones, the nineteenth-century architect, designer, and theorist, whose sourcebook *The Grammar of Ornament* (1856) was intended to make design principles in the decorative arts, viewed globally, more widely available.[^13] By the 1950s, however, textiles were collected not simply for study purposes but as works of art in their own right. As modern art became more widely embraced, the path was laid for seeing ancient Andean textiles in a new way. In 1959, John Phillips, a curator in the Department of Renaissance and Post-Renaissance Art who had worked on the 1931 exhibition, recommended the purchase of eight Peruvian textiles. Perhaps signaling a changing attitude at the museum, Phillips noted, “In our day, when highly conventionalized forms have become familiar through the agency of contemporary painting and sculpture, these textiles seem far less *outré* than they once did.”[^14]
 
 It should be noted, however, that The Met was hardly an early adopter of what we now think of as modern art. Indeed, it is important to bear in mind that the Museum of Modern Art (MoMA) was born in part out of frustrations with The Met’s obdurate refusal to entertain contemporary art. Later in the century, it would be MoMA, and its neighbor the Museum of Primitive Art, that would mount important exhibitions of ancient American art. One interesting aspect of this change was that The Met’s move was strikingly at odds with some broader currents in the United States at the time. While The Met remained quiet for decades, other institutions, including the Brooklyn Museum, the Art Institute of Chicago, the Philadelphia Museum of Art, and even the National Gallery of Art in Washington, DC, were doubling down on collecting and exhibiting pre-Columbian art, if only, as was the case with the National Gallery, for a limited time.[^15]
 
@@ -130,7 +130,7 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^4]: *General Guide to The Metropolitan Museum of Art, Exhibition of 1888–89* (The Metropolitan Museum of Art, 1888–89).
 
-[^5]: “Opening of the New Wing of the Metropolitan Museum of Art,” *The Art Amateur* 48, no. 2 (January 1903): 47.
+[^5]: “Opening of the New Wing of the Metropolitan Museum of Art,” *The Art Amateur* 48, no. 2 (1903): 47.
 
 [^6]: John Taylor Johnson and Louis P. di Cesnola, “To the Members of the Metropolitan Museum of Art,” *Annual Report of the Trustees of the Metropolitan Museum of Art*, no. 13 (1882): 242.
 
@@ -144,7 +144,7 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^11]: Pillsbury, “Aztecs.”
 
-[^12]: MMA Archives, 02.18.313. Also see the unpublished reports of Elizabeth Easby from 1952 and 1956, mentioned below.
+[^12]: MMA Archives, 02.18.313. Also see the unpublished reports of Elizabeth Easby from 1952 and 1956, mentioned below in note 18.
 
 [^13]: Joseph Breck, *Peruvian Textiles: Examples of the Pre-Incaic Period* (The Metropolitan Museum of Art, 1930).
 
@@ -154,7 +154,7 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^16]: Francis Henry Taylor to the Members of the Board of Trustees, October 23, 1952, MMA Archives.
 
-[^17]: Joanne Pillsbury, “The Pan-American: Nelson Rockefeller and the Arts of Ancient Latin America,” *The Metropolitan Museum of Art Bulletin* 72, no. 1 (Summer 2014): 18–27.
+[^17]: Joanne Pillsbury, “The Pan-American: Nelson Rockefeller and the Arts of Ancient Latin America,” *The Metropolitan Museum of Art Bulletin* 72, no. 1 (2014): 18–27.
 
 [^18]: Elizabeth Easby prepared two reports: The first, in 1952 (“Summary Report on M.M.A. Collection of pre-Columbian Art”), was followed by a more formal, illustrated report in 1952 {JOANNE, IS THIS SUPPOSED TO BE THE SAME YEAR AS ABOVE? IF SO, MAYBE INSTEAD: illustrated report LATER THAT YEAR} (“Works of Art in the Pre-Columbian Collection of the Metropolitan Museum of Art”). Her reports built on an earlier report by “Miss Gash,” prepared in 1942, in response to a request from the Department of State in Washington for an inventory of Latin American holdings in US museums.
 
@@ -172,7 +172,7 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^25]: John Canaday, “Governor Gives His Collection of Primitive Art to Metropolitan,” *The New York Times*, May 9, 1969.
 
-[^26]: Nelson A. Rockefeller to Stephen Clark, December 16, 1942, Projects, Box 161, Folder 1642, NAR, RAC.
+[^26]: Nelson A. Rockefeller to Stephen Clark, December 16, 1942, Projects, Folder 1642, Box 161, NAR, RAC.
 
 [^27]: Alfred H. Barr Jr., Letter to the editor, *College Art Journal* 10, no. 1 (1950): 57–59.
 
@@ -180,7 +180,7 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^29]: Draft, Museum of Indigenous Art Acquisitions policy, June 11, 1955, Projects, Series L (FA348), Folder 1679, Box 165, NAR, RAC. The museum changed its name to the Museum of Primitive Art in 1956.
 
-[^30]: Nelson Rockefeller to William Kelly Simpson, November 7, 1956, Projects, MPA, Box 161, Folder 1642, NAR, RAC. See also “Rocky Road to Art.”
+[^30]: Nelson Rockefeller to William Kelly Simpson, November 7, 1956, Projects, MPA, Folder 1642, Box 161, NAR, RAC. See also “Rocky Road to Art.”
 
 [^31]: Robert Goldwater, “Introduction,” *Art of Oceania, Africa, and the Americas from the Museum of Primitive Art* (The Metropolitan Museum of Art, 1969), n.p.
 
@@ -194,13 +194,13 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^36]: *Art of Empire*: 5,424 visitors; *Jaguar’s Children*: 5,576 visitors, MPA Archive, MMA.
 
-[^37]: D’Harnoncourt to Rockefeller, March 21, 1962, personal papers, Art, Series C [FA340], NAR, RAC; Carol K. Uht Reference Files, Subseries 3, Box 24, Folder 183, MMA Archives.
+[^37]: D’Harnoncourt to Rockefeller, March 21, 1962, personal papers, Art, Series C [FA340], NAR, RAC; Carol K. Uht Reference Files, Subseries 3, Folder 183, Box 24, MMA Archives.
 
 [^38]: Oral History Project Interview with Julie Jones, April 21–22, 2015, transcript, p. 25, MMA Archives; Michael Gross, *Rogues’ Gallery: The Secret Story of the Lust, Lies, Greed, and Betrayals That Made the Metropolitan Museum of Art* (Broadway Books, 2009), 330; Nancy Lutkehaus, “The Bowerbird of Collectors: On Nelson A. Rockefeller and ‘Collecting the Stuff That Wasn’t in the Metropolitan,’” *Bulletin of the Buffalo Society of Natural Sciences* 42 (2015): 133. Jones, Gross, and Lutkehaus cite d’Harnoncourt’s death as another factor in Rockefeller’s desire to close the MPA; plans to transfer the MPA to The Met, however, began over a year before d’Harnoncourt died.
 
-[^39]: Projects, Museum of Primitive Art, Box 163, Folder 1656, NAR, RAC.
+[^39]: Projects, Museum of Primitive Art, Folder 1656, Box 163, NAR, RAC.
 
-[^40]: Projects, Museum of Primitive Art, Box 163, Folder 1654, NAR, RAC. Title to the stela was transferred to Guatemala in 1970.
+[^40]: Projects, Museum of Primitive Art, Folder 1654, Box 163, NAR, RAC. Title to the stela was transferred to Guatemala in 1970.
 
 [^41]: Pillsbury, “The Pan-American.”
 
@@ -208,13 +208,13 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^43]: Oral History Project Interview with Julie Jones, transcript, pp. 25–26.
 
-[^44]: This meeting is referenced in a letter from d’Harnoncourt to Rockefeller, November 1, 1967, Projects, Series L [FA348], Box 60, Folder 557, NAR, RAC. I am grateful to Ellen Hoobler for calling my attention to Thomas Hoving’s memoir, which contains an alternative, and more self-serving view of the transfer, placing the “coup” of landing the Rockefeller collection later in time. Thomas Hoving, *Making the Mummies Dance: Inside the Metropolitan Museum of Art* (Simon & Schuster, 1993), 182–4, 193–5.
+[^44]: This meeting is referenced in a letter from d’Harnoncourt to Rockefeller, November 1, 1967, Projects, Series L [FA348], Folder 557, Box 60, NAR, RAC. I am grateful to Ellen Hoobler for calling my attention to Thomas Hoving’s memoir, which contains an alternative, and more self-serving view of the transfer, placing the “coup” of landing the Rockefeller collection later in time. Thomas Hoving, *Making the Mummies Dance: Inside the Metropolitan Museum of Art* (Simon & Schuster, 1993), 182–4, 193–5.
 
 [^45]: Hoving exaggerated the success of the exhibition in comparison to MPA visitorship at times, stating that The Met’s show received more than the total number of visitors to the MPA in its lifetime. The MPA received 329,890 in the seventeen years it was open. Hoving records, Box 33, Folder 10, MMA Archive.
 
 [^46]: The Metropolitan Museum of Art, *Art of Oceania, Africa, and the Americas from the Museum of Primitive Art: An Exhibition at the Metropolitan Museum of Art* (The Metropolitan Museum of Art, 1969); Robert Goldwater, “Art of Oceania, Africa, and the Americas,” *The Metropolitan Museum of Art Bulletin* 27, no. 9 (1969): 397–410.
 
-[^47]: Rockefeller to Arthur Houghton, president of The Met, August 15, 1969, Projects, Box 164, Folder 1665, NAR, RAC.
+[^47]: Rockefeller to Arthur Houghton, president of The Met, August 15, 1969, Projects, Folder 1665, Box 164, NAR, RAC.
 
 [^48]: Originally named the Department of Primitive Art, it became the Department of the Arts of Africa, Oceania, and the Americas in 1991; it is now known simply as the Michael C. Rockefeller Wing.
 
