@@ -93,7 +93,7 @@ Records of Young-Sánchez’s activity during the decade—not only acquisitions
 
 The next director—the deeply sympathetic Katharine Lee Reid (1941–2022), daughter of Sherman Lee—created separate curatorships for Indigenous American and African arts under the sensible rationale that the areas have little to do with each other.[^54] In 2000, I assumed the Americas position, also shortly after completing a doctoral thesis about Andean textiles at Columbia University, and served in it for over two decades. I will leave to a future curator the task of summarizing my collection development activities except to say that, as in the museum’s early days, efforts focused most strongly on Andean arts, including textiles, now in an attempt to put them on more equal footing with the Mesoamerican holdings that had come to dominate the collection (fig. 18). I did so in the belief that, when possible, fine objects with pre-1970 provenance should be safeguarded and made available for study in museums while collecting standards, relationships with source countries, and guidelines for repatriation continue to evolve. A major loan exhibition that I organized, *Wari: Lords of the Ancient Andes* (2010), also concerned the central Andes.
 
-During my tenure, another full-circle moment occurred in 2022, when the museum adopted an “Indigenous Peoples and Land Acknowledgment” that, without explicitly intending to do so, renewed the museum’s 1920 resolution to foster appreciation of Indigenous American arts and the ways of thought they embody.[^55] Importantly, the acknowledgment also updated the early resolution by orienting attention as much toward people as toward art, especially building collaborative relationships with Indigenous artists and communities. In this spirit, I wrote the acknowledgment, my last official act, following the directions of a committee of local Native North American advisors, some of whom belong to historic Ohio tribes, such as the Haudenosaunee, who were driven from the state after the 1830 passage of the Indian Removal Act. The families of others, including members of Pueblo and Lakota nations, had moved to Cleveland under the auspices of the federal urban relocation programs in the 1950s through the 1970s. Since the acknowledgment was adopted, and in contrast to a decades-long pattern of neglecting Indigenous North American arts, the CMA has added several contemporary works to its collection—the first was *Survival*, a suite of color lithographs by the Salish, Shoshone, and Métis artist Jaune Quick-to-See Smith. [^56] It remains to be seen whether this refreshed and reoriented commitment will transform into an acquisition program that bypasses the world of the archaeological past to focus on the realm of the living and the present throughout the Indigenous Americas.
+During my tenure, another full-circle moment occurred in 2022, when the museum adopted an “Indigenous Peoples and Land Acknowledgment” that, without explicitly intending to do so, renewed the museum’s 1920 resolution to foster appreciation of Indigenous American arts and the ways of thought they embody.[^55] Importantly, the acknowledgment also updated the early resolution by orienting attention as much toward people as toward art, especially building collaborative relationships with Indigenous artists and communities. In this spirit, I wrote the acknowledgment, my last official act, following the directions of a committee of local Native North American advisors, some of whom belong to historic Ohio tribes, such as the Haudenosaunee, who were driven from the state after the 1830 passage of the Indian Removal Act. The families of others, including members of Pueblo and Lakota nations, had moved to Cleveland under the auspices of the federal urban relocation programs in the 1950s through the 1970s. Since the acknowledgment was adopted, and in contrast to a decades-long pattern of neglecting Indigenous North American arts, the CMA has added several contemporary works to its collection—the first was [*Survival*](https://www.clevelandart.org/art/2022.98), a suite of color lithographs by the Salish, Shoshone, and Métis artist Jaune Quick-to-See Smith. [^56] It remains to be seen whether this refreshed and reoriented commitment will transform into an acquisition program that bypasses the world of the archaeological past to focus on the realm of the living and the present throughout the Indigenous Americas.
 
 ## Final Thoughts
 
@@ -101,6 +101,11 @@ The Cleveland Museum of Art’s ancient American collection is the result of ear
 
 In contrast to some other museums, Cleveland’s collection is largely the result not of gifts, with obvious exceptions, but rather of purchases that were matters of curatorial discretion. In terms of its sources, the collection may be unusual in its midcentury dependence on a single dealer and the friendship to which that dependence owed. It also may be unusual in the involvement of so many women in its formation, Norweb first among them but also Bole, Ford, Humphreys, Ingalls, Rankin, Taft, and others. The motivations for their engagement with ancient American arts are not recorded but may have had to do, in part, with affordability, as Norweb once implied, and could also have had roots in the Euro-American tendency to affiliate women, as well as the racialized Other, with material that the West pejoratively classified as decorative arts, or crafts, including the elaborate ceramics, textiles, and personal ornaments of the Americas.[^58] It is hoped that the present volume, the first of its kind, will shed more light on these and other factors that have shaped US museum collections over the last century.
 
+## Addendum: Other Ohio Collections of Ancient American Art
+
+Among other collections in Ohio, the largest and finest is at the Dayton Art Institute. In round numbers, permanent holdings comprise 170 works of art that are supplemented by 120 objects on loan since 2000 from the foundation of the late Dayton philanthropists Harold W. and Mary Louise Shaw. The permanent collection, the result of gifts and purchases since the 1930s, incorporates a range of styles from both the Andes, including a rare Wari inlaid conch shell trumpet ([1970.32](https://daytonart.emuseum.com/objects/781/strombus-shell?ctx=1f55cca822ced08c62070fb3711085e6043e6dd6&idx=6)), and Mesoamerica, with strength in the Maya, notably a carved stone panel depicting an enthroned couple ([1970.37](https://daytonart.emuseum.com/objects/857/carved-panel-with-enthroned-nobles?ctx=b44f101b5aad2487644cee26b9de622a49d7c65a&idx=1)). The Shaw collection, which is said to have been assembled by the early 1970s, focuses first on Mesoamerica, again especially the Maya—another stone panel features a standing couple—followed by the Isthmian Region.[^59] 
+
+In the late 1980s and early 1990s, Ashland University in Ashland, Ohio, accepted several ancient American donations that have not been described but are made up at least in part of Andean ceramics. Information about the Cincinnati Art Museum’s collection is likewise limited, but holdings seem to comprise about one hundred ancient Andean objects, one-third of them acquired in an early purchase, in 1883, and the rest by subsequent gifts.[^60] Most of the 150 ceramic works at the Columbus Museum of Art represent Mesoamerican styles, especially west Mexican, some purchased in the 1980s and earlier; among several gifts are fifty works from the collection of Eva Glimcher, cofounder with her son, Arne, of New York’s Pace Gallery. The styles of the seventy objects at Oberlin College’s Allen Memorial Art Museum range from Mexican to Peruvian; half, including many fragments, belong to a study collection. The Toledo Museum of Art’s principal ancient American holdings are some eighty ceramic vessels from Panama’s Chiriquí region; the majority were donated in 1907 and come from Yale University’s Peabody Museum, which deaccessioned them as duplicates, a common early practice.[^61] This summary omits Latin American ethnographic collections.  
 
 {% backmatter %}
 
@@ -136,7 +141,7 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^14]: Wilma Salisbury, “The Flamboyant Collector,” *Cleveland Plain Dealer*, October 11, 1970, 1, p. 8-E. Norweb collected widely, but her main interest was numismatics.
 
-[^15]: In the 1950s, Samuel K. Lothrop, archaeologist at Harvard’s Peabody Museum of Archaeology and Ethnology, agreed to have Peabody staff survey the Norweb property on Panama’s Azuero Peninsula with the understanding that the CMA would receive any exhibitable ancient objects that might result. The property, however, could not be accessed. See 1951–52 Letters among Lothrop, Norweb, and Milliken, Administrative Correspondence of William M. Milliken, R. Henry and Emery May Norweb, 1930–1958, CMA Archives.
+[^15]: In the 1950s, Samuel K. Lothrop, archaeologist at Harvard’s Peabody Museum of Archaeology and Ethnology, agreed to have Peabody staff survey the Norweb property on Panama’s Azuero Peninsula with the understanding that the CMA would receive any exhibitable ancient objects that might result. The property, however, could not be accessed. See 1951–52 letters among Lothrop, Norweb, and Milliken, Administrative Correspondence of William M. Milliken, R. Henry and Emery May Norweb, 1930–1958, CMA Archives.
 
 [^16]: The count overlooks twenty-four necklaces made of restrung Andean beads.
 
@@ -172,7 +177,7 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^32]: Evan H. Turner, “Overview: 1945–58,” in Turner, *Object Lessons*, 96–100; Hawley, “Directorship of William M. Milliken,” 113.
 
-[^33]: Katharine Lee Reid, personal communication with the author, c. 2004.
+[^33]: Katharine Lee Reid, personal communication with the author, ca. 2004.
 
 [^34]: Hawley, “Directorship of William M. Milliken,” 115.
 
@@ -200,7 +205,7 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^46]: Hawley memo, ancient Americas departmental files, 1970s, CMA.
 
-[^47]: Exhibition Compendium, Turner to Mary Miller, Linda Schele, and lenders, late 1986 and early 1987, CMA Archives. The collaboration may have been prompted by the fact that the CMA and the Kimbell have companion stelas from the Maya site Waka’ (see figure 14, Kimbell AP 1970.02).
+[^47]: Exhibition Compendium, Turner to Mary Miller, Linda Schele, and lenders, late 1986 and early 1987, CMA Archives. The collaboration may have been prompted by the fact that the CMA and the Kimbell have companion stelas from the Maya site Waka’ (see figure 14, Kimbell [AP 1970.02](https://kimbellart.org/collection/ap-197002)).
 
 [^48]: Margaret Young-Sánchez, personal communication with the author, 2024.
 
@@ -214,7 +219,7 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^53]: Ibid.
 
-[^54]: Katharine Lee Reid, personal communication with the author, c. 2000.
+[^54]: Katharine Lee Reid, personal communication with the author, ca. 2000.
 
 [^55]: The acknowledgment can be found on the museum’s website, accessed September 5, 2024, <https://www.clevelandart.org/indigenous-peoples-and-land-acknowledgment>.
 
@@ -223,5 +228,11 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 [^57]: For instance, Martin Berger, “Introduction” and “Between Canon and Coincidence,” *Journal for Art Market Studies* 7, no. 1 (2023), https://fokum-jams.org.
 
 [^58]: For instance, see Elissa Auther, “The Decorative, Abstraction, and Hierarchy of Art and Craft in the Art Criticism of Clement Greenberg,” *Oxford Art Journal* 27, no. 3 (2004): 339–64.
+
+[^59]: Harmer Johnson, “Introduction,” *Dayton Art Institute, Pre-Columbian Treasures: The Harold W. Shaw Collection* (Dayton Art Institute, 2003). My thanks to Sally E. Kurtz, the institute’s registrar, for kindly supplying information about Dayton’s collection. 
+
+[^60]: This estimate comes from an unillustrated spreadsheet provided by the museum. Tamara Bray determined that most of the Ecuadorian objects at the University of Cincinnati’s Langsam Library are replicas. Personal communication with the author, 2024.
+
+[^61]: “Chiriquian Pottery,” a notice of acquisition in CMA files. 
 
 {% endbackmatter %}
