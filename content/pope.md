@@ -40,13 +40,13 @@ Following Kuh’s intention “to teach art visually,” labels and texts were e
 
 {% figure 'pope-fig-7' %}
 
-Kuh’s first installation in the Gallery of Art Interpretation was an “explanatory exhibition” that complemented the Art Institute’s 1944 exhibition on José Guadalupe Posada, the first large-scale presentation of the artist’s work in the United States (fig. 7).[^13] Described as a “condensed introductory show to familiarize patrons with the background and technique of the artist represented in the main exhibition halls,” Kuh’s exhibition provided a foundation for the general public to approach the work of Posada, a largely unknown artist.
+Kuh’s first installation in the Gallery of Art Interpretation was an “explanatory exhibition” that complemented the Art Institute’s 1944 exhibition on José Guadalupe Posada (1852–1913), the first large-scale presentation of the artist’s work in the United States (fig. 7).[^13] Described as a “condensed introductory show to familiarize patrons with the background and technique of the artist represented in the main exhibition halls,” Kuh’s exhibition provided a foundation for the general public to approach the work of Posada, a largely unknown artist.
 
 Kuh’s exhibition posed the question: “Who is Posada?” To answer, Kuh created a free-flowing space—designed with Bauhaus architect Ludwig Mies van der Rohe—organized around a series of explanatory ideas. The installation visually engaged with the audience using “blow-ups, photographs, actual objects, diagrams, and, of course, original prints” and included a variety of objects from Mexico’s past and present.[^14] Highlighting Posada’s engagement with Mexican culture, the exhibition included works of art from the country’s popular and ancient traditions; however, because the Art Institute did not have a collection of significant pre-Columbian works, several objects had to be borrowed from Chicago’s Field Museum of Natural History, including an [Aztec Coiled Rattlesnake](https://collections-anthropology.fieldmuseum.org/catalogue/1278172) (48126).[^15]
 
 ## The Eduard Gaffron Collection
 
-With her experience working with non-Western objects, Kuh understood the significance when she learned of an opportunity for the museum to acquire one of the largest collections of ancient Andean art in private hands: the Eduard Gaffron Collection. In late 1948, Kuh met Dr. Hans Gaffron, then an associate professor at the University of Chicago, who told her about his father’s collection, which he and his sister, Mercedes Gaffron, had inherited upon his death in 1931. Informed of the family’s desire to determine the future of the collection, Kuh encouraged Hans to write to Rich, the Art Institute’s director. This was the catalyst that led to the museum’s purchase of the famed Gaffron Collection and, ultimately, the establishment of a new department dedicated to Primitive Art.[^16]
+With her experience working with non-Western objects, Kuh understood the significance when she learned of an opportunity for the museum to acquire one of the largest collections of ancient Andean art in private hands: the Eduard Gaffron Collection. In late 1948, Kuh met Dr. Hans Gaffron, then an associate professor at the University of Chicago, who told her about his father’s collection, which he and his sister, Mercedes Gaffron, had inherited upon his death in 1931. Informed of the family’s desire to determine the future of the collection, Kuh encouraged Hans to write to Rich, the Art Institute’s director. This was the catalyst that led to the museum’s purchase of the famed Gaffron Collection and, ultimately, the establishment of a new department dedicated to primitive art.[^16]
 
 {% figure 'pope-fig-8', 'is-pulled-left' %}
 
@@ -54,7 +54,7 @@ Eduard Gaffron was a German doctor who lived in Peru from 1892 to 1912, during w
 
 {% figure 'pope-fig-9' %}
 
-Gaffron returned to Berlin in 1912 with his collection, which he continued to refine through sales, purchases, and exchanges, ultimately numbering in the tens of thousands.[^19] The Eduard Gaffron Collection was widely known among scholars and fellow enthusiasts and was published several times in German, English, and French, initially in 1924 by Walter Lehmann and Heinrich Ubbelohde-Doering.[^20] Gaffron donated and sold large portions of his holdings to museums and private collectors in Europe and the United States so that at the time of his death, the collection numbered approximately 1,300 objects, mostly ancient Andean ceramics but also textiles, metalwork, and stone. Because of the upheavals in Germany and restrictions placed on the export of art, when Hans left the country in 1931 the bulk of the collection remained in Germany, stored at Staatliches Museum für Völkerkunde, Munich, where it had been under the care of Ubbelohde-Doering since 1912 (fig. 9).
+Gaffron returned to Berlin in 1912 with his collection, which he continued to refine through sales, purchases, and exchanges, ultimately numbering in the tens of thousands.[^19] The Eduard Gaffron Collection was widely known among scholars and fellow enthusiasts and was published several times in German, English, and French, initially in 1924 by Walter Lehmann and Heinrich Ubbelohde-Doering.[^20] Gaffron donated and sold large portions of his holdings to museums and private collectors in Europe and the United States so that at the time of his death, the collection numbered approximately 1,300 objects, mostly ancient Andean ceramics but also textiles, metalwork, and stone. Because of the upheavals in Germany and restrictions placed on the export of art, when Hans left the country in 1931, the bulk of the collection remained in Germany, stored at Staatliches Museum für Völkerkunde, Munich, where it had been under the care of Ubbelohde-Doering since 1912 (fig. 9).
 
 Following Kuh’s suggestion, Hans wrote to Rich, asking for advice and help in getting his father’s collection out of Germany.[^21] Rich was receptive to the message, not only as a supporter of modern art but also a collector of primitive art.[^22] With help from Ubbelohde-Doering, the Gaffron Collection was shipped to Chicago and placed on long-term loan to the museum. Because none of the Art Institute’s existing curatorial departments oversaw pre-Columbian works, the loan was arranged through the department of Decorative Arts, led by curator Meyric R. Rogers, and Alan R. Sawyer, then the assistant to the curator.
 
@@ -64,9 +64,9 @@ The Art Institute introduced the Eduard Gaffron Collection to the public in a se
 
 These objects were regarded as art and installed as such: The few photographs of the exhibition show simplified casework and minimal didactics, allowing for the audience to visually engage with individual works. Furthermore, the vessels were generously spaced, with many elevated on small lifts, signaling their special status. It is also of note that these pre-Columbian works were not placed in juxtaposition to modern paintings or sculptures but were instead presented on their own.
 
-In 1953, Hans and Mercedes Gaffron explained their decision to sell to the Art Institute in a letter to Rogers.[^25] Both wanted to keep the collection together, hoping that by doing so, it would continue to have a connection to their father. In a letter to her brother that Hans shared with Rogers, Mercedes also responded positively to the Art Institute’s art-focused installation, stating: “It would please me particularly if the collection remained in Chicago with Dr. Rogers who exhibited it so prettily instead of collecting dust in a museum of natural history.”[^26]
+In 1953, Hans and Mercedes Gaffron explained their decision to sell to the Art Institute in a letter to Rogers.[^25] Both wanted to keep the collection together, hoping that by doing so it would continue to have a connection to their father. In a letter to her brother that Hans shared with Rogers, Mercedes also responded positively to the Art Institute’s art-focused installation, stating: “It would please me particularly if the collection remained in Chicago with Dr. Rogers who exhibited it so prettily instead of collecting dust in a museum of natural history.”[^26]
 
-Purchasing the Eduard Gaffron Collection was a major undertaking for the museum. If successful, the museum would need to create a new collecting area dedicated to the acquisition and display of Primitive Art. Rogers and Rich were aware of the increasing interest in non-Western art in the US and abroad by museums and private collectors, that prices for these works of art were rising, and opportunities to enter the field were limited.[^27] They advised that the purchase be finalized quickly.[^28]
+Purchasing the Eduard Gaffron Collection was a major undertaking for the museum. If successful, the museum would need to create a new collecting area dedicated to the acquisition and display of primitive art. Rogers and Rich were aware of the increasing interest in non-Western art in the US and abroad by museums and private collectors, that prices for these works of art were rising, and opportunities to enter the field were limited.[^27] They advised that the purchase be finalized quickly.[^28]
 
 ## Nathan Cummings and Chicago Collectors
 
@@ -114,7 +114,7 @@ Following the departure of Maurer in 1981, the museum hired Richard F. Townsend,
 
 {% figure 'pope-fig-16' %}
 
-With a career at the Art Institute lasting thirty-five years, Townsend had a profound impact on the museum, including organizing two major permanent collection reinstallations and six special exhibitions. At the outset, Townsend refined the collection by deaccessioning lesser quality and redundant material, including Oceanic works that had never been actively acquired.[^44] He then reinstalled the collection within three adjacent, yet separate, galleries that underscored the newly defined collecting areas: arts of Africa, the Ancient Americas, and Indigenous North American Indian (fig. 16). Recognizing the advancements of academic fields of study and the need for specialized training, a separate curatorial position was established to oversee African arts in 1987.[^45]
+With a career at the Art Institute lasting thirty-five years, Townsend had a profound impact on the museum, including organizing two major permanent collection reinstallations and six special exhibitions. At the outset, Townsend refined the collection by deaccessioning lesser quality and redundant material, including Oceanic works that had never been actively acquired.[^44] He then reinstalled the collection within three adjacent, yet separate, galleries that underscored the newly defined collecting areas: arts of Africa, the ancient Americas, and Indigenous North American Indian (fig. 16). Recognizing the advancements of academic fields of study and the need for specialized training, a separate curatorial position was established to oversee African arts in 1987.[^45]
 
 {% figure 'pope-fig-17', 'is-pulled-left' %}
 
@@ -163,7 +163,7 @@ I would like to thank Victoria Lyall and Ellen Hoobler, the staff of the Denver 
 
 [^9]: Holger Cahill, *American Sources of Modern Art* (Museum of Modern Art, 1933).
 
-[^10]: In 1954, Kuh became the Art Institute’s first curator of Modern Painting and Sculpture.
+[^10]: In 1954, Kuh became the Art Institute’s first curator of modern painting and sculpture.
 
 [^11]: Katharine Kuh, “Explaining Art Visually,” *Museum* 1, nos. 3–4 (1948): 148–55+.
 
@@ -231,7 +231,7 @@ I would like to thank Victoria Lyall and Ellen Hoobler, the staff of the Denver 
 
 [^43]: Maurer, “The Primitive Art Collection,” 14. For an insightful review of Wardwell’s impact, see Berzock, “Changing Place, Changing Face,” 159–60.
 
-[^44]: As early as 1965, the museum determined it would not pursue Oceanic art—an area where the Chicago Natural History Museum of Chicago excelled; instead, it saw opportunities for growth in African and Mesoamerican. See Wardwell, *Primitive Art in the Collections*, [i].
+[^44]: As early as 1965, the museum determined it would not pursue Oceanic art—an area where the Chicago Natural History Museum of Chicago excelled; instead, it saw opportunities for growth in African and Mesoamerican art. See Wardwell, *Primitive Art in the Collections*, [i].
 
 [^45]: The first African art curator was Ramona Austin, hired in 1987; she was followed by Kathleen Bickford Berzock in 1995 and Constantine (Costa) Petridis in 2016.
 
