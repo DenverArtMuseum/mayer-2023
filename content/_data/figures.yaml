@@ -445,14 +445,14 @@ figure_list:
     src: "figures/inline/driggers-fig-3.jpg"
     label: "Fig. 3"
     credit: "The Brummer Gallery Records, The Metropolitan Museum of Art, New York."
-    caption: "Inventory card of Moche vessel from Brummer, 1937–1944. Inscription reads, “Sold to Frederick R. Pleasants, April 10, ’44.”"
+    caption: "Inventory card of Moche vessel from Brummer, 1937–44. Inscription reads, “Sold to Frederick R. Pleasants, April 10, ’44.”"
     alt: A catalog card numbered P14013 with an image of a Peruvian ceramic vessel. It is dated October 4, 1937, and reads “Peruvian pottery, decorated in red with devils fighting warriors. Comes from the Château de la Muette. About 13” high.” Handwritten over top, it reads “Sold to Frederick R. Pleasants, April 10, ’44. $260 with a glass case.”
   
   - id: driggers-fig-4
     src: "figures/inline/driggers-fig-4.jpg"
     label: "Fig. 4"
     credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1965.32."
-    caption: "Veracruz artist(s), Stela, Mexico, 300 BC–100 CE. Stone, 47 × 8⅝ × 2¼ in. (119.4 × 21.9 × 5.7 cm)."
+    caption: "Veracruz artist(s), Stela, Mexico, 300 BCE–100 CE. Stone, 47 × 8⅝ × 2¼ in. (119.4 × 21.9 × 5.7 cm)."
     alt: A narrow dark tan stone slab with the figurine of a man carved on the uppermost portion. Beneath his feet are lightly incised markings that blend into the worn texture.
   
   - id: driggers-fig-5
