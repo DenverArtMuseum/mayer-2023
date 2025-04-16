@@ -20,7 +20,7 @@ figure_list:
   - id: rosoff-fig-4
     src: "figures/inline/rosoff-fig-4.jpg"
     label: "Fig. 4"
-    credit: "Arts of the Americas Photo Files, Brooklyn Museum."
+    credit: "Brooklyn Museum Photograph Collection."
     caption: "Mexican Hall, 1937."
   
   - id: rosoff-fig-5
@@ -31,19 +31,19 @@ figure_list:
   - id: rosoff-fig-6
     src: "figures/inline/rosoff-fig-6.jpg"
     label: "Fig. 6"
-    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2904PA."
+    credit: "Brooklyn Museum, Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2904PA."
     caption: "Rattle of a Priestess or Woman Impersonating a Deity, Campeche, Mexico, 500–850. Ceramic, 6 × 2⅝ × 1⅝ in.  (15.2 × 6.7 × 4.1 cm)."
   
   - id: rosoff-fig-7
     src: "figures/inline/rosoff-fig-7.jpg"
     label: "Fig. 7"
-    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2895PA."
+    credit: "Brooklyn Museum, Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2895PA."
     caption: "Huastec Relief Carving of a Human Face, ruins in the vicinity of Rancho de las Piedras, Tamaulipas, Mexico, 900–1250. Sedimentary rock (probably sandstone), 7¾ × 13½ × 11½ in. (19.7 × 34.3 ×  29.2 cm)."
   
   - id: rosoff-fig-8
     src: "figures/inline/rosoff-fig-8-front.jpg"
     label: "Fig. 8"
-    credit: "Brooklyn Museum: Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2897PA."
+    credit: "Brooklyn Museum, Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2897PA."
     caption: "Huastec Life-Death Figure, possibly found at the site of Chilitijú, near San Vicente Tancauyalab, San Luis Potosí, Mexico, 900–1250. Sandstone and traces of pigment, 62⅜ × 26 × 11½ in. (158.4 × 66 × 29.2 cm)."
   
   - id: rosoff-fig-9
@@ -55,19 +55,19 @@ figure_list:
   - id: rosoff-fig-10
     src: "figures/inline/rosoff-fig-10.jpg"
     label: "Fig. 10"
-    credit: "Brooklyn Museum: Gift of Mrs. Minor C. Keith in memory of  her husband, 31.1692."
+    credit: "Brooklyn Museum, Gift of Mrs. Minor C. Keith in memory of  her husband, 31.1692."
     caption: "Central Caribbean Seated Male Figure, probably Las Mercedes, Costa Rica, 1000–1550. Volcanic stone (andesite), 11¾ × 7 × 5½ in. (29.8 × 17.8 × 14 cm)."
   
   - id: rosoff-fig-11
     src: "figures/inline/rosoff-fig-11.jpg"
     label: "Fig. 11"
-    credit: "Brooklyn Museum: Alfred  W. Jenkins Fund, 34.5084."
+    credit: "Brooklyn Museum, Alfred  W. Jenkins Fund, 34.5084."
     caption: "Central Caribbean Human Figure Wearing Crocodile Mask, Jiménez River near site of Las Mercedes, Costa Rica, 700–1000. Vesicular andesite, 61 × 24½ × 20 in., 631 lb. (154.9 × 62.2 × 50.8 cm)."
   
   - id: rosoff-fig-12
     src: "figures/inline/rosoff-fig-12.jpg"
     label: "Fig. 12"
-    credit: "Brooklyn Museum: John Thomas Underwood Memorial Fund, 38.121."
+    credit: "Brooklyn Museum, John Thomas Underwood Memorial Fund, 38.121."
     caption: "Nasca Mantle, Cabeza Larga, Ica, Peru, 100–300. Cotton and camelid fiber, 24⅝ × 58¾ in. (62.5 × 149 cm)."
   
   - id: rosoff-fig-13
@@ -85,13 +85,13 @@ figure_list:
   - id: rosoff-fig-15
     src: "figures/inline/rosoff-fig-15.jpg"
     label: "Fig. 15"
-    credit: "Brooklyn Museum: By exchange, 48.22.6."
+    credit: "Brooklyn Museum, By exchange, 48.22.6."
     caption: "Aztec Seated Figure of Ehecatl, Orizaba, State of Veracruz, Mexico, 1440–1521. Volcanic stone, 11½ × 7⅛ × 6¾ in. (27.1 × 17.9 × 17 cm)."
   
   - id: rosoff-fig-16
     src: "figures/inline/rosoff-fig-16.jpg"
     label: "Fig. 16"
-    credit: "Brooklyn Museum: By exchange, 48.22.10."
+    credit: "Brooklyn Museum, By exchange, 48.22.10."
     caption: "Aztec Year Bundle, Valley of Mexico, Mexico, 1440–1521. Volcanic stone, 20½ × 11 in. (52.1 × 27.9 cm)."
   
   - id: rosoff-fig-17

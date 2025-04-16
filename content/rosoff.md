@@ -16,7 +16,7 @@ The Brooklyn Museum began actively collecting the ancient arts of the Americas i
 
 Before coming to the Brooklyn Museum, Spinden was already well known for his pioneering work on ancient Maya art and held curatorial positions at the American Museum of Natural History, Harvard’s Peabody Museum of Archaeology and Ethnology, and the Buffalo Museum of Science. Born in Huron, South Dakota, in 1879, Spinden studied anthropology and archaeology at Harvard University, culminating in a PhD in 1909.[^2] Upon his arrival at Brooklyn, he reinstalled Culin’s Rainbow House Gallery of Ethnology and commenced building the museum’s collection of prehispanic, Spanish American, and ethnographic objects from Mexico and Central and South America (fig. 2). Despite being an archaeologist, Spinden focused on the aesthetic qualities of Indigenous art and called for the desegregation of museum categories such as ethnology and fine and decorative arts.[^3] He rejected the word “primitive,” insisting that prehispanic traditions such as Andean weaving and Maya monumental architecture were superlative art forms.[^4] From 1931 until his retirement in 1950, he acquired almost eleven thousand works for the museum and went on at least seven collecting expeditions.[^5]
 
-## New York Historical
+## New-York Historical Society
 
 The first case study highlights one of the earliest collections of prehispanic works in the United States. Initially owned by the New-York Historical Society (now the New York Historical) in New York City, the collection was a product of donations from antiquities collectors during the first half of the nineteenth century and consisted of approximately 385 works from Guatemala, Mexico, Nicaragua, Panama, Peru, and the United States.[^6]
 
@@ -164,13 +164,13 @@ The author would like to thank Kim Richter, Senior Research Specialist, Getty Re
 
 [^29]:  Secretary of Dr. H. J. Spinden to Mrs. Minor Keith, December 7, 1931; Spinden to John H. Arink’s Sons, Inc., December 11, 1931, Series: Objects, Folder: Gifts: collectors [01] (05/1929 –12/1947), RG-04.03, BMLA.
 
-[^30]: Watt Stewart, *Keith and Costa Rica*: *A Biographical Study of Minor Cooper Keith* (University of New Mexico Press, 1964), 161; Herbert J. Spinden, “Ancient Gold Art in the New World,” *The American Museum Journal* 15, no. 6 (1915): 308.
+[^30]: Watt Stewart, *Keith and Costa Rica*: *A Biographical Study of Minor Cooper Keith* (University of New Mexico Press, 1964), 1, 19.
 
-[^31]: Alexander Benítez, “Minor Keith and the United Fruit Company,” in *Revealing Ancestral Central America*, ed. Rosemary A. Joyce (Smithsonian Institution, 2013), 72–73; Stewart, *Keith and Costa Rica*, 1, 54.
+[^31]: Alexander Benítez, “Minor Keith and the United Fruit Company,” in *Revealing Ancestral Central America*, ed. Rosemary A. Joyce (Smithsonian Institution, 2013), 73.
 
-[^32]: Stewart, *Keith and Costa Rica*, 142–43.
+[^32]: Herbert J. Spinden, “Ancient Gold Art in the New World,” *The American Museum Journal* 15, no. 6 (1915): 307–8
 
-[^33]: Ibid., 163.
+[^33]: Benitez, "Minor Keith and the United Fruit Company," 72.
 
 [^34]: Keith’s collection totaled 16,308 works: 15,527 specimens were recorded in the main catalog, and 881 were listed in a special catalog of gold and jade ornaments. J. Alden Mason, “Costa Rican Stonework: The Minor C. Keith Collection,” *Anthropological Papers of the American Museum of Natural History* 39, part 3 (1945): 201.
 
