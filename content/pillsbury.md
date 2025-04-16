@@ -156,7 +156,7 @@ Unless otherwise indicated, archival sources for The Metropolitan Museum of Art 
 
 [^17]: Joanne Pillsbury, “The Pan-American: Nelson Rockefeller and the Arts of Ancient Latin America,” *The Metropolitan Museum of Art Bulletin* 72, no. 1 (2014): 18–27.
 
-[^18]: Elizabeth Easby prepared two reports: The first, in 1952 (“Summary Report on M.M.A. Collection of pre-Columbian Art”), was followed by a more formal, illustrated report in 1952 {JOANNE, IS THIS SUPPOSED TO BE THE SAME YEAR AS ABOVE? IF SO, MAYBE INSTEAD: illustrated report LATER THAT YEAR} (“Works of Art in the Pre-Columbian Collection of the Metropolitan Museum of Art”). Her reports built on an earlier report by “Miss Gash,” prepared in 1942, in response to a request from the Department of State in Washington for an inventory of Latin American holdings in US museums.
+[^18]: Elizabeth Easby prepared two reports: The first, in 1952 (“Summary Report on M.M.A. Collection of pre-Columbian Art”), was followed by a more formal, illustrated report in 1956 (“Works of Art in the Pre-Columbian Collection of the Metropolitan Museum of Art”). Her reports built on an earlier report by “Miss Gash,” prepared in 1942, in response to a request from the Department of State in Washington for an inventory of Latin American holdings in US museums.
 
 [^19]: On the Easbys as collectors, see Jennifer Jolly, Gabriella Jorio, Sarah McHugh, and Kenneth Roberton, *As They Saw It: The Easby Collection of Pre-Columbian Art* (Handwerker Gallery, Ithaca College, 2015).
 
