@@ -777,13 +777,13 @@ figure_list:
   
   - id: hoobler-fig-3
     src: "figures/inline/hoobler-fig-3.jpg"
-    label: "Fig. 3"
+    label: "Fig. 4"
     credit: "Walters Art Museum Library and Archives (146797). Courtesy of the Walters Art Museum."
     caption: "Ancient American objects made of gold, purchased from Tiffany & Co., New York, ca. 1910."
   
   - id: hoobler-fig-4
     src: "figures/inline/hoobler-fig-4.jpg"
-    label: "Fig. 4"
+    label: "Fig. 3"
     credit: "Walters Art Museum Library and Archives (146697). Courtesy of the Walters Art Museum."
     caption: "Objects with snake imagery purchased from Tiffany & Co, c. 1900. "
   
@@ -827,7 +827,7 @@ figure_list:
     src: "figures/inline/hoobler-fig-11.jpg"
     label: "Fig. 11"
     credit: "Baltimore Museum of Art: Gift of Alan Wurtzburger, 1960.30.25. Photo by Mitro Hood."
-    caption: "Maskette, Mixtec, Mexico, 1200–1400. Serpentine, DIMS NEEDED."
+    caption: "Maskette, Mixtec, Mexico, 1200–1400. Serpentine, 3⅜ × 2¾ × 2¼ in. (8.5 × 7 × 5.5 cm)."
   
   - id: hoobler-fig-12
     src: "figures/inline/hoobler-fig-12.jpg"
