@@ -117,7 +117,7 @@ figure_list:
     src: "figures/inline/bergh-fig-2.jpg"
     label: "Fig. 2"
     credit: "Cleveland Museum of Art Archives 08094."
-    caption: "Charles F. Ramus, In Charge of Primitive Art, and children, 1928."
+    caption: "Charles F. Ramus, In Charge of Primitive Art (and children), 1928."
     alt: A black-and-white photograph of a man seated at a table in a marble foyer. A large group of children stand next to him and peer over his shoulder.
   
   - id: bergh-fig-3
@@ -138,7 +138,7 @@ figure_list:
     src: "figures/inline/bergh-fig-5.jpg"
     label: "Fig. 5"
     credit: "Cleveland Museum of Art: The Norweb Collection, 1940.530."
-    caption: "Cloth with Procession of Figures, Central Andes, Nasca, 170 BCE–70 CE (radiocarbon date). Cotton and camelid fiber worked in plain weave with pigment, 27½ × 110½ in. (69.8 × 280.7 cm)."
+    caption: "Cloth with Procession of Figures, Central Andes, Nazca, 170 BCE–70 CE (radiocarbon date). Cotton and camelid fiber worked in plain weave with pigment, 27½ × 110½ in. (69.8 × 280.7 cm)."
     alt: A heavily deteriorated horizontal panel cloth that depicts a procession of figures with animalistic features, facing left to right. The borders of the panel are dark red and blue while the central figures on the tan background are in shades of lighter blue and yellow.
   
   - id: bergh-fig-6
@@ -152,7 +152,7 @@ figure_list:
     src: "figures/inline/bergh-fig-7.jpg"
     label: "Fig. 7"
     credit: "John and Nora Wise Papers (SC-025), Dallas Museum of Art Archives."
-    caption: "Dealer John Wise, YEAR NEEDED."
+    caption: "Dealer John Wise."
     alt: A black-and-white photograph of a man leaning on a wooden pedestal that displays a stone sculpture of a head. He wears a formal suit and looks solemnly, directly at the camera.
   
   - id: bergh-fig-8
