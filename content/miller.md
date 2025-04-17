@@ -141,7 +141,7 @@ There was news for Earl to share as well: Another client Nasli Heeramaneck (1902
 
 >. . .
 
->The Spratling Trouble: He phoned – & came to breakfast – Tue a.m. – Said he had this stone – from Vera Cruz. Has been in a dark warehouse 2 years – René D_ _acourt was to buy it, but wired a curt, negative No. Stone in several pieces – about impossible to see. now will take $4000 for it – he & Papa each take 1⁄2 – Papa say he will buy it – sight unseen, for $4000 – trouble usually comes otherwise. But – Bill had a date at 11.30, with Emmerich – to see Stone-
+>The Spratling Trouble: He phoned – & came to breakfast – Tue a.m. – Said he had this stone – from Vera Cruz. Has been in a dark warehouse 2 years – René D_ _a count was to buy it, but wired a curt, negative No. Stone in several pieces – about impossible to see. now will take $4000 for it – he & Papa each take 1⁄2 – Papa say he will buy it – sight unseen, for $4000 – trouble usually comes otherwise. But – Bill had a date at 11.30, with Emmerich – to see Stone-
 
 >Papa say he will go halves with Emmerich – Bill departs, saying he will call in the P.M. By that time, Papa Mad. Says with all we have done for Bill – he shows stuff to others first – and as this stone has probably been peddled about – he will not take. So – when Bill called, asking us to breakfast Wed. A.M. (Westbury) Papa just say – “Too G.D. Early” and hangs up – So – we do not know the Emmerich decision. It was a Covering for an opening in a Cave – <u>very</u> heavy. Would have been something to handle – Saw a drawing – head of a tiger design – They both took “cracks” at Easby – Goldwater of Primitive – and a <u>touch</u> at Eckholm!
 
@@ -159,11 +159,11 @@ The Stendahls, too, became national and international figures. At the beginning 
 
 {% backmatter %}
 
-I would like to thank the PHAPI team, MEO & MHR, Kim Richter, and April Dammann.
+I would like to thank the PHAPI team, Megan O’Neil and Matthew Robb, Kim Richter, and April Dammann.
 
 ## Notes
 
-[^1]: Pál Kelemen’s 1943 *Medieval American Art* featured many works from the Brummer Gallery, and several of these objects would pass through Stendahl Art Galleries (SAG). Both Michael Coe’s 1966 books, *Mexico* and *The Maya*, included SAG objects, as did George Kubler’s 1962 and 1975 editions of *The Art and Architecture of Ancient America: The Mexican, Maya, and Andean Peoples*. Not only did I follow these pioneers, but many of the designations, from “Nayarit” style to “Remojadas,” devolve from market practices established by the SAG.
+[^1]: Pál Kelemen’s 1943 *Medieval American Art* featured many works from the Brummer Gallery, and several of these objects would pass through Stendahl Art Galleries (SAG). Both Michael Coe’s 1966 books, *Mexico* and *The Maya*, included SAG objects, as did George Kubler’s 1962 and 1975 editions of *The Art and Architecture of Ancient America: The Mexican, Maya, and Andean Peoples*. Not only did I follow these pioneers in my own work, but many of the designations, from “Nayarit” style to “Remojadas,” devolve from market practices established by the SAG.
 
 [^2]: Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38, box 105 (henceforth, SAG records). The family letters were scanned in early 2020, at the beginning of the global COVID-19 pandemic. Staff members across the GRI signed up to transcribe the family letters using the Zooniverse crowdsourcing program. The handwriting of the letters (they are rarely typed) is difficult to decipher, and the spelling is erratic and nonstandard, making transcription difficult. Using the Zooniverse transcription as a basis, Getty staff have begun the process of confirming transcriptions and assigning identities to individuals named in the letters. Few letters bear full dates, and most are indicated only by “Thursday” or “March 3,” but the transcription team has nevertheless been able to anchor most dates. I am grateful to the Stendahl/Dammann family for their careful retention of nearly eighty years of records and their generous donation of these records to the GRI.
 
@@ -187,7 +187,7 @@ For her book, *Exhibitionist: Earl Stendahl, Art Dealer as Impresario* (Angel Ci
 
 [^11]: N. C. Christopher Couch, *Pre-Columbian Art from the Ernest Erickson Collection at the American Museum of Natural History* (The Museum, 1988).
 
-[^12]: Some Kennedy works are in the Los Angeles County Museum of Art (LACMA) collections today. La Mar Stela 3, which he owned and had been on long-term loan to LACMA, was returned to Mexico in 2021.
+[^12]: Some Kennedy works are in the Los Angeles County Museum of Art (LACMA) collections today. La Mar Stela 3, which he owned and which had been on long-term loan to LACMA, was returned to Mexico in 2021.
 
 [^13]: This urn was published in *Pre-Columbian Art of Mexico and Central America* by Hasso Von Winning in 1968 (fig. 238). Adam Sellen drew it (KAISER 1), and it may be seen online in the “Catalogue of Zapotec Effigy Vessels,” FAMSI Recursos, 2005, http://research.famsi.org/spanish/zapotec/zapotec_list_es.php?search=glifo%20C&title=Vasijas%20Efigie%20Zapotecas&tab=zapotec.
 
