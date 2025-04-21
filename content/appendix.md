@@ -158,7 +158,7 @@ Love to all
 Dad.
 {% endaccordion %}
 
-{% figure 'miller-fig-7' %} 
+{% figure 'miller-fig-7-1' %} 
 
 {% accordion '### Fig. 7 Transcript' %}
 Thurs. P.M.

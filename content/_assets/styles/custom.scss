@@ -292,7 +292,7 @@ $root_path: "/";
 /*------------------------------------------------------------------------
  * Page customizations
  -----------------------------------------------------------------------*/
-// Quire's misunderstanding of CSS specificity strikes again.
+// Quire's (and Bulma's) misunderstanding of CSS specificity strikes again.
 // Consequently, this selector is wildly overdefined now.
 // The more time I spend in Quire, the more I want to forcibly strip out
 // all of the CSS (especially Bulma) and start over.
@@ -366,4 +366,43 @@ $root_path: "/";
 
 /*========================================================================
  * END of Page customizations
+ =======================================================================*/
+
+/*------------------------------------------------------------------------
+ * Experimental Figure customizations
+ *------------------------------------------------------------------------
+ * Problem: Images of different aspect ratios look bad in figure groups.
+ *          Tall images in half columns often look too large as well.
+ * Solution: Try to use container inline-size and block-size to limit
+ *           maximum width and height.
+ * Caveat 1: Browser support is… good? It's technically Baseline. Last
+ *           browser to add support was Firefox in 2023. Think it's safe.
+ * Caveat 2: Still doesn't solve the problem for wildly different aspect
+ *           ratios, or very tall images. But that's maybe not solvable.
+ -----------------------------------------------------------------------*/
+// Use only on screen for now. Can mess with print later
+@media screen {
+  .q-figure--group  .q-figure--image {
+    container: figgroup / inline-size;
+
+    img.q-figure__image {
+      max-height: 100cqi;
+      max-width: 100%; // equivalent to cqi but better for backward compat.
+      width: auto;
+    }
+  }
+
+  .content > .q-figure.q-figure--image {
+    container: figure / inline-size;
+
+    img.q-figure__image {
+      max-height: 100cqi;
+      max-width: 100%; // equivalent to cqi but better for backward compat.
+      width: auto;
+    }
+  }
+}
+
+/*========================================================================
+ * END of Figure customizations
  =======================================================================*/
