@@ -22,7 +22,7 @@ short_title:
 
 description:
   one_line: 
-  full: "The term *Pre-Columbian art* once described the material culture produced in the Americas, mostly south of the US-Mexico border, prior to the arrival of Europeans. Museums across the United States now refer to these departments as *the Americas* or *the ancient Americas*. Stewards of these collections in American art museums have begun to confront the changing meanings and import of what Nelson Rockefeller once described as the *Other Americas*. This symposium volume captures the history of collecting and display of ancient American works in art museums, a history surprisingly poorly documented until now."
+  full: 'The term *pre-Columbian art* once described the material culture produced in the Americas, mostly south of the US-Mexico border, prior to the arrival of Europeans. Museums across the United States now refer to these departments as art of *the Americas* or *the ancient Americas*. Stewards of these collections in American art museums have begun confronting the changing meanings and import of what Nelson Rockefeller once described as the “other Americas.” This symposium volume captures the history of collecting and display of ancient American works in art museums, a history surprisingly poorly documented until now.'
 
 # ------------------------------------------------------------------------------
 # Publication Details
@@ -87,9 +87,9 @@ contributor:
     type: secondary
     first_name: Mary E.
     last_name: Miller
-    title: Director 
-    affiliation: Getty Research Institute
-    bio: "Mary E. Miller is director of the Getty Research Institute."
+    title: Sterling Professor Emeritus of the History of Art 
+    affiliation: Yale University
+    bio: "Mary E. Miller is Sterling Professor Emeritus of the History of Art at Yale University."
   - id: jpillsbury
     type: secondary
     first_name: Joanne
@@ -115,9 +115,9 @@ contributor:
     type: secondary
     first_name: Nancy B.
     last_name: Rosoff
-    title: Andrew W. Mellon Curator and Chair of the Arts of the Americas   
+    title: Andrew W. Mellon Senior Curator of the Arts of the Americas   
     affiliation: Brooklyn Museum
-    bio: "Nancy B. Rosoff is Andrew W. Mellon Curator and Chair of the Arts of the Americas at the Brooklyn Museum."
+    bio: "Nancy B. Rosoff is Andrew W. Mellon Senior Curator of the Arts of the Americas at the Brooklyn Museum."
   - id: cheinrich
     type: secondary
     first_name: Christoph

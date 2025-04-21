@@ -16,7 +16,7 @@ The Brooklyn Museum began actively collecting the ancient arts of the Americas i
 
 Before coming to the Brooklyn Museum, Spinden was already well known for his pioneering work on ancient Maya art and held curatorial positions at the American Museum of Natural History, Harvard’s Peabody Museum of Archaeology and Ethnology, and the Buffalo Museum of Science. Born in Huron, South Dakota, in 1879, Spinden studied anthropology and archaeology at Harvard University, culminating in a PhD in 1909.[^2] Upon his arrival at Brooklyn, he reinstalled Culin’s Rainbow House Gallery of Ethnology and commenced building the museum’s collection of prehispanic, Spanish American, and ethnographic objects from Mexico and Central and South America (fig. 2). Despite being an archaeologist, Spinden focused on the aesthetic qualities of Indigenous art and called for the desegregation of museum categories such as ethnology and fine and decorative arts.[^3] He rejected the word “primitive,” insisting that prehispanic traditions such as Andean weaving and Maya monumental architecture were superlative art forms.[^4] From 1931 until his retirement in 1950, he acquired almost eleven thousand works for the museum and went on at least seven collecting expeditions.[^5]
 
-## New York Historical
+## New-York Historical Society
 
 The first case study highlights one of the earliest collections of prehispanic works in the United States. Initially owned by the New-York Historical Society (now the New York Historical) in New York City, the collection was a product of donations from antiquities collectors during the first half of the nineteenth century and consisted of approximately 385 works from Guatemala, Mexico, Nicaragua, Panama, Peru, and the United States.[^6]
 
@@ -92,7 +92,7 @@ In June 1945, Brooklyn Museum Assistant Curator Nathalie Zimmern wrote to Covarr
 
 In 1946, the new director of the National Museum, Daniel Rubín de la Borbolla (1907–1990), and Brooklyn Museum’s new director, Charles Nagel (1899–1992), corresponded regarding conditions for the exchange. Rubín de la Borbolla included photographs of the proposed National Museum objects except for a group of Monte Albán funerary offerings that were recently excavated by Alfonso Caso (1896–1970) and were still being studied; these would be added later. He also wrote that the National Museum accepted the objects offered by the Brooklyn Museum but requested the addition of a Costa Rican stone stele and a gold ornament either from Costa Rica or Panama.[^65] Nagel responded that the museum’s Governing Committee approved the conditions but requested that the period for making changes be limited to six months. He added that he and the Governing Committee were completely satisfied with the objects proposed by the National Museum (fig. 15) and that if the Brooklyn Museum’s offerings were acceptable, “I see no reason why this mutually advantageous exchange cannot be put into effect.”[^66] With Nagel’s letter in hand, Spinden immediately wrote to Rubín de la Borbolla, emphasizing the rarity of the Costa Rican stone stele and wondering if the Brooklyn Museum might obtain a large exhibition-quality piece in exchange.[^67] The Aztec Year Bundle, which did not appear on the preliminary list, was likely added at this time (fig. 16).
 
-Rubín de la Borbolla agreed to the six-month period, approving the exchange on March 4, 1947.[^68] The remaining correspondence relates to packing and shipping and final approval by Mexican President Miguel Alemán Valdés. On December 24, 1947, Spinden received a Western Union telegram from Rubín de la Borbolla saying that the crates were on their way, and on March 10, 1948, they arrived at the museum.[^69] After the Governing Committee approved the acquisition, Nagel wrote to Covarrubias and Rubín de la Borbolla, expressing how pleased the committee was and thanking Covarrubias for his assistance.[^70]
+Rubín de la Borbolla agreed to the six-month period, approving the exchange on March 4, 1947.[^68] The remaining correspondence relates to packing and shipping and final approval by Mexican President, Miguel Alemán Valdés. On December 24, 1947, Spinden received a Western Union telegram from Rubín de la Borbolla saying that the crates were on their way, and on March 10, 1948, they arrived at the museum.[^69] After the Governing Committee approved the acquisition, Nagel wrote to Covarrubias and Rubín de la Borbolla, expressing how pleased the committee was and thanking Covarrubias for his assistance.[^70]
 
 {% figuregroup '2', 'rosoff-fig-17, rosoff-fig-18' %}
 
@@ -134,7 +134,7 @@ The author would like to thank Kim Richter, Senior Research Specialist, Getty Re
 
 [^14]: B. M. Norman, *Rambles in Yucatan, or Notes of Travel Through the Peninsula, Including a Visit to the Remarkable Ruins of Chi-Chen, Kabah, Zayi, and Uxmal* (J. & H. G. Langley, 1843).
 
-[^15]: Norman, *Rambles in Yucatan*, 248–61. The author has matched eleven works in Brooklyn’s collection with Norman’s drawings, however NYHS has no record of his 1842 donation.
+[^15]: Norman, *Rambles in Yucatan*, 248–61. The author has matched eleven works in Brooklyn’s collection with Norman’s drawings; however, NYHS has no record of his 1842 donation.
 
 [^16]: Mary Miller believes that these figurines are among the earliest prehispanic works in the United States. Mary E. Miller, “Introduction: The Art of Ancient Mesoamerica, Collections Forged Before 1940,” in *Collecting Mesoamerican Art Before 1940: A New World of Latin American Antiquities*, vol. 1, ed. Andrew D. Turner and Megan E. O’Neil (Getty Research Institute, 2024), 14–15.
 
@@ -164,13 +164,13 @@ The author would like to thank Kim Richter, Senior Research Specialist, Getty Re
 
 [^29]:  Secretary of Dr. H. J. Spinden to Mrs. Minor Keith, December 7, 1931; Spinden to John H. Arink’s Sons, Inc., December 11, 1931, Series: Objects, Folder: Gifts: collectors [01] (05/1929 –12/1947), RG-04.03, BMLA.
 
-[^30]: Watt Stewart, *Keith and Costa Rica*: *A Biographical Study of Minor Cooper Keith* (University of New Mexico Press, 1964), 161; Herbert J. Spinden, “Ancient Gold Art in the New World,” *The American Museum Journal* 15, no. 6 (1915): 308.
+[^30]: Watt Stewart, *Keith and Costa Rica*: *A Biographical Study of Minor Cooper Keith* (University of New Mexico Press, 1964), 1, 19.
 
-[^31]: Alexander Benítez, “Minor Keith and the United Fruit Company,” in *Revealing Ancestral Central America*, ed. Rosemary A. Joyce (Smithsonian Institution, 2013), 72–73; Stewart, *Keith and Costa Rica*, 1, 54.
+[^31]: Alexander Benítez, “Minor Keith and the United Fruit Company,” in *Revealing Ancestral Central America*, ed. Rosemary A. Joyce (Smithsonian Institution, 2013), 73.
 
-[^32]: Stewart, *Keith and Costa Rica*, 142–43.
+[^32]: Herbert J. Spinden, “Ancient Gold Art in the New World,” *The American Museum Journal* 15, no. 6 (1915): 307–8
 
-[^33]: Ibid., 163.
+[^33]: Benitez, "Minor Keith and the United Fruit Company," 72.
 
 [^34]: Keith’s collection totaled 16,308 works: 15,527 specimens were recorded in the main catalog, and 881 were listed in a special catalog of gold and jade ornaments. J. Alden Mason, “Costa Rican Stonework: The Minor C. Keith Collection,” *Anthropological Papers of the American Museum of Natural History* 39, part 3 (1945): 201.
 
@@ -192,7 +192,7 @@ The author would like to thank Kim Richter, Senior Research Specialist, Getty Re
 
 [^43]: Ibid., 18.
 
-[^44]: Tello quoted in ibid., 3n4.
+[^44]: Tello, quoted in ibid., 3n4.
 
 [^45]: Daggett, “Paracas,” 39.
 
@@ -226,7 +226,7 @@ The author would like to thank Kim Richter, Senior Research Specialist, Getty Re
 
 [^60]: Philip N. Youtz to Herbert Spinden, July 20, 1934, Folder: Director 1930–1938, RG-04.03, Series Departmental Administration, BMLA.
 
-[^61]: Letter from Herbert Spinden to Antonio Mediz Bolio, March 29, 1937, Folder: Exchanges with National Museum of Mexico [], 06/1959–04/1964, RG-04.03, Series: Objects, BMLA.
+[^61]: Letter from Herbert Spinden to Antonio Mediz Bolio, March 29, 1937, Folder: Exchanges with National Museum of Mexico, 06/1959–04/1964, RG-04.03, Series: Objects, BMLA.
 
 [^62]: Herbert Spinden to Isabel Roberts, October 22, 1944, Box 1, Folder: Depts: American Indian Art, 1944–1945, Records of the Office of the Director Isabel Spaulding Roberts, BMLA.
 
