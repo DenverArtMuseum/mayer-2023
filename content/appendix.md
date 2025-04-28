@@ -81,7 +81,7 @@ Thats all as I want to get this and gold in mall immediately.
 Joe
 {% endaccordion %}
 
-{% figure 'miller-fig-5' %} 
+{% figure 'miller-fig-5-1' %} 
 
 {% accordion '### Fig. 5 Transcript' %}
 Arthur Cohen & wife will be in Sunday
@@ -121,7 +121,7 @@ Send large Bull wich is in my bath Room also the old man cover and whistle from 
 Dad-
 {% endaccordion %}
 
-{% figure 'miller-fig-6' %} 
+{% figure 'miller-fig-6-1' %} 
 
 {% accordion '### Fig. 6 Transcript' %}
 We
