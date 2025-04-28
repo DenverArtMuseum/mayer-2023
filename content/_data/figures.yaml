@@ -735,16 +735,30 @@ figure_list:
     caption: "Joe Damman to his father-in-law, Earl Stendahl. From Los Angeles to New York, November 19, 1963."
     alt: typed letter on white-bluish paper with handwritten signature
   
-  - id: miller-fig-5
-    src: "figures/inline/miller-fig-5.jpg"
-    label: "Fig. 5"
+  - id: miller-fig-5-1
+    src: "figures/inline/miller-fig-5-1.jpg"
+    label: "Fig. 5a"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
     caption: "Excerpt from Earl Stendahl to his wife, Enid. From New York to Los Angeles, December 12, 1964."
     alt: Handwritten letter on white paper with Stendahl Galleries letterhead
   
-  - id: miller-fig-6
-    src: "figures/inline/miller-fig-6.jpg"
-    label: "Fig. 6"
+  - id: miller-fig-5-2
+    src: "figures/inline/miller-fig-5-2.jpg"
+    label: "Fig. 5b"
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his wife, Enid. From New York to Los Angeles, December 12, 1964."
+    alt: Handwritten letter on white paper with Stendahl Galleries letterhead
+  
+  - id: miller-fig-6-1
+    src: "figures/inline/miller-fig-6-1.jpg"
+    label: "Fig. 6a"
+    credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
+    caption: "Excerpt from Earl Stendahl to his son, Al, and son-in-law, Joe Damman. From his travels to Los Angeles, February 22,1965."
+    alt: Handwritten letter on white paper with Earl L. Stendahl letterhead
+  
+  - id: miller-fig-6-2
+    src: "figures/inline/miller-fig-6-2.jpg"
+    label: "Fig. 6b"
     credit: "Stendahl Art Galleries records, circa 1880–2003, The Getty Research Institute, Los Angeles, Accession no. 2017.M.38. © J. Paul Getty Trust. Getty Research Institute, Los Angeles (2017.M.38), Gift of April and Ronald Dammann."
     caption: "Excerpt from Earl Stendahl to his son, Al, and son-in-law, Joe Damman. From his travels to Los Angeles, February 22,1965."
     alt: Handwritten letter on white paper with Earl L. Stendahl letterhead

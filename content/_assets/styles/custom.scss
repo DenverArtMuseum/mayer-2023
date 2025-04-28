@@ -373,7 +373,7 @@ $root_path: "/";
  *------------------------------------------------------------------------
  * Problem: Images of different aspect ratios look bad in figure groups.
  *          Tall images in half columns often look too large as well.
- * Solution: Try to use container inline-size and block-size to limit
+ * Solution: Try to use container inline-size and/or block-size to limit
  *           maximum width and height.
  * Caveat 1: Browser support is… good? It's technically Baseline. Last
  *           browser to add support was Firefox in 2023. Think it's safe.
@@ -382,7 +382,7 @@ $root_path: "/";
  -----------------------------------------------------------------------*/
 // Use only on screen for now. Can mess with print later
 @media screen {
-  .q-figure--group  .q-figure--image {
+  .q-figure--group .q-figure--image {
     container: figgroup / inline-size;
 
     img.q-figure__image {
