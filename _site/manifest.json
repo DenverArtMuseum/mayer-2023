@@ -1,0 +1,64 @@
+{
+  "_assets/fonts/afacad/Afacad-Italic.woff2": {
+    "file": "_assets/Afacad-Italic.woff2",
+    "src": "_assets/fonts/afacad/Afacad-Italic.woff2"
+  },
+  "_assets/fonts/afacad/Afacad.woff2": {
+    "file": "_assets/Afacad.woff2",
+    "src": "_assets/fonts/afacad/Afacad.woff2"
+  },
+  "_assets/fonts/besley/Besley-Italic.woff2": {
+    "file": "_assets/Besley-Italic.woff2",
+    "src": "_assets/fonts/besley/Besley-Italic.woff2"
+  },
+  "_assets/fonts/besley/Besley.woff2": {
+    "file": "_assets/Besley.woff2",
+    "src": "_assets/fonts/besley/Besley.woff2"
+  },
+  "_assets/fonts/sofia/SofiaSansCondensed-Italic.woff2": {
+    "file": "_assets/SofiaSansCondensed-Italic.woff2",
+    "src": "_assets/fonts/sofia/SofiaSansCondensed-Italic.woff2"
+  },
+  "_assets/fonts/sofia/SofiaSansCondensed.woff2": {
+    "file": "_assets/SofiaSansCondensed.woff2",
+    "src": "_assets/fonts/sofia/SofiaSansCondensed.woff2"
+  },
+  "_assets/images/cover-1400.jpg": {
+    "file": "_assets/cover-1400.jpg",
+    "src": "_assets/images/cover-1400.jpg"
+  },
+  "_assets/images/cover-1920.jpg": {
+    "file": "_assets/cover-1920.jpg",
+    "src": "_assets/images/cover-1920.jpg"
+  },
+  "_assets/images/cover-3000.jpg": {
+    "file": "_assets/cover-3000.jpg",
+    "src": "_assets/images/cover-3000.jpg"
+  },
+  "_assets/images/cover-800.jpg": {
+    "file": "_assets/cover-800.jpg",
+    "src": "_assets/images/cover-800.jpg"
+  },
+  "_index-0d3097ef.js": {
+    "assets": [
+      "_assets/Afacad.woff2",
+      "_assets/Afacad-Italic.woff2",
+      "_assets/Besley.woff2",
+      "_assets/Besley-Italic.woff2",
+      "_assets/SofiaSansCondensed.woff2",
+      "_assets/SofiaSansCondensed-Italic.woff2",
+      "_assets/cover-800.jpg",
+      "_assets/cover-1400.jpg",
+      "_assets/cover-1920.jpg",
+      "_assets/cover-3000.jpg"
+    ],
+    "css": [
+      "_assets/index.css"
+    ],
+    "file": "_assets/index-0d3097ef.js"
+  },
+  "index.css": {
+    "file": "_assets/index.css",
+    "src": "index.css"
+  }
+}
