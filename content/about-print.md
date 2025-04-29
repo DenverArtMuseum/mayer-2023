@@ -23,7 +23,7 @@ All rights reserved. This book may not be reproduced, in whole or in part, inclu
 
 Every reasonable effort has been made to supply complete and correct credits; if there are errors or omissions, please contact publications@denverartmuseum.org so that corrections can be addressed in the digital version. 
 
-This publication was created using Quire™, a multiplatform publishing tool created by the J. Paul Getty Trust and customized by the Denver Art Museum. 
+This publication was created using Quire™, a multiplatform publishing tool created by the J. Paul Getty Trust and customized by the Denver Art Museum. A digital version can be found at mayer2023.denartmus.org.
 
 978-1-945483-17-2 (print)
 978-1-945483-18-9 (PDF)
@@ -33,5 +33,7 @@ LCCN TK
 Managing Editor and project manager: Valerie Hellstein
 Editor: Leslie Murrell
 Curatorial Assistant: Paula Contreras
+
+The manufacturer’s authorized representative in the EU for product safety is Mare Nostrum Group B.V., Mauritskade 21D, 1091 GC Amsterdam, The Netherlands, email: gpsr@mare-nostrum.co.uk
 
 Cover image: Miguel Covarrubias, *Art Forms of the Pacific* (Pageant of the Pacific series), 1940. Print reproduction, 16 × 24 in. The Frederick R. Mayer Library at the Denver Art Museum. © María Elena Rico Covarrubias. Photography courtesy of the Denver Art Museum. 

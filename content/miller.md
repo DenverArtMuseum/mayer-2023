@@ -135,7 +135,7 @@ There was news for Earl to share as well: Another client Nasli Heeramaneck (1902
 
 ## Enid, in New York, to the family, in Los Angeles, December 1965
 
-{% figure 'miller-fig-7' %} 
+{% figure 'miller-fig-7', 'is-pulled-left' %} 
 
 >Dear Relatives-
 
