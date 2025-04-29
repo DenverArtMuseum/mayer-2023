@@ -900,8 +900,8 @@ figure_list:
     credit: "Arensberg Archives (WLA), Philadelphia Museum of Art, Library and Archives. Courtesy of the Philadelphia Museum of Art"
     caption: "Opening of *Louise and Walter Arensberg Collection in Twenty-Two New Galleries*, 1954 (PM2165D)."
   
-  - id: lyall-fig-1-fpo
-    src: "figures/inline/lyall-fig-1-fpo.jpg"
+  - id: lyall-fig-1
+    src: "figures/inline/lyall-fig-1.png"
     label: "Fig. 1"
     credit: "Image courtesy of Denver Art Museum."
     caption: "Map of US museums with comparable ancient American collections to the Denver Art Museum."
