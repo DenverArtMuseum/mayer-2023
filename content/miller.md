@@ -83,7 +83,7 @@ The key new client here is Dr. William F. Kaiser of Berkeley, who spent \$12,500
 
 Joe also describes a plan to sell the Mosaic Jaguar, a work eventually published in *Saturday Evening Post* on February 8, 1964, to accompany the article “Art from Nobody Knows Where” that detailed the rampant looting in Mexico that was feeding prominent collections in the US despite Mexican laws prohibiting it. The Mosaic Jaguar was actually a blatant forgery, and its location is not known today.
 
-{% figure 'miller-fig-5-1', 'is-pulled-left' %} 
+{% figure 'miller-fig-5', 'is-pulled-left' %} 
 
 ## Earl Stendahl, in New York, to his wife, Enid Stendahl, in Los Angeles, December 12, 1964
 
@@ -109,7 +109,7 @@ Mitchell then threw a dinner party at Lüchow’s, his famous New York establish
 
 The letter concludes with Earl’s travel schedule for the next ten days or so in Europe and a request to Enid to ship Los Angeles inventory on to New York.
 
-{% figure 'miller-fig-6-1', 'is-pulled-left' %} 
+{% figure 'miller-fig-6', 'is-pulled-left' %} 
 
 ## Earl Stendahl, from his travels to Los Angeles, to his son, Al Stendahl, and son-in-law, Joe Dammann, February 22, 1965
 
@@ -135,7 +135,7 @@ There was news for Earl to share as well: Another client Nasli Heeramaneck (1902
 
 ## Enid, in New York, to the family, in Los Angeles, December 1965
 
-{% figuregroup '2', 'miller-fig-7-1, miller-fig-7-2' %} 
+{% figure 'miller-fig-7' %} 
 
 >Dear Relatives-
 
