@@ -10,6 +10,6 @@ The term "pre-Columbian art" once described the material culture produced in the
 
 {% backmatter %}
 
-Cover image: Miguel Covarrubias, *Art Forms of the Pacific* (Pageant of the Pacific series), 1940. Print reproduction, 16 × 24 in. The Frederick R. Mayer Library at the Denver Art Museum. © Carla Gonzalez de la Fuente Rico. Photography courtesy of the Denver Art Museum. 
+Cover image: Miguel Covarrubias, *Art Forms of the Pacific* (Pageant of the Pacific series), 1940. Print reproduction, 16 × 24 in. The Frederick R. Mayer Library at the Denver Art Museum. © María Elena Rico Covarrubias. Photography courtesy of the Denver Art Museum. 
 
 {% endbackmatter %}
