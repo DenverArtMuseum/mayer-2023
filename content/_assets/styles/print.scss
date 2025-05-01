@@ -116,7 +116,7 @@ $print-trim: $print-bleed * 2;
   }
 
   @page splash {
-    background-color: $print-splash-color;
+    background-color: transparent;
   }
 
   @page splash-image {
@@ -124,7 +124,7 @@ $print-trim: $print-bleed * 2;
     margin-bottom: -$print-bleed;
     margin-left: 0;
     margin-right: 0;
-    background-color: $print-splash-color;
+    background-color: transparent;
     @bottom-right {
       content: none;
     }
@@ -180,6 +180,10 @@ $print-trim: $print-bleed * 2;
     }
   }
 
+  @page :left:blank {
+    background-color: $main-aqua;
+  }
+
   @page :blank {
     @bottom-left {
       content: none;
@@ -188,6 +192,12 @@ $print-trim: $print-bleed * 2;
       content: none;
     }
   }
+
+  /*
+  @page:nth(32) {
+    background-color: $main-aqua;
+  }
+    */
 
   h1 {
     prince-bookmark-level: 1;
@@ -352,7 +362,8 @@ $print-trim: $print-bleed * 2;
 
     @if $print-width > 7 {
       .quire-essay &,
-      .quire-entry & {
+      .quire-entry &,
+      .quire-splash & {
         column-count: 2;
         column-fill: balance;
         column-gap: .1875in;
@@ -402,6 +413,23 @@ $print-trim: $print-bleed * 2;
     @if $print-width <= 7 {
       width: $print-base-text-column-width;
       margin: 2.5in auto 0;
+    }
+  }
+
+  .quire-essay {
+    .quire-page__header {
+      &.hero {
+        break-before: right;
+        background: transparent;
+        text-shadow: none;
+
+        .hero-body {
+          color: $print-text-color;
+          .quire-page__header__title {
+            color: $main-aqua;
+          }
+        }
+      }
     }
   }
 
@@ -588,7 +616,7 @@ $print-trim: $print-bleed * 2;
 // Title Page and Half Title Page
 // -----------------------------------------------------------------------------
   .title-page {
-    page-break-before: right;
+    break-before: right;
     display: flex;
     flex-direction: column;
     justify-content: space-around;

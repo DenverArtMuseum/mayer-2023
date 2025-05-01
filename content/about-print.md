@@ -3,7 +3,7 @@ title: About
 layout: page
 order: 503
 outputs:
-  - html
+  - pdf
 ---
 
 Published by the Mayer Center for Ancient and Latin American Art at the Denver Art Museum
