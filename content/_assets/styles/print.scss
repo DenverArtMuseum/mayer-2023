@@ -26,6 +26,15 @@ $print-trim: $print-bleed * 2;
 
 @media print {
 
+// Color management for Prince
+// -----------------------------------------------------------------------------
+  @prince-pdf {
+      -prince-pdf-output-intent: url("/_assets/icc/USWebCoatedSWOP.icc");
+      -prince-fallback-cmyk-profile: url("/_assets/icc/USWebCoatedSWOP.icc");
+      -prince-pdf-color-conversion: output-intent perceptual;
+  }
+
+
 // Paged Media CSS Setup for PrinceXML
 // -----------------------------------------------------------------------------
   @page {
