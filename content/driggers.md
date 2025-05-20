@@ -154,7 +154,7 @@ In addition to thanking the editors of this volume and my fellow curators, I am 
 
 [^17]: Evon Z. Vogt, “Anthropology in the Public Consciousness,” *Yearbook of Anthropology* (1955): 370.
 
-[^18]: Frederick R. Pleasants, “Foreword,” in *Primitive Art from the Collection of Frederick R. Pleasants* (Arizona State Museum, 1962), [NEED PAGE NUMBER].
+[^18]: Frederick R. Pleasants, “Foreword,” in *Primitive Art from the Collection of Frederick R. Pleasants* (Arizona State Museum, 1962), n.p.
 
 [^19]: Kristopher Driggers, *CUMBI: Textiles, Society, and Memory in Andean South America* (Tucson Museum of Art, 2023), 73–77. On Guillermo Schmidt Pizarro, see Carolina Orsini and Anna Antonini, “Life of a Peruvian Art Collector: Guillermo Schmidt Pizarro and the Fostering of Public Collections of Pre-Hispanic Art in the First Half of the 20th Century,” in *PreColumbian Textile Conference VII,* ed. Lena Bjerregaard and Ann Peters (Zea Books 2020), 258–77.
 
