@@ -79,7 +79,7 @@ Despite constraints, a number of the collection’s most iconic works were purch
 
 During the 1970s, Hawley remained in charge of the ancient American collection, purchasing a few more of its best-known works. Except for a handful of gifts, however, acquisitions stopped after 1973 due to increasing sensitivities about collecting that culminated in the 1970 UNESCO convention on cultural property and its guidelines for diminishing the illegal traffic in antiquities.[^46] By the early 1980s, Hawley seems to have transferred care of the ancient Americas to Virginia Crawford, an assistant decorative arts curator. During his stewardship, he presided over a dramatic decline in acquisitions caused by the shifting milieu and a thinning of the ranks of the group of donors who had clustered around Milliken. But Hawley’s contributions, characterized by their great beauty and refinement, had a considerable impact on the collection.
 
-Over the next sixteen years, the museum purchased only one ancient American object, an Aztec gold warrior figurine, during the directorship of Evan H. Turner, Lee’s successor. A modernist and self-described “paintings man” whose interests lay outside the Americas, Turner nevertheless seems to have masterminded the CMA’s 1986 participation in an important ancient American exhibition organized by the Kimbell Art Museum: *The Blood of Kings: A New Interpretation of Maya Art*, one of the CMA’s most successful exhibitions of the decade and one that gave rise to a local community of Maya enthusiasts.[^47] Its popularity may have encouraged Turner to undertake the museum’s first attempt to recruit a curator trained in the ancient American specialty when Crawford, who shepherded the exhibition through its Cleveland appearance, resigned her position.[^48]
+Over the next sixteen years, the museum purchased only one ancient American object, an Aztec gold warrior figurine ([1984.37](https://www.clevelandart.org/art/collection/search?search=aztec+warrior+figurine)), during the directorship of Evan H. Turner, Lee’s successor. A modernist and self-described “paintings man” whose interests lay outside the Americas, Turner nevertheless seems to have masterminded the CMA’s 1986 participation in an important ancient American exhibition organized by the Kimbell Art Museum: *The Blood of Kings: A New Interpretation of Maya Art*, one of the CMA’s most successful exhibitions of the decade and one that gave rise to a local community of Maya enthusiasts.[^47] Its popularity may have encouraged Turner to undertake the museum’s first attempt to recruit a curator trained in the ancient American specialty when Crawford, who shepherded the exhibition through its Cleveland appearance, resigned her position.[^48]
 
 ## The Creation of a Department: Margaret Young-Sánchez (1989–99)
 
@@ -109,7 +109,7 @@ In contrast to some other museums, Cleveland’s collection is largely the resul
 
 ## Addendum: Other Ohio Collections of Ancient American Art
 
-Among other collections in Ohio, the largest and finest is at the Dayton Art Institute. In round numbers, permanent holdings comprise 170 works of art that are supplemented by 120 objects on loan since 2000 from the foundation of the late Dayton philanthropists Harold W. and Mary Louise Shaw. The permanent collection, the result of gifts and purchases since the 1930s, incorporates a range of styles from both the Andes, including a rare Wari inlaid conch shell trumpet ([1970.32](https://daytonart.emuseum.com/objects/781/strombus-shell?ctx=1f55cca822ced08c62070fb3711085e6043e6dd6&idx=6)), and Mesoamerica, with strength in the Maya, notably a carved stone panel depicting an enthroned couple ([1970.37](https://daytonart.emuseum.com/objects/857/carved-panel-with-enthroned-nobles?ctx=b44f101b5aad2487644cee26b9de622a49d7c65a&idx=1)). The Shaw collection, which is said to have been assembled by the early 1970s, focuses first on Mesoamerica, again especially the Maya—another stone panel features a standing couple—followed by the Isthmian Region.[^59] 
+Among other collections in Ohio, the largest and finest is at the Dayton Art Institute. In round numbers, permanent holdings comprise 170 works of art that are supplemented by 120 objects on loan since 2000 from the foundation of the late Dayton philanthropists Harold W. and Mary Louise Shaw. The permanent collection, the result of gifts and purchases since the 1930s, incorporates a range of styles from both the Andes, including a rare Wari inlaid conch shell trumpet ([1970.32](https://daytonart.emuseum.com/objects/781/strombus-shell?ctx=1f55cca822ced08c62070fb3711085e6043e6dd6&idx=6)), and Mesoamerica, with strength in the Maya, notably a carved stone panel depicting an enthroned couple ([1970.37](https://daytonart.emuseum.com/objects/857/carved-panel-with-enthroned-nobles?ctx=b44f101b5aad2487644cee26b9de622a49d7c65a&idx=1)). The Shaw collection, which is said to have been assembled by the early 1970s, focuses first on Mesoamerica, again especially the Maya—another stone panel features a standing couple ([L8.2001.105](https://daytonart.emuseum.com/objects/12051/carved-lintel-or-panel-with-ritual-scene?ctx=f581a3bb41a703f877bd0a776db6af6c7337a040&idx=0))—followed by the Isthmian Region.[^59] 
 
 In the late 1980s and early 1990s, Ashland University in Ashland, Ohio, accepted several ancient American donations that have not been described but are made up at least in part of Andean ceramics. Information about the Cincinnati Art Museum’s collection is likewise limited, but holdings seem to comprise about one hundred ancient Andean objects, one-third of them acquired in an early purchase, in 1883, and the rest by subsequent gifts.[^60] Most of the 150 ceramic works at the Columbus Museum of Art represent Mesoamerican styles, especially west Mexican, some purchased in the 1980s and earlier; among several gifts are fifty works from the collection of Eva Glimcher, cofounder with her son, Arne, of New York’s Pace Gallery. The styles of the seventy objects at Oberlin College’s Allen Memorial Art Museum range from Mexican to Peruvian; half, including many fragments, belong to a study collection. The Toledo Museum of Art’s principal ancient American holdings are some eighty ceramic vessels from Panama’s Chiriquí region; the majority were donated in 1907 and come from Yale University’s Peabody Museum, which deaccessioned them as duplicates, a common early practice.[^61] This summary omits Latin American ethnographic collections.  
 
@@ -147,7 +147,7 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^14]: Wilma Salisbury, “The Flamboyant Collector,” *Cleveland Plain Dealer*, October 11, 1970, 1, p. 8-E. Norweb collected widely, but her main interest was numismatics.
 
-[^15]: In the 1950s, Samuel K. Lothrop, archaeologist at Harvard’s Peabody Museum of Archaeology and Ethnology, agreed to have Peabody staff survey Norweb's property on Panama’s Azuero Peninsula with the understanding that the CMA would receive any exhibitable ancient objects that might result. The property, however, could not be accessed. See 1951–52 letters among Lothrop, Norweb, and Milliken, Administrative Correspondence of William M. Milliken, R. Henry and Emery May Norweb, 1930–1958, CMA Archives.
+[^15]: In the 1950s, Samuel K. Lothrop, archaeologist at Harvard’s Peabody Museum of Archaeology and Ethnology, agreed to have Peabody staff survey Norweb property on Panama’s Azuero Peninsula with the understanding that the CMA would receive any exhibitable ancient objects that might result. The property, however, could not be accessed. See 1951–52 letters among Lothrop, Norweb, and Milliken, Administrative Correspondence of William M. Milliken, R. Henry and Emery May Norweb, 1930–1958, CMA Archives.
 
 [^16]: The count overlooks twenty-four necklaces made of restrung Andean beads.
 
@@ -173,7 +173,7 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^27]: Coe, “From *Huaquero* to Connoisseur,” 271, 286.
 
-[^28]: Exhibition Compendium and Rambova to Milliken, December 15, 1945, CMA Archives.
+[^28]: Exhibition Compendium, Rambova to Milliken, December 15, 1945, CMA Archives.
 
 [^29]: Milliken, “The Cleveland Museum of Art Collection,” 144.
 
@@ -201,7 +201,7 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^41]: Exhibition Compendium, Milliken to Robert Woods Bliss, January 6, 1947, CMA Archives. The booklet seems to omit some of the objects that appeared in the exhibition.
 
-[^42]: Lee to Wise, September 6, 1958, Administrative Correspondence of Sherman E. Lee, Series 1, CMA Archives.
+[^42]: Administrative Correspondence of Sherman E. Lee, Series 1, Lee to Wise, September 6, 1958, CMA Archives.
 
 [^43]: Sherman E. Lee, “The Cleveland Museum of Art: 1958–1983,” in Turner, *Object Lessons*, 163–81. However, acquisition funds greatly increased in 1957 after half of Leonard Hanna’s $34 million bequest was devoted to art purchases.
 
@@ -239,6 +239,6 @@ I thank Amanda Mikolic, former curatorial assistant, and CMA archivists Leslie C
 
 [^60]: This estimate comes from an unillustrated spreadsheet provided by the museum. Tamara Bray determined that most of the Ecuadorian objects at the University of Cincinnati’s Langsam Library are replicas. Personal communication with the author, 2024.
 
-[^61]: “Chiriquian Pottery,” a notice of acquisition in CMA files. 
+[^61]: “Chiriquian Pottery,” a notice of acquisition in Toldedo Museum of Art files. 
 
 {% endbackmatter %}

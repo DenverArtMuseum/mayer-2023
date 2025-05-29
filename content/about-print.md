@@ -28,7 +28,7 @@ This publication was created using Quire™, a multiplatform publishing tool cre
 978-1-945483-17-2 (print)
 978-1-945483-18-9 (PDF)
 
-LCCN TK
+Library of Congress Control Number: 2025937624
 
 Managing Editor and project manager: Valerie Hellstein
 Editor: Leslie Murrell
