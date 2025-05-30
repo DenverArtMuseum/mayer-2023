@@ -1,6 +1,7 @@
 ---
 title: “The art of those who lived here before the white man came”
 subtitle: Collecting the Ancient Americas at the Cleveland Museum of Art
+short_title: "“The art of those who lived here before the white man came”: Collecting the Ancient Americas at the Cleveland Museum of Art"
 layout: essay
 order: 23
 contributor:

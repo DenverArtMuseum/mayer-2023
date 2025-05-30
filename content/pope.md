@@ -1,6 +1,7 @@
 ---
 title: Art Not Artifact
 subtitle: The Aesthetic Recognition of Ancient and Indigenous American Works at the Art Institute of Chicago
+short_title: "Art Not Artifact: The Aesthetic Recognition of Ancient and Indigenous American Works at the Art Institute of Chicago"
 layout: essay
 order: 24
 contributor:

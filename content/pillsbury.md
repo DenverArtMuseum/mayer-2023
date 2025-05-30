@@ -1,6 +1,6 @@
 ---
 title: Ancient American Art In and Out and Back In Again at The Met
-subtitle: 
+short_title: "Ancient American Art In and Out and Back In Again at The Met"
 layout: essay
 order: 21
 contributor:

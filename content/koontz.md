@@ -1,6 +1,6 @@
 ---
 title: James Johnson Sweeney and the Discovery of the “Other Americas” in 1960s Houston
-subtitle: 
+short_title: James Johnson Sweeney and the Discovery of the “Other Americas” in 1960s Houston
 layout: essay
 order: 26
 contributor:

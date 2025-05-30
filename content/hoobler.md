@@ -1,6 +1,7 @@
 ---
 title: Dealers, Donors, and Directors
 subtitle: Shaping Mid-Atlantic Collections of Ancient American Art in the Twentieth Century
+short_title: "Dealers, Donors, and Directors: Shaping Mid-Atlantic Collections of Ancient American Art in the Twentieth Century"
 layout: essay
 order: 22
 contributor:

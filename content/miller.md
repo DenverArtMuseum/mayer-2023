@@ -1,6 +1,7 @@
 ---
 title: All in the Details
 subtitle: The Stendahl Art Galleries and the Business of Prehispanic Art in the United States (1954–65)
+short_title: "All in the Details: The Stendahl Art Galleries and the Business of Prehispanic Art in the United States (1954–65)"
 layout: essay
 order: 29
 contributor:

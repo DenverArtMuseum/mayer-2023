@@ -710,6 +710,7 @@ body {
       @media print {
         background-color: transparent;
       }
+      /*
       > p {
         &:first-child {
           &:first-letter {
@@ -725,6 +726,7 @@ body {
           }
         }
       }
+      */
     }
   }
 }

@@ -1,6 +1,7 @@
 ---
 title: Ancient American Art in a Borderlands City
 subtitle: Collections and Community at Tucson Museum of Art
+short_title: "Ancient American Art in a Borderlands City: Collections and Community at Tucson Museum of Art"
 layout: essay
 order: 28
 contributor:

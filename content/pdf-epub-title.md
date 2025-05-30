@@ -5,16 +5,12 @@ classes:
 order: 3
 outputs:
   - pdf
-  - epub
 toc: false
 ---
 
 <section class="title-block">
 
-{%- if publication.title -%}
-  <h1 class="title">{{ publication.title | markdownify }}{% if publication.subtitle %}: {{ publication.subtitle | markdownify }}{% endif %}
-  {% if publication.reading_line %}<br /><br />{{ publication.reading_line | markdownify }}{% endif %}</h1>
-{%- endif -%}
+<h1 class="title">Collecting the<br>“Other Americas” <span class="pdf-title-page-subtitle">Ancient Americas Collections<br>in American Art Museums</span></h1>
 
 {%- if publication.contributor_as_it_appears -%}
   <p class="contributor">{{ publication.contributor_as_it_appears | markdownify }}</p>

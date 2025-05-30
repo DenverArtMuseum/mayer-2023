@@ -1,6 +1,6 @@
 ---
 title: Collecting the Ancient Americas at the Denver Art Museum
-subtitle: 
+short_title: "Collecting the Ancient Americas at the Denver Art Museum"
 layout: essay
 order: 27
 contributor:

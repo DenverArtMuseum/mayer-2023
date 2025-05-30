@@ -1,12 +1,15 @@
 ---
 title: The Ancient Americas, Curated
 subtitle: Developing Institutional Collections
+short_title: "The Ancient Americas, Curated: Developing Institutional Collections"
 layout: splash
 order: 10
 contributor:
   - id: vlyall
   - id: ehoobler
 byline_format: name
+classes:
+ - print-first-page
 ---
 
 The field of the ancient Americas, both as a discipline of art-historical study and as a collecting department within art museums in the United States, is comparatively young. Initially grouped with the social sciences, the study of ancient American aesthetics and culture emerged gradually. While it is beyond the scope of this introduction to trace the full history of the acquisition and display of these collections within US art museums, this volume is the first to bring together intertwined and local histories. Through the lens of twelve art museums, this volume offers a broad introduction to some of the key events, exhibitions, historical context, and, particularly, the people from the end of the nineteenth century to the present day that shaped this history. While recent initiatives and volumes have brought new focus on individual collectors of ancient American works, the story of their acquisition and public display within art museums is almost completely untold.[^1] There is not even a comprehensive list, as exists in other fields, of all the institutions that hold works in this area.[^2]

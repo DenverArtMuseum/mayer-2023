@@ -1,6 +1,6 @@
 ---
 title: Ancient American Art in the Gateway to the West
-subtitle: 
+short_title: "Ancient American Art in the Gateway to the West"
 layout: essay
 order: 25
 contributor: 

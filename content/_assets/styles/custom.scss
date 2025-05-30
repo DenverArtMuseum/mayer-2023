@@ -420,3 +420,186 @@ $root_path: "/";
 /*========================================================================
  * END of Contributors page
  =======================================================================*/
+
+
+@media print {
+  .title-page {
+    .title {
+      .pdf-title-page-subtitle {
+        display: block;
+        font-size: .75em;
+      }
+    }
+  }
+
+  /* Table of Contents
+  ************************************************************************/
+  @page toc {
+    @bottom-left {
+      content: none;
+    }
+
+    @bottom-right {
+      content: none;
+    }
+  }
+  .quire-page {
+    h1, h2, h3 {
+      color: $main-aqua;
+    }
+  }
+  .quire-page.quire-splash {
+    .quire-page__header {
+      .hero-body {
+        .quire-page__header__title {
+          color: $main-aqua;
+        }
+      }
+    }
+  }
+  .print-foreward-page {
+    counter-reset: page 8;
+  }
+  .print-first-page {
+    counter-reset: page 1;
+  }
+
+  .quire-page.quire-contents {
+    $counter-margin: 36pt;
+    page: toc;
+    counter-reset: page -5;
+
+    .quire-page__header.hero {
+      margin:0;
+
+      .hero-body {
+        margin:0;
+
+        .quire-page__header__title {
+          color: $main-aqua;
+          margin:0 calc(#{$counter-margin} + 21pt) .5em 0;
+          text-align: right;
+          text-transform: uppercase;
+        }
+      }
+    }
+
+    .section.quire-page__content {
+      margin:0;
+      .container {
+        display: flex;
+        flex-flow: row-reverse nowrap;
+        margin:0;
+        padding:0;
+        max-width: none;
+
+        .quire-contents-list.list {
+          margin:0;
+
+          .table-of-contents  {
+            margin:0;
+            .table-of-contents-list {
+              margin:0;
+
+              .section-item, .page-item {
+                margin: 0 0 1.325em 0;
+                padding-right: $counter-margin;
+                text-align: right;
+
+                & > a {
+                  position: relative;
+
+                  .contents-page-title {
+                    color: $main-aqua;
+                    display: inline;
+                  }
+                  .contributor {
+                    display: inline-block;
+                    &::before {
+                      content: ' | ';
+                      margin: 0 .25em;
+                    }
+                  }
+
+                  &::after {
+                    position: absolute;
+                    bottom: 0;
+                    right: calc(0 - #{$counter-margin});
+                    content: target-counter(attr(href, url), page);
+                    margin:0 0 0 $counter-margin;
+                    text-align: right;
+                    width: 21pt;
+                  }
+                }
+
+                &:first-child {
+                  & > a::after {
+                    content: 'vii'; 
+                    font-style: italic;
+                  }
+                }
+                &:nth-child(2) {
+                  & > a::after {
+                    content: 'x'; 
+                    font-style: italic;
+                  }
+                }
+                
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .q-figure.q-figure--group {
+    column-span: all;
+  }
+
+  section.footnotes.littlefoot--print {
+    break-after: page;
+  }
+  .quire-essay {
+    break-before:page;
+    .quire-page__header {
+      &.hero {
+        break-before: right;
+        background: transparent;
+        text-shadow: none;
+
+        .hero-body {
+          color: $print-text-color;
+          .quire-page__header__title {
+            color: $main-aqua;
+          }
+        }
+      }
+    }
+  }
+
+  .q-figure__label {
+    line-height:1.7;
+    height:auto; // Why was this set to 0? What purpose could that possibly serve?
+
+   .q-figure__caption a {
+      line-height: 1.7; // why was this set to 0?
+      position: unset;
+    }
+  }
+  .about-logo {
+    column-span: all;
+    max-width: 100% !important;
+    height: auto;
+    svg {
+      max-width: 100%;
+      height:auto;
+    }
+  }
+
+  /* back pocket for worst-case scenario
+  @page:nth(32) {
+    background-color: $main-aqua;
+  }
+  */
+}

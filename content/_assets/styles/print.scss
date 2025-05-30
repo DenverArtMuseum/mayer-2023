@@ -202,11 +202,7 @@ $print-trim: $print-bleed * 2;
     }
   }
 
-  /*
-  @page:nth(32) {
-    background-color: $main-aqua;
-  }
-    */
+ 
 
   h1 {
     prince-bookmark-level: 1;
@@ -236,6 +232,7 @@ $print-trim: $print-bleed * 2;
 
   // Adds page numbering with dotted leaders in PrinceXML
   // uses .pagedjs_pages class to handle fallback in Paged.js
+  /*
   .quire-contents-list {
     .section-item > a {
       max-width: 90%;
@@ -292,6 +289,7 @@ $print-trim: $print-bleed * 2;
       }
     }
   }
+  */
 
 // Assigning page types
 // -----------------------------------------------------------------------------
@@ -422,23 +420,6 @@ $print-trim: $print-bleed * 2;
     @if $print-width <= 7 {
       width: $print-base-text-column-width;
       margin: 2.5in auto 0;
-    }
-  }
-
-  .quire-essay {
-    .quire-page__header {
-      &.hero {
-        break-before: right;
-        background: transparent;
-        text-shadow: none;
-
-        .hero-body {
-          color: $print-text-color;
-          .quire-page__header__title {
-            color: $main-aqua;
-          }
-        }
-      }
     }
   }
 
@@ -722,4 +703,5 @@ $print-trim: $print-bleed * 2;
       }
     }
   }
+
 }

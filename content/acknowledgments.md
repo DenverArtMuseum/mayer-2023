@@ -1,12 +1,14 @@
 ---
 title: Acknowledgments
-subtitle: 
+short_title: " "
 layout: essay
 order: 8 
 contributor:
   - id: vlyall
   - id: ehoobler
 byline_format: name
+classes:
+  - frontmatter
 ---
 
 In 2023, Ellen and I realized a dream long deferred: We brought together in Denver many of our dearest curatorial colleagues to consider the ways that American art museums built their collections of ancient American art. People built these collections. Curators, collectors, and directors around the country influenced the choice of objects and their frame.

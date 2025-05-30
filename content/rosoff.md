@@ -1,6 +1,6 @@
 ---
 title: Nineteenth-Century Rambles in Mexico, an Itinerant Peruvian Textile, and Pan-American Cooperation at the Brooklyn Museum, 1930–50
-subtitle: 
+short_title: Nineteenth-Century Rambles in Mexico, an Itinerant Peruvian Textile, and Pan-American Cooperation at the Brooklyn Museum, 1930–50
 layout: essay
 order: 20
 contributor:
