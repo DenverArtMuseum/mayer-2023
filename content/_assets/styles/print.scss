@@ -372,7 +372,7 @@ $print-trim: $print-bleed * 2;
       .quire-entry &,
       .quire-splash & {
         column-count: 2;
-        column-fill: balance;
+        column-fill: auto;
         column-gap: .1875in;
         max-width: 100%;
         margin: 0;

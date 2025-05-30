@@ -432,6 +432,14 @@ $root_path: "/";
     }
   }
 
+  /* Attempt to fix columns on final page of section */
+  .quire-page__content {
+    .quire-essay &, .quire-entry &, .quire-splash & {
+      // Quire's default use of balance seems fundamentally wrong.
+      column-fill: auto;
+    }
+  }
+
   /* Table of Contents
   ************************************************************************/
   @page toc {
@@ -458,7 +466,7 @@ $root_path: "/";
     }
   }
   .print-foreward-page {
-    counter-reset: page 8;
+    counter-reset: page 7;
   }
   .print-first-page {
     counter-reset: page 1;
@@ -532,15 +540,9 @@ $root_path: "/";
                   }
                 }
 
-                &:first-child {
+                &:first-child, &:nth-child(2) {
                   & > a::after {
-                    content: 'vii'; 
-                    font-style: italic;
-                  }
-                }
-                &:nth-child(2) {
-                  & > a::after {
-                    content: 'x'; 
+                    content: target-counter(attr(href, url), page, lower-roman); 
                     font-style: italic;
                   }
                 }
