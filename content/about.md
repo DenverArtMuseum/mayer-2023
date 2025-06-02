@@ -6,6 +6,8 @@ outputs:
   - html
 ---
 
+A free online edition of this publication is available at mayer2023.denartmus.org and includes zoomable illustrations. A free PDF of the publication is also available to download.
+
 Published by the Mayer Center for Ancient and Latin American Art at the Denver Art Museum
 
 100 W. 14th Ave. Pkwy

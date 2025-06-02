@@ -180,7 +180,7 @@ figure_list:
     src: "figures/cmyk/bergh-fig-11.jpg"
     label: "Fig. 11"
     credit: "Cleveland Museum of Art."
-    caption: "*Art of the Americas: Picture Book Number Two*, produced on the occasion of the exhibition of the same name, 1946. 58 pages with 45 plates, 5 of them in color, 9 × 6 in. (22.86 × 15.25 cm)."
+    caption: "*Art of the Americas: Picture Book Number Two*, produced on the occasion of the exhibition of the same name, 1946. 58 pages with 45 plates, 5 in color, 9 × 6 in. (22.86 × 15.25 cm)."
     alt: "The cover of a green book titled “Art of the Americas: Picture Book Number Two.” Beneath the title there is a round black-and-white photograph of a bird-shaped metal object. At the base of the cover The Cleveland Museum of Art is written in red."
   
   - id: bergh-fig-12
