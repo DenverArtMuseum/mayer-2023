@@ -30,8 +30,6 @@ While Henry Walters’s extensive patronage of Tiffany & Co. has been documented
 
 Kunz and Tiffany’s connection to this material is important in part because, although many museums are known to have Chiriquí gold objects acquired around this time—the Museum of Fine Arts, Boston, National Museum of Natural History, Heye Foundation, Harvard’s Peabody Museum, and Yale University Art Museum, as well as several non-US museums—no one has yet traced their histories carefully to determine which of these works may have originated with Kunz.[^13]
 
-{% figure 'hoobler-fig-4', 'is-pulled-right' %}
-
 In that same year, Walters bought two Mexica (Aztec) central Mexican sculptures from the dealer Dikran Kelekian (1868–1951), who had galleries in Paris and New York.[^14] These are the only known ancient American works handled by Kelekian, but it is likely that he moved to profit from Walters’s interest. William Johnston, Walters’s curator emeritus and biographer of the Walters family, asserts that Walters’s curiosity was piqued by the French *Exposition retrospective* in the Trocadéro in 1878, at which “early Mexican terra cottas and sculptures captured the public’s imagination and conjured up such concepts as the lost content [*sic*] of Atlantis and prehistoric connections between Europe and America.”[^15]
 
 {% figure 'hoobler-fig-5', 'is-pulled-left' %}
