@@ -100,6 +100,8 @@ Joe also describes a plan to sell the Mosaic Jaguar, a work eventually published
 
 >Evidently the Dr Sackler will put up the money for these as he give the Museum of American Indian money for purchases-so you see we have been pretty busy and I am just a little tired. 
 
+{% figure 'miller-fig-5', 'is-pulled-left' %} 
+
 >Mrs Michel sent me a dozen white Roses with a nice card–and Jan Michell sent me two cases of wiskey–one case 12 bottle of scotch pinch bottles and 12 bottles of of 100 proof Old Grandad in full quarts. Also he wanted to give me a dinner at Luchos for my friends so I invited Easby & wife, Gordon Ekholm and wife Jane Powel & husband of the Brooklin Museum and Ernest and Miss Jones of the Primitive. We were also to drink all the schoch and Old Fashion with two 12.00 bottles of Rothchilds wine and caviar ect. . . .
 
 >. . . Will then go to Zurich and Lucern there Paris and back to N.Y. Have Reservation to leave N.Y. on the 23 and should be home about 7:30 P.M. Flight 11 T.W.A 
@@ -110,13 +112,15 @@ A year later, things were on the up and up; Lyndon B. Johnson had been elected p
 
 The story that Earl went on to relate to his wife is downright picaresque, a litany of key New York players in the art world: Erickson introduced Earl to Dr. Arthur Sackler (1913–1987), and they had a fine time examining works in the Stendahl apartment, particularly an
 
-{% figure 'miller-fig-5', 'is-pulled-left' %} 
-
 Amlash Bull. Sackler subsequently brought his own art consultant, Frank Caro, a Chinese specialist, to advise him. What follows points to, without fully explaining, fuzzy documentation at the National Museum of the American Indian (NMAI).[^15] Frederick Dockstader (1919–1998), director of the Museum of the American Indian, came to see Stendahl, ordered up \$10,000 worth of objects, and Dr. Sackler was said to be footing the bill. Earl considered himself lucky, especially in the gifts that his clients also sent him, suggesting the exchange economy between gallerist and collectors: Mrs. (Daniel) Michel of Chicago sent him a dozen roses, and Jan Mitchell sent him two cases of whiskey.[^16]
 
 Mitchell then threw a dinner party at Lüchow’s, his famous New York establishment near Union Square, with the Easbys and Ekholms in attendance, as well as Jane Powell (and husband) of the Brooklyn Museum, Julie Jones, curator of pre-Columbian art at the Museum of Primitive Art, and Ernest Erickson. Dudley and Elizabeth Easby (1905–1973; 1925–1992) were important figures in New York; Dudley was a Metropolitan Museum trustee, and Elizabeth would be one of the curators of *Before Cortes: Sculpture of Middle America* (1971), a signature exhibition of prehispanic art in New York. Jane Powell (1930–1993) left the Brooklyn Museum after a short stint there and is better known as Jane Dwyer from her days as director of the Haffenreffer Museum of Anthropology at Brown University. Julie Jones (1935–2021) would go on to become the head of the Department of the Arts of Africa, Oceania, and the Americas at The Met for twenty-one years and curator emeritus until her death in 2021.
 
 The letter concludes with Earl’s travel schedule for the next ten days or so in Europe and a request to Enid to ship Los Angeles inventory on to New York.
+
+<div class="dam-force-break">&nbsp;</div>
+
+{% figure 'miller-fig-6', 'is-pulled-left' %} 
 
 ## Earl Stendahl, from his travels to Los Angeles, to his son, Al Stendahl, and son-in-law, Joe Dammann, February 22, 1965
 
@@ -135,8 +139,6 @@ The letter concludes with Earl’s travel schedule for the next ten days or so i
 A few months after his letter to Enid, in early 1965, Earl took a trip to Minneapolis, Chicago, Detroit, and then returned to New York. Business was booming, and the SAG was selling all sorts of antiquities.
 
 In Minneapolis, Earl met with Samuel Sachs II (b. 1935), the deputy director, later to be director, at the Detroit Institute of Art (and then briefly at the Frick Collection), and was able to propose numerous sales. In Chicago, he visited more clientele: Raymond Wielgus (1920–2010), whose collection is now in the Eskenazi Museum at Indiana University, and the Art Institute of Chicago, where Alan Wardwell (1935–1999) was the first Curator of Primitive Art.[^17] In Detroit, Earl worked with curator Francis Robinson, selling Amlash works that the SAG purchased during the European tour. But the expensive object on offer in 1965 was a “Maya stone,” optioned for \$35,000, then reduced to \$28,000, which Earl indicated would be offered to Minnesota if Detroit took a pass. Detroit did pass; it is possible that the monument Earl
-
-{% figure 'miller-fig-6', 'is-pulled-left' %} 
 
 referred to is [Stela 2 from Piedras Negras](https://collections.artsmia.org/art/8545/stela-fragment-maya), now at the Minneapolis Museum of Art.[^18]
 
