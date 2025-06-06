@@ -7,31 +7,30 @@ order: 24
 contributor:
   - id: epope
 byline_format: name
+classes:
+  - 'essay-pope'
 ---
 
 {% figure 'pope-fig-3', 'is-pulled-left' %}
 
 The Art Institute of Chicago’s building is a remnant of the city's 1893 World’s Columbian Exposition, which celebrated the 400th anniversary of Christopher Columbus’s voyage to the Americas. Columbus’s arrival in the “New World” was framed as a decisive moment within an overarching vision of a uniquely American cultural and industrial progress (fig. 1). The organizers sought to reveal the foundation of modern America through the scientific study of its “Native peoples.”[^1] The Exposition offered many their first engagement with ancient and Indigenous Americas through archaeology and ethnographic displays, as well as replicas of ancient sculpture and architecture recently discovered in Mexico and Central America (fig. 2).
 
-{% figure 'pope-fig-2' %}
-
 The artifacts gathered for the Exposition became the founding collection for the new Columbian Museum of Chicago (later the Field Museum of Natural History, Chicago Natural History Museum, and finally the Field Museum), while the Art Institute would move into the headquarters of the World’s Congress Auxiliary in the heart of Chicago. Manifesting the ideal “White City” presented by the Exposition, this Beaux-Art building has a facade etched with the names of Western history’s most important painters, sculptors, and architects—asserting itself as an art institution in the classical European model. The collections of the Art Institute long reflected this perspective, with no interest in works from the ancient or Indigenous Americas. Exhibiting pre-Columbian and North American objects in natural history or anthropological institutions, rather than an art museum, was the standard practice of the day; it would take several decades until these “artifacts” were regarded as “art” and displayed alongside other celebrated artistic traditions.
 
 ## Modest Gifts and Industrial Inspiration
-
-{% figure 'pope-fig-4', 'is-pulled-left' %}
 
 Few ancient or Indigenous American objects entered the Art Institute’s permanent collection during the fifty years after its founding in 1879. They typically were modest gifts from civic-minded local philanthropists, such as the assortment of broken clay figures, earflares, and spindle whorls from ancient Mexico given in 1907—the first works from Mesoamerica acquired by the museum (fig. 3). With no curatorial department dedicated to the collection and display of these works, most were placed within the Decorative Arts department, “all but forgotten in various storerooms.”[^2]
 
 One of the Art Institute’s earliest displays of ancient American objects was the addition of Andean textile fragments to a “History of Textiles” installation in 1930. Bessie Bennett—then curator of Decorative Arts—explained that including textiles from “our own hemisphere” would be “of great service not only to art students but to manufacturers who seek inspiration for new patterns and color schemes.”[^3]
 
+{% figure 'pope-fig-2' %}
+{% figure 'pope-fig-4', 'is-pulled-left' %}
+
+{% figuregroup '2', 'pope-fig-5, pope-fig-6' %}
+
 ## Katharine Kuh and the Aesthetics of “Primitive Art”
 
-{% figure 'pope-fig-5', 'is-pulled-left' %}
-
 Although the introduction of modern art to Chicago was fraught, it was through early-twentieth-century modernism—specifically the interest in the aesthetics of “primitive art”—that ancient and Indigenous American works of art gained their place at the Art Institute.[^4] Katharine Kuh (1904–1994) was essential to bringing modern avant-garde artists and non-Western art to the attention of the city and the museum (fig. 4). Kuh’s desire to be a pioneer led her to a career as a gallerist, art educator, curator, art consultant, and critic, specializing in modern art.[^5] She learned about a new approach to teaching and displaying art through Alfred H. Barr Jr., with whom Kuh took an art history class during college. Barr, the founding director of the Museum of Modern Art (MoMA; 1929–40), would become Kuh’s mentor and collaborator.[^6] His advocacy of art of the day, visually focused methods for teaching art, explorations of the aesthetic connections between modern and non-Western art, and formalist approach to art installation were fundamental to Kuh’s own practice.[^7]
-
-{% figure 'pope-fig-6', 'is-pulled-right' %}
 
 In 1935, Kuh opened the first commercial gallery in Chicago devoted to avant-garde artists (fig. 5). Contemporary works were often juxtaposed with “various kinds of primitive art,” reflecting a modernist perspective in which non-Western art was embraced as a source of visual inspiration and authenticity.[^8] Kuh’s gallery opened just two years after MoMA’s influential exhibition *American Sources of Modern Art*, which presented pre-Columbian objects as works of art in an art museum through a formalist, aesthetic appreciation.[^9]
 
@@ -39,43 +38,45 @@ Kuh found it difficult to find buyers for the avant-garde in conservative Chicag
 
 Following Kuh’s intention “to teach art visually,” labels and texts were eliminated as much as possible, encouraging direct, uninterrupted, visual engagement with individual works of art.[^11] The Gallery of Art Interpretation also “focus[ed] on the art of the present and recent past and [related] it not just to the history of western art but to that of other cultures (oriental, pre-Columbian, African, folk, etc.).”[^12] Audiences were introduced to visual vocabularies different than traditionally used in Western art, inviting consideration of color, texture, and space.
 
-{% figure 'pope-fig-7' %}
-
 Kuh’s first installation in the Gallery of Art Interpretation was an “explanatory exhibition” that complemented the Art Institute’s 1944 exhibition on José Guadalupe Posada (1852–1913), the first large-scale presentation of the artist’s work in the United States (fig. 6).[^13] Described as a “condensed introductory show to familiarize patrons with the background and technique of the artist represented in the main exhibition halls,” Kuh’s exhibition provided a foundation for the general public to approach the work of Posada, a largely unknown artist.
 
 Kuh’s exhibition posed the question: “Who is Posada?” To answer, Kuh created a free-flowing space—designed with Bauhaus architect Ludwig Mies van der Rohe—organized around a series of explanatory ideas. The installation visually engaged with the audience using “blow-ups, photographs, actual objects, diagrams, and, of course, original prints” and included a variety of objects from Mexico’s past and present.[^14] Highlighting Posada’s engagement with Mexican culture, the exhibition included works of art from the country’s popular and ancient traditions; however, because the Art Institute did not have a collection of significant pre-Columbian works, several objects had to be borrowed from Chicago’s Field Museum of Natural History, including an Aztec *Coiled Rattlesnake* ([48126](https://collections-anthropology.fieldmuseum.org/catalogue/1278172)).[^15]
+
+{% figure 'pope-fig-7' %}
 
 ## The Eduard Gaffron Collection
 
 With her experience working with non-Western objects, Kuh understood the significance when she learned of an opportunity for the museum to acquire one of the largest collections of ancient Andean art in private hands: the Eduard Gaffron Collection. In late 1948, Kuh met Dr. Hans Gaffron, then an associate professor at the University of Chicago, who told her about his father’s collection, which he and his sister, Mercedes Gaffron, had inherited upon his death in 1931. Informed of the family’s desire to determine the future of the collection, Kuh encouraged Hans to write to Rich, the Art Institute’s director. This was the catalyst that led to the museum’s purchase of the famed Gaffron Collection and, ultimately, the establishment of a new department dedicated to primitive art.[^16]
 
-{% figure 'pope-fig-8', 'is-pulled-left' %}
+Eduard Gaffron was a German doctor who lived in Peru from 1892 to 1912, during which time he actively collected ancient
 
-Eduard Gaffron was a German doctor who lived in Peru from 1892 to 1912, during which time he actively collected ancient Peruvian works (fig. 7). Most of his collection likely was purchased through an informal market of looted objects; some may have been acquired during unofficial excavations or by exchange in lieu of payment for his medical services.[^17] While ancient Peruvian art and culture was generally overlooked at the time, Gaffron’s interest would have suited his status in Peru where, by the mid-nineteenth century, “the display of antiquities in parlors and salons was confined to the highest strata of Lima society . . . to own and to display antiquities, to bring them out and show them to one’s guests after dinner, appears to have constituted an element of elite sociability in the city of Lima.”[^18]
+Peruvian works (fig. 7). Most of his collection likely was purchased through an informal market of looted objects; some may have been acquired during unofficial excavations or by 
 
-{% figure 'pope-fig-9' %}
+{% figuregroup '2', 'pope-fig-8, pope-fig-9' %}
+
+exchange in lieu of payment for his medical services.[^17] While ancient Peruvian art and culture was generally overlooked at the time, Gaffron’s interest would have suited his status in Peru where, by the mid-nineteenth century, “the display of antiquities in parlors and salons was confined to the highest strata of Lima society . . . to own and to display antiquities, to bring them out and show them to one’s guests after dinner, appears to have constituted an element of elite sociability in the city of Lima.”[^18]
 
 Gaffron returned to Berlin in 1912 with his collection, which he continued to refine through sales, purchases, and exchanges, ultimately numbering in the tens of thousands.[^19] The Eduard Gaffron Collection was widely known among scholars and fellow enthusiasts and was published several times in German, English, and French, initially in 1924 by Walter Lehmann and Heinrich Ubbelohde-Doering.[^20] Gaffron donated and sold large portions of his holdings to museums and private collectors in Europe and the United States so that at the time of his death, the collection numbered approximately 1,300 objects, mostly ancient Andean ceramics but also textiles, metalwork, and stone. Because of the upheavals in Germany and restrictions placed on the export of art, when Hans left the country in 1931, the bulk of the collection remained in Germany, stored at Staatliches Museum für Völkerkunde, Munich, where it had been under the care of Ubbelohde-Doering since 1912 (fig. 8).
 
 Following Kuh’s suggestion, Hans wrote to Rich, asking for advice and help in getting his father’s collection out of Germany.[^21] Rich was receptive to the message, not only as a supporter of modern art but also a collector of primitive art.[^22] With help from Ubbelohde-Doering, the Gaffron Collection was shipped to Chicago and placed on long-term loan with the museum. Because none of the Art Institute’s existing curatorial departments oversaw pre-Columbian works, the loan was arranged through the department of Decorative Arts, led by curator Meyric R. Rogers, and Alan R. Sawyer, then the assistant to the curator.
 
-{% figure 'pope-fig-10', 'is-pulled-right' %}
-
 The Art Institute introduced the Eduard Gaffron Collection to the public in a series of special exhibitions beginning in April 1952 (fig. 9). The news release referred to the works as “treasures,” emphasizing their aesthetic qualities and artistic excellence.[^23] A typescript description of the exhibition asserts the Art Institute’s role as an art museum in its presentation of this previously overlooked area: “The current exhibition is designed to bring out the artistic significance of the material rather than its historical or archaeological meaning.”[^24]
 
 These objects were regarded as art and installed as such: Photographs of the exhibition show simplified casework and minimal didactics, allowing for the audience to visually engage with individual works. Furthermore, the vessels were generously spaced, with many elevated on small lifts, signaling their special status. It is also of note that these pre-Columbian works were not placed in juxtaposition to modern paintings or sculptures but were instead presented on their own.
 
-In 1953, Hans and Mercedes Gaffron explained their decision to sell to the Art Institute in a letter to Rogers.[^25] Both wanted to keep the collection together, hoping that by doing so it would continue to have a connection to their father. In a letter to her brother that Hans shared with Rogers, Mercedes also responded positively to the Art Institute’s art-focused installation, stating: “It would please me particularly if the collection remained in Chicago with Dr. Rogers who exhibited it so prettily instead of collecting dust in a museum of natural history.”[^26]
+In 1953, Hans and Mercedes Gaffron explained their decision to sell to the Art Institute in a letter to Rogers.[^25] Both wanted to keep the collection together, hoping that by doing so it would continue to have a connection to their father. In a letter to her brother that Hans
+
+{% figure 'pope-fig-10', 'is-pulled-right' %}
+
+shared with Rogers, Mercedes also responded positively to the Art Institute’s art-focused installation, stating: “It would please me particularly if the collection remained in Chicago with Dr. Rogers who exhibited it so prettily instead of collecting dust in a museum of natural history.”[^26]
 
 Purchasing the Eduard Gaffron Collection was a major undertaking for the museum. If successful, the museum would need to create a new collecting area dedicated to the acquisition and display of primitive art. Rogers and Rich were aware of the increasing interest in non-Western art in the US and abroad by museums and private collectors, that prices for these works of art were rising, and opportunities to enter the field were limited.[^27] They advised that the purchase be finalized quickly.[^28]
 
+{% figuregroup '2', 'pope-fig-11, pope-fig-12' %}
+
 ## Nathan Cummings and Chicago Collectors
 
-{% figure 'pope-fig-11', 'is-pulled-left' %}
-
 One influential group encouraging the Art Institute to establish a new department for primitive art was Chicago collectors, particularly those with an interest in modern art and collections that included non-Western works. While the Art Institute was pursuing the Gaffron Collection, Nathan Cummings, a Chicago businessman who had an important collection of paintings and sculptures from the mid-nineteenth century to contemporary works, purchased another major private collection of ancient Andean art, the Wasserman-San Blas Collection (fig. 10). As B. J. Wassermann-San Blas explained in the preface to his 1938 catalog, his collection—totaling approximately 1,500 objects—was begun by his maternal grandmother during a visit to Peru a century before, to which he added through unauthorized excavations and purchases on the open market.[^29] In 1954, Wassermann-San Blas offered the works for sale to several private collectors, including Cummings. Cummings had known the seller for years and—after some consideration and a drop in price—he purchased the collection that spring.[^30]
-
-{% figure 'pope-fig-12', 'is-pulled-right' %}
 
 Later that year, Cummings lent nearly two hundred ancient Andean ceramics to the Art Institute for a special exhibition that would later travel to museums in the US, Canada, France, and Italy. Cummings worked with Sawyer—then the Assistant Curator of Decorative Arts—to produce “a handbook” of his newly acquired collection, rebranding it as *The Nathan Cummings Collection of Ancient Peruvian Art* (fig. 11). In the introduction to the small catalog, Cummings stated that his interest in ancient Andean works was as a collector of modern art: “Although most of the pottery was made more than a thousand years ago, by Indians whose tribal names are strange to our ears, it is so pleasing to the modern eye that it stands as a challenge to the work of today’s artists.”[^31]
 
@@ -93,49 +94,45 @@ Sawyer—who was selected as the first curator of the new Primitive Art departme
 
 One difficulty faced by the new department was the collections’ lack of depth and breadth, with approximately 1,500 ancient Andean ceramics and textiles supplemented by fewer than one hundred works from other culture areas. At the first meeting of the committee, members recognized that the ancient Andean works numbered far in excess of what could be displayed and decided that “only the finest objects were to be retained, the balance traded or sold to dealers, collectors, and museums in order to acquire additional objects of top quality.”[^37] Over the course of subsequent meetings, Sawyer and the committee reviewed the Gaffron Collection holdings, identifying works for possible disposal.
 
-Sawyer would leave the museum in 1959, so the final dispersal of “surplus” Andean works would fall to Allen Wardwell, who was appointed as the Assistant Curator of the Primitive Art department in 1960. Although trained in decorative arts, Wardwell’s master’s thesis focused on Polynesian art, and he previously had worked on an African sculpture exhibition at the Museum of Primitive Art. In 1961, the committee authorized the exchange of ancient Andean ceramics, gold, and featherwork with the Denver Art Museum, Milwaukee Public Museums, Field Natural History Museum, and the New York dealer Henri Kamer for works of art from Oceania, Africa, and North American works in their collections.[^38]
+{% figuregroup '2', 'pope-fig-13, pope-fig-14' %}
 
-{% figure 'pope-fig-13' %}
+Sawyer would leave the museum in 1959, so the final dispersal of “surplus” Andean works would fall to Allen Wardwell, who was appointed as the Assistant Curator of the Primitive Art department in 1960. Although trained in decorative arts, Wardwell’s master’s thesis focused on Polynesian art, and he previously had worked on an African sculpture exhibition at the Museum of Primitive Art. In 1961, the committee authorized the exchange of ancient Andean ceramics, gold, and featherwork with the Denver Art Museum, Milwaukee Public Museums, Field Natural History Museum, and the New York dealer Henri Kamer for works of art from Oceania, Africa, and North American works in their collections.[^38]
 
 As the department continued to seek opportunities to expand its holdings, it continued to rely on loans from local private collectors and the Chicago Natural History Museum. This arrangement was made explicit with the first major exhibition organized by the department, *Primitive Art from Chicago Collections*, which opened at the end of 1960 (fig. 12). In the exhibition catalog, Wardwell remarked that more than 250 objects had been loaned from fifty-three sources, demonstrating “the widespread interest in the so-called ‘primitive arts’ in Chicago,” yet most lenders had only a few pieces in their collections.[^39] He also acknowledged “the most important collection of primitive art in Chicago is the vast amount of material collected from an anthropological standpoint by the Chicago Natural History Museum.”[^40]
 
 Emphasizing the aesthetics of the works, the installation of *Chicago Collections* was stark, with wide open spaces. This allowed works from different cultures, regions, and time periods to be seen in a single glance, which reinforced the assumption of a cohesive category of primitive art. Discreetly placed area maps and minimal didactic texts offered little distraction to visual engagement with the objects, but they provided only minimal guidance for the audience.
 
-{% figure 'pope-fig-14' %}
-
 The focus on individual works of art and their formal qualities was also the design approach in the early permanent collection galleries. A photograph from the 1960s shows a decontextualized, modernist display, featuring simple casework, a small selection of works, and minimal text (fig. 13). A later description of the early primitive art installation suggests that, due to the limitations of the space allocated to the collection, artwork was displayed according to size rather than style or place of origin, prioritizing visual and formal inquiry over contextual.[^41]
-
-{% figure 'pope-fig-15', 'is-pulled-right' %}
 
 Even with limited funds, the young department made purchases to better present the breadth of its collecting areas, selecting singular masterpieces that would act as keystones for the collection. In the 1960s, works from across the ancient Americas were acquired, including the Teotihuacan *Mural Fragment* ([1962.702](https://www.artic.edu/artworks/14968/mural-fragment-depicting-a-maguey-bloodletting-ritual)), Coclé *Pedestal Bowl* ([1963.389](https://www.artic.edu/artworks/17490/pedestal-bowl-depicting-an-anthropomorphic-saurian-figure)), Chimú *Tumi* ([1963.841](https://www.artic.edu/artworks/18757/ceremonial-knife-tumi)), and Maya *Ballplayer Panel* ([1965.407](https://www.artic.edu/artworks/110246/chak-ak-paat-kuy-red-turkey-playing-the-ballgame)). In 1965, the department published its first collection catalog, *Primitive Art in the Collections of The Art Institute of Chicago*, a small book featuring eighty works from across non-Western cultures (fig. 14). In his introduction, Wardwell acknowledged that “these collections will never attain the wealth and depth of those in older and better endowed institutions,” however, he hoped that, in some small way, “representation of the great artistic achievements of these exotic cultures can be imparted to those who visit the Art Institute of Chicago.”[^42]
 
-The succeeding curator of the department, Evan Maurer, fundamentally transformed how the collection was presented, reflecting increased specialization in academia and research in the field.[^43] Although Maurer was trained as a modernist with little experience with primitive art, his 1978 reinstallation of the permanent collection galleries moved away from generalized and formalist displays. Instead, he offered a deeper understanding of the works of art by situating them within their specific cultural contexts. The collection also was relocated to larger galleries, allowing for separate installations of the three primary culture areas: Americas, Oceania, and Africa. Each was further organized according to region, style, and medium. Juxtapositions of artworks were used to highlight similar motifs across media within a single culture and to demonstrate differences in regional art styles. To further emphasize the vast diversity of the department’s holdings within the distinct collecting areas, Mauer changed the name of the department to Africa, Oceania, and the Americas.
+The succeeding curator of the department, Evan Maurer, fundamentally transformed how the collection was presented, reflecting increased specialization in academia and research in the field.[^43] Although Maurer was trained as a modernist with little experience with primitive art, his 1978 reinstallation of the permanent collection galleries moved away from generalized and formalist displays. Instead, he offered a deeper understanding of the works of art by situating them within their specific cultural contexts. The collection also was relocated to larger galleries, allowing for separate installations of the three primary culture areas: Americas, Oceania, and Africa. Each was further organized according to region, style, and medium. Juxtapositions of artworks were used to highlight similar motifs across media within a single culture and to demonstrate differences in
+
+{% figure 'pope-fig-15', 'is-pulled-right' %}
+
+regional art styles. To further emphasize the vast diversity of the department’s holdings within the distinct collecting areas, Mauer changed the name of the department to Africa, Oceania, and the Americas.
 
 Following the departure of Maurer in 1981, the museum hired Richard F. Townsend, the first curator of the department trained in anthropology and art history whose expertise was in the arts of the Americas, having conducted fieldwork and studies in the US Southwest, Mexico, and Peru. However, two principles of Townsend’s work resonated with earlier approaches to ancient and Indigenous American objects at the museum: the prioritization of aesthetic excellence and visual engagement with individual works of art and the concept of a unifying sacred world view shared by the diverse cultures of the Americas.
 
-{% figure 'pope-fig-16' %}
+{% figuregroup '2', 'pope-fig-16, pope-fig-17' %}
 
 With a career at the Art Institute lasting thirty-five years, Townsend had a profound impact on the museum, including organizing two major permanent collection reinstallations and six special exhibitions. At the outset, Townsend refined the collection by deaccessioning lesser quality and redundant material, including Oceanic works, an area that had never been actively acquired.[^44] He then reinstalled the collection within three adjacent, yet separate, galleries that underscored the newly defined collecting areas: arts of Africa, the ancient Americas, and Indigenous North American Indian (fig. 15). Recognizing the advancements of academic fields of study and the need for specialized training, a separate curatorial position was established to oversee African arts in 1987.[^45]
-
-{% figure 'pope-fig-17', 'is-pulled-left' %}
 
 The 1992 special exhibition *The Ancient Americas: Art from Sacred Landscapes* reflected Townsend’s approach to the arts and cultures of the Americas (fig. 16). This exhibition explored the essential integration of human society with the sacred natural world. As Townsend explained: “The gallery presentation was designed to show that art, architecture, and ritual were engaged in religious dialogue with the deified forms of earth, sky, and water. We intended to show that the visual arts played an active role in the ritual cycle of natural and social renewal.”[^46]
 
 Held during the quincentenary of Columbus’s arrival in North America, the exhibition did not address European impact on the Americas; instead, it showcased the great diversity and artistic accomplishment of the pre-Columbian past. The installation presented 280 objects from twenty-four cultures, contextualized by large-scale photographs of natural environments and man-made structures—the “sacred landscapes” of the exhibition theme. Although some argued that the conceptual underpinning was lacking from the exhibition, others observed that the installation invited aesthetic appreciation of the works: As one reviewer noted, “Those who put quality first can also rejoice, for there is little in this exhibition . . . that does not rivet the eye.”[^47]
 
-{% figure 'pope-fig-18' %}
+{% figuregroup '2', 'pope-fig-18, pope-fig-19' %}
 
 I joined the department in 2005, working alongside Townsend until his retirement in 2016. One major project during this time was the 2011 reinstallation of the permanent collection into much larger galleries (fig. 17).[^48] Renamed “Indian Arts of the Americas,” the collection included traditional works of art founded in ancient and Indigenous customs and practices united by a shared world view. The galleries presented a wide range of works in a large open space, loosely divided into three sections, one for each of three major culture areas. A centrally placed text explained the connection between communities and the sacred world—a theme reinforced by a video displaying landscapes, ritual, and architecture—while a map of the hemisphere noted the location of the diverse cultures: North American, Mesoamerican, and Andean.[^49] Although organized by geographic region and culture, open passages between each section allowed visitors to see the broad scope of the collection, encouraging audiences to make visual connections across culture, time, and space. 
 
 Casework was designed to be unobtrusive, and didactics were kept to a minimum and separated from the objects, removing distraction and distance between the visitor and the artwork. Townsend stated: “Our emphasis here is rather to bring out the masterpieces . . . and to display these in a way that they can speak for themselves in terms of their formal qualities—form, color, and shape.”[^50]
 
-{% figure 'pope-fig-19', 'is-pulled-right' %}
-
 The culmination of Townsend’s work at the museum was the publication of a collection catalog, the first since Wardwell’s in 1965 (fig. 18).[^51] Although the book presents over 350 individual works of art, each discussed within their specific cultural context, Townsend’s vision of a unified American sacred worldview connects them all.
 
-## A New Perspective: Arts of the Americas
-
 {% figure 'pope-fig-20', 'is-pulled-left' %}
+
+## A New Perspective: Arts of the Americas
 
 In 2020, one of the last traces of the departments’ “primitive art” origins was ended, as the arts of Africa and the arts of ancient and Indigenous Americas were separated and placed in different curatorial departments. The American objects joined with what previously was known as American Art—works made in the US from the seventeenth to twentieth centuries—in a newly conceived Arts of the Americas department. Currently, under the curatorship of Andrew Hamilton, the museum has also broadened its collecting of Indigenous American art to include contemporary artists and their works. This reorganization and expanded definition of American art has resulted in the integration of Indigenous arts into the American art galleries, offering dialogue among diverse works in the collection from across the hemisphere and enabling new and more complex narratives (fig. 19).[^52]
 

@@ -510,7 +510,7 @@ $print-trim: $print-bleed * 2;
     }
     .q-figure__caption {
       color: $print-entry-caption-color;
-      font-size: .75rem;
+      font-size: .625rem;
       margin-top: .5rem;
       max-width: $print-base-text-column-width;
       &-embed-link a {

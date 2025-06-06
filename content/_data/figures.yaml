@@ -275,7 +275,7 @@ figure_list:
     alt: A black-and-white photograph of a study room, where people stand near cabinets and sit at tables, studying various textiles.
   
   - id: pillsbury-fig-7
-    src: "figures/cmyk/pillsbury-fig-7-install.jpg"
+    src: "figures/cmyk/pillsbury-fig-7.jpg"
     label: "Fig. 7"
     credit: "Photograph courtesy of the National Gallery of Art Archives (26B5_57_014)."
     caption: "Ambassador Eduardo Zuleta Ángel of Colombia (third from left) with Elizabeth Easby (center) and Dudley Easby (far right) at the opening of the exhibition *Masterpieces of Pre-Columbian Gold*, National Gallery of Art, 1954."
@@ -901,7 +901,7 @@ figure_list:
     caption: "Opening of *Louise and Walter Arensberg Collection in Twenty-Two New Galleries*, 1954 (PM2165D)."
   
   - id: lyall-fig-1
-    src: "figures/cmyk/lyall-fig-1.png"
+    src: "figures/cmyk/lyall-fig-1.jpg"
     label: "Fig. 1"
     credit: "Image courtesy of Denver Art Museum."
     caption: "Map of US museums with comparable ancient American collections to the Denver Art Museum."
@@ -957,7 +957,7 @@ figure_list:
     alt: A town scene with farm animals grazing and lounging in front of homes and a synagogue and church in the middle ground. In the background, more buildings nestle into the mountainous terrain.
   
   - id: lyall-fig-9
-    src: "figures/cmyk/lyall-fig-9-install.jpg"
+    src: "figures/cmyk/lyall-fig-9.jpg"
     label: "Fig. 9"
     credit: "*Rocky Mountain News* photo by Mel Schieltz. Courtesy of Colorado Historic Newspapers Collection Archive."
     caption: "The ski ramp built at May D&F plaza in downtown Denver, November 10, 1964."

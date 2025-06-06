@@ -49,3 +49,5 @@ thumbs.db
 # Editors and other
 .vscode
 
+# Ignore some PDF output
+prince.pdf

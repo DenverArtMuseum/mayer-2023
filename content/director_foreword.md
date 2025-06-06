@@ -7,7 +7,7 @@ contributor:
   - id: cheinrich
 byline_format: name-title
 classes:
-  - print-foreward-page
+  - print-foreword-page
   - frontmatter
 ---
 

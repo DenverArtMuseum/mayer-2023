@@ -423,6 +423,24 @@ $root_path: "/";
 
 
 @media print {
+  .dam-force-break {
+    break-before: always;
+  }
+  .force-column-break {
+    break-before: column;
+  }
+  .avoid-column-break {
+    break-inside:avoid-column;
+  }
+  .never-balance-columns {
+    column-fill: auto !important;
+    break-inside: avoid;
+
+    &.well-maybe-sometimes {
+      break-inside:auto;
+    }
+  }
+
   .title-page {
     .title {
       .pdf-title-page-subtitle {
@@ -437,6 +455,146 @@ $root_path: "/";
     .quire-essay &, .quire-entry &, .quire-splash & {
       // Quire's default use of balance seems fundamentally wrong.
       column-fill: auto;
+    }
+  }
+
+  /* Attempt to Fix top alignment of figures */
+  .q-figure:not(.q-figure--group__item) {
+    padding-top: 0;
+  }
+
+  #rosoff-fig-12 {
+    column-span: all;
+  }
+
+  .q-figure--group:has(#pillsbury-fig-17) {
+    margin: 0 !important;
+  }
+
+  #pillsbury-fig-19 {
+    margin:0 !important;
+  }
+
+  .pillsbury-fig-clear {
+    margin:-.5em 0;
+  }
+
+  #page-pillsbury-fn51 {
+    break-inside: avoid-page;
+  }
+
+  .bergh-header-1 {
+    column-span: all;
+  }
+
+  #bergh-fig-1 {
+    margin-bottom: .8125em !important;
+  }
+
+  #bergh-fig-5 {
+    column-span: all;
+  }
+
+  .q-figure--group:has(#bergh-fig-6) {
+    margin-bottom: 11em;
+  }
+
+  .q-figure--group:has(#bergh-fig-8) {
+    margin-bottom: 0 !important;
+  }
+
+  #bergh-header-2 {
+    padding-top: .5625em !important;
+  }
+  #bergh-fig-17 {
+    margin-bottom: 0 !important;
+  }
+
+  #pope-fig-4 {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  .q-figure--group:has(#pope-fig-16) {
+    margin-bottom: 1em !important;
+  }
+  .q-figure--group:has(#pope-fig-19) {
+    margin-bottom: 1em !important;
+  }
+
+  #robb-fig-2 {
+    margin-top: 3em;
+  }
+
+  #lyall-fig-1 {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+  }
+  #lyall-fig-9 {
+    margin-bottom: 1.5em;
+  }
+  #lyall-fig-12 {
+    margin-bottom: 1.25em;
+  }
+  #lyall-fig-13 {
+    margin-bottom: 2.875em;
+  }
+  #lyall-fig-14 {
+    margin-bottom: 1.25em;
+  }
+  p:has(+ #lyall-fig-15) {
+    margin-bottom: 0;
+  }
+
+  #driggers-fig-4 img {
+    height: 85vh;
+  }
+  #driggers-fig-6 {
+    margin-top:0;
+  }
+
+  .quire-page__content.appendix-page {
+    column-fill: auto !important;
+  }
+  .appendix-header {
+    break-before: page;
+  }
+  .colspan {
+    &#miller-fig-1 {
+      column-span:all !important;
+      img {
+        height: 85vh;
+        width: auto;
+      }
+    }
+    &#miller-fig-2 {
+      column-span: all;
+      img {
+        height: 85vh;
+        width: auto;
+      }
+    }
+    &#miller-fig-3 {
+      column-span: all;
+      img {
+        height: 85vh;
+        width: auto;
+      }
+    }
+    &#miller-fig-4 {
+      column-span: all;
+      img {
+        height: 85vh;
+        width: auto;
+      }
+    }
+    &#miller-fig-5 {
+      column-span: all;
+    }
+    &#miller-fig-6 {
+      column-span: all;
+    }
+    &#miller-fig-7 {
+      column-span: all;
     }
   }
 
@@ -465,11 +623,47 @@ $root_path: "/";
       }
     }
   }
-  .print-foreward-page {
+  /* Page numbering fix so we can insert blank color pages without
+  ** breaking ToC, AND so we can have differently numbered frontmatter
+  ** This is a brute-force solution to the problem of Prince (and probably
+  ** everything else) collapsing adjacent page breaks when those page
+  ** breaks are created using break-before or break-after.
+  **
+  ** I get why the spec works this way, but it really causes some
+  ** headaches. The only real way to fix it would be to create a blank
+  ** content element before the header of every essay and
+  ** break-before: left on that element. That would require editing
+  ** templates and potentially messing with online and ePub styles.
+  ** A project for the next publication perhaps.
+  ************************************************************************/
+  // Front matter
+  .print-foreword-page {
     counter-reset: page 7;
   }
+  // Brute-force page renumbering so I can insert blank pages manually later
   .print-first-page {
     counter-reset: page 1;
+  }
+  .essay-rosoff {
+    counter-reset: page 17;
+  }
+  .essay-hoobler {
+    counter-reset: page 51;
+  }
+  .essay-bergh {
+    counter-reset: page 67;
+  }
+  .essay-pope {
+    counter-reset: page 85;
+  }
+  .essay-robb {
+    counter-reset: page 103;
+  }
+  .essay-lyall {
+    counter-reset: page 131;
+  }
+  .essay-driggers {
+    counter-reset: page 147;
   }
 
   .quire-page.quire-contents {
@@ -540,7 +734,7 @@ $root_path: "/";
                   }
                 }
 
-                &:first-child, &:nth-child(2) {
+                &:first-child {
                   & > a::after {
                     content: target-counter(attr(href, url), page, lower-roman); 
                     font-style: italic;
@@ -555,15 +749,30 @@ $root_path: "/";
     }
   }
 
+  #cheinrich {
+    color:transparent;
+    .quire-contributor__name, .quire-contributor__title,
+    .quire-contributor__affiliation {
+      color: $print-text-color;
+      display:block !important;
+      margin: -1.4em 0 0;
+    }
+  }
+
   .q-figure.q-figure--group {
     column-span: all;
   }
 
   section.footnotes.littlefoot--print {
     break-after: page;
+
+    li.footnote-item.littlefoot--print p {
+      break-inside: avoid;
+      orphans: 4;
+      widows: 4;
+    }
   }
   .quire-essay {
-    break-before:page;
     .quire-page__header {
       &.hero {
         break-before: right;
@@ -575,6 +784,13 @@ $root_path: "/";
           .quire-page__header__title {
             color: $main-aqua;
           }
+        }
+      }
+    }
+    &.break-left {
+      .quire-page__header {
+        &.hero {
+          break-before: left;
         }
       }
     }
