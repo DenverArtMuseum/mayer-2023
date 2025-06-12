@@ -37,6 +37,8 @@ Library of Congress Control Number: 2025937624
 Managing Editor and project manager: Valerie Hellstein
 Editor: Leslie Murrell
 Curatorial Assistant: Paula Contreras
+Developer: Matt Popke
+Design: Tasso Stathopulos
 
 The manufacturer’s authorized representative in the EU for product safety is Mare Nostrum Group B.V., Mauritskade 21D, 1091 GC Amsterdam, The Netherlands, email: gpsr@mare-nostrum.co.uk
 
