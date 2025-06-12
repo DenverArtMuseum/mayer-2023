@@ -9,6 +9,8 @@
 $root_path: "/";
 //$root_path: "/mayer-2023/"; // Github pages path only
 
+
+
 /* Cover page
  * TODO: Title responsiveness
  ************************************************************************/
@@ -284,6 +286,12 @@ $root_path: "/";
     .page-item {
       line-height: 1.4;
       
+    }
+  }
+
+  .quire-copyright {
+    .is-screen-only {
+      display: none;
     }
   }
 }

@@ -35,5 +35,7 @@ Library of Congress Control Number: 2025937624
 Managing Editor and project manager: Valerie Hellstein
 Editor: Leslie Murrell
 Curatorial Assistant: Paula Contreras
+Developer: Matt Popke
+Design: Tasso Stathopulos
 
 Cover image: Miguel Covarrubias, *Art Forms of the Pacific* (Pageant of the Pacific series), 1940. Print reproduction, 16 × 24 in. The Frederick R. Mayer Library at the Denver Art Museum. © María Elena Rico Covarrubias. Photography courtesy of the Denver Art Museum. 

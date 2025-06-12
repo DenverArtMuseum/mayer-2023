@@ -8,7 +8,7 @@ contributor:
 byline_format: name
 ---
 
->“Comparatively few art museums are so fortunate as to be regarded as ministering in a real way to the requirement of their communities, and yet, under the conditions of modern life, it is only upon these terms that an art museum can, in the long run, justify its existence.”—*George Eggers, Denver Art Museum director (1921–26)*
+>Comparatively few art museums are so fortunate as to be regarded as ministering in a real way to the requirement of their communities, and yet, under the conditions of modern life, it is only upon these terms that an art museum can, in the long run, justify its existence.—*George Eggers, Denver Art Museum director (1921–26)*
 
 The Denver Art Museum (DAM) came into being decades after The Metropolitan Museum of Art, the Museum of Fine Arts, Boston, and the Art Institute of Chicago. First founded as the Denver Artists’ Club, it would become the Denver Artists Association in 1893, a scant seventeen years after the Colorado territory had become a state. A place to “cultivate a general interest and promotion of the arts,” the museum was powered by volunteers who imbued it with an independent spirit it retains today.[^1]
 

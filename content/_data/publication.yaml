@@ -133,9 +133,9 @@ contributor:
 copyright: © 2025 Denver Art Museum
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: All rights reserved
+  abbreviation: ©
+  url: https://denverartmuseum.org/en/publications
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------

@@ -161,12 +161,14 @@ sub {
   }
 }
 
-.is-pulled-right {
-  float: right;
-}
+@include tablet {
+  .is-pulled-right {
+    float: right;
+  }
 
-.is-pulled-left {
-  float: left;
+  .is-pulled-left {
+    float: left;
+  }
 }
 
 .overflow-container {
