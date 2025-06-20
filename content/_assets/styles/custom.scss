@@ -488,7 +488,7 @@ $root_path: "/";
   }
 
   .bergh-header-1 {
-    column-span: all;
+    //column-span: all;
   }
 
   #bergh-fig-1 {
@@ -741,7 +741,7 @@ $root_path: "/";
                 &:first-child {
                   & > a::after {
                     content: target-counter(attr(href, url), page, lower-roman); 
-                    font-style: italic;
+                    font-style: normal;
                   }
                 }
                 

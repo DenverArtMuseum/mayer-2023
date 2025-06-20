@@ -32,7 +32,7 @@ figure_list:
     src: "figures/cmyk/rosoff-fig-6.jpg"
     label: "Fig. 6"
     credit: "Brooklyn Museum, Frank Sherman Benson Fund and the Henry L. Batterman Fund, 37.2904PA."
-    caption: "Rattle of a Priestess or Woman Impersonating a Deity, Campeche, Mexico, 500–850. Ceramic, 6 × 2⅝ × 1⅝ in.  (15.2 × 6.7 × 4.1 cm)."
+    caption: "Rattle of a Priestess or Woman Impersonating a Deity, Campeche, Mexico, 500–850. Ceramic,<br>6 × 2⅝ × 1⅝ in.  (15.2 × 6.7 × 4.1 cm)."
   
   - id: rosoff-fig-7
     src: "figures/cmyk/rosoff-fig-7.jpg"
@@ -62,7 +62,7 @@ figure_list:
     src: "figures/cmyk/rosoff-fig-11.jpg"
     label: "Fig. 11"
     credit: "Brooklyn Museum, Alfred  W. Jenkins Fund, 34.5084."
-    caption: "Central Caribbean Human Figure Wearing Crocodile Mask, Jiménez River near site of Las Mercedes, Costa Rica, 700–1000. Vesicular andesite, 61 × 24½ × 20 in., 631 lb. (154.9 × 62.2 × 50.8 cm)."
+    caption: "Central Caribbean Human Figure Wearing Crocodile Mask, Jiménez River near site of Las Mercedes, Costa Rica, 700–1000. Vesicular andesite,<br>61 × 24½ × 20 in., 631 lb. (154.9 × 62.2 × 50.8 cm)."
   
   - id: rosoff-fig-12
     src: "figures/cmyk/rosoff-fig-12.jpg"
@@ -459,7 +459,7 @@ figure_list:
     src: "figures/cmyk/driggers-fig-5.jpg"
     label: "Fig. 5"
     credit: "Collection of the Tucson Museum of Art: Gift of Frederick R. Pleasants, 1971.28."
-    caption: "Veracruz artist(s), Palma, Mexico, 700–800 CE. Volcanic stone (basalt), 14⅝ × 10 × 6 in. (37.1 × 25.4 × 15.2 cm)."
+    caption: "Veracruz artist(s), Palma, Mexico, 700–800 CE. Volcanic stone (basalt), 14⅝ × 10 × 6 in.<br>(37.1 × 25.4 × 15.2 cm)."
     alt: A tan stone sculpture shaped to protect the sternum. It is narrow at the base and expands into five separate points at the top, somewhat resembling the petals of a flower. The surface is carved with decorative details,  including a facial motif at the base.
   
   - id: driggers-fig-6

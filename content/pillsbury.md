@@ -16,7 +16,7 @@ classes:
 >
 > Avoiding the popular “Wolfe collection,” whose anecdotic canvases filled one of the main galleries of the queer wilderness of cast-iron and encaustic tiles known as the Metropolitan Museum, they had wandered down a passage to the room where the “Cesnola antiquities” mouldered in unvisited loneliness.
 >
-> They had this melancholy retreat to themselves, and seated on the divan enclosing the central steam-radiator, they were staring silently at the glass cabinets mounted in ebonized wood. . . .
+> They had this melancholy retreat to themselves, and seated on the divan enclosing the central steam-radiator, they were staring silently at the glass cabinets mounted in ebonized<br>wood. . . .
 >
 > “It’s odd,” Madame Olenska said, “I never came here before.”
 >

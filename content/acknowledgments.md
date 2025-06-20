@@ -4,8 +4,8 @@ short_title: " "
 layout: essay
 order: 80
 contributor:
-  - id: vlyall
-  - id: ehoobler
+  - full_name: Victoria Isabel Lyall
+  - full_name: Ellen Hoobler
 byline_format: name
 ---
 

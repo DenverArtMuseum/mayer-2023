@@ -118,10 +118,6 @@ Mitchell then threw a dinner party at Lüchow’s, his famous New York establish
 
 The letter concludes with Earl’s travel schedule for the next ten days or so in Europe and a request to Enid to ship Los Angeles inventory on to New York.
 
-<div class="dam-force-break">&nbsp;</div>
-
-{% figure 'miller-fig-6', 'is-pulled-left' %} 
-
 ## Earl Stendahl, from his travels to Los Angeles, to his son, Al Stendahl, and son-in-law, Joe Dammann, February 22, 1965
 
 >Dear Al & Joe – 
@@ -140,15 +136,17 @@ A few months after his letter to Enid, in early 1965, Earl took a trip to Minnea
 
 In Minneapolis, Earl met with Samuel Sachs II (b. 1935), the deputy director, later to be director, at the Detroit Institute of Art (and then briefly at the Frick Collection), and was able to propose numerous sales. In Chicago, he visited more clientele: Raymond Wielgus (1920–2010), whose collection is now in the Eskenazi Museum at Indiana University, and the Art Institute of Chicago, where Alan Wardwell (1935–1999) was the first Curator of Primitive Art.[^17] In Detroit, Earl worked with curator Francis Robinson, selling Amlash works that the SAG purchased during the European tour. But the expensive object on offer in 1965 was a “Maya stone,” optioned for \$35,000, then reduced to \$28,000, which Earl indicated would be offered to Minnesota if Detroit took a pass. Detroit did pass; it is possible that the monument Earl
 
+{% figure 'miller-fig-6', 'is-pulled-left' %} 
+
 referred to is [Stela 2 from Piedras Negras](https://collections.artsmia.org/art/8545/stela-fragment-maya), now at the Minneapolis Museum of Art.[^18]
 
 Back in New York, Jan Mitchell was considered “hot” by the SAG, which is to say “ready to spend money.” A paragraph below, Mr. and Mrs. Noah Torno of Toronto are also “hot,” and elsewhere in the letters and invoices, they are serious shoppers. The Cohens, Dr. Sackler, “Cleveland,” Jay Leff—Earl stayed on top of potential buyers, and by spelling them out in this letter, he reminded Al and Joe to do the same.
 
 There was news for Earl to share as well: Another client Nasli Heeramaneck (1902–1971) had had a stroke. And then Earl waffled on shipping an object to a potential buyer, given its condition and worried that, if the client actually saw the work, the sale would fall through.
 
-## Enid, in New York, to the family, in Los Angeles, December 1965
-
 {% figure 'miller-fig-7', 'is-pulled-left' %} 
+
+## Enid, in New York, to the family, in Los Angeles, December 1965
 
 >Dear Relatives-
 
