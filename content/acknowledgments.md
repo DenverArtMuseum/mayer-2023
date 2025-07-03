@@ -5,9 +5,9 @@ layout: essay
 order: 80
 contributor:
   - full_name: Victoria Isabel Lyall
-    sort_as: 1
+    sort_as: "1"
   - full_name: Ellen Hoobler
-    sort_as: 2
+    sort_as: "2"
 byline_format: name
 ---
 
