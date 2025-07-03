@@ -4,8 +4,10 @@ subtitle:
 layout: essay
 order: 8 
 contributor:
-  - id: vlyall
-  - id: ehoobler
+  - full_name: Victoria Isabel Lyall
+    sort_as: 1
+  - full_name: Ellen Hoobler
+    sort_as: 2
 byline_format: name
 ---
 
